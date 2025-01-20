@@ -1,120 +1,78 @@
 <?xml version="1.0" ?>
-<yml_catalog date="2025-01-20T08:03:26.376007+00:00">
+<yml_catalog date="2025-01-20T10:18:27.380819+00:00">
   <shop>
     <offers>
-      <offer id="1393642">
-        <barcode>2900013936427</barcode>
+      <offer id="1793850">
+        <barcode>9785906866851</barcode>
       </offer>
-      <offer id="1552115">
-        <barcode>2900015521157</barcode>
+      <offer id="2393960">
+        <barcode>2900023939609</barcode>
       </offer>
-      <offer id="3794469">
-        <barcode>2900037944699</barcode>
+      <offer id="4361140">
+        <barcode>2900043611400</barcode>
       </offer>
-      <offer id="4298795">
-        <barcode>2900042987957</barcode>
+      <offer id="5177634">
+        <barcode>6900051776340</barcode>
       </offer>
-      <offer id="4353591">
-        <barcode>2900043535911</barcode>
+      <offer id="5189852">
+        <barcode>2900051898527</barcode>
       </offer>
-      <offer id="4566162">
-        <barcode>2900045661625</barcode>
+      <offer id="5800979">
+        <barcode>2900058009797</barcode>
       </offer>
-      <offer id="4775234">
-        <barcode>2900047752345</barcode>
+      <offer id="7061426">
+        <barcode>6900070614265</barcode>
       </offer>
-      <offer id="4973115">
-        <barcode>6900049731153</barcode>
+      <offer id="7761118">
+        <barcode>6900077611182</barcode>
       </offer>
-      <offer id="5084667">
-        <barcode>2900050846673</barcode>
+      <offer id="7883757">
+        <barcode>6900078837574</barcode>
       </offer>
-      <offer id="5121132">
-        <barcode>9785001454175</barcode>
+      <offer id="7912037">
+        <barcode>2900079120372</barcode>
       </offer>
-      <offer id="6912354">
-        <barcode>4606088040943</barcode>
+      <offer id="9459104">
+        <barcode>9785001926412</barcode>
       </offer>
-      <offer id="6961139">
-        <barcode>2900069611392</barcode>
+      <offer id="9493011">
+        <barcode>9785001926627</barcode>
       </offer>
-      <offer id="7336807">
-        <barcode>9785001459330</barcode>
+      <offer id="10083672">
+        <barcode>2900100836722</barcode>
       </offer>
-      <offer id="7414484">
-        <barcode>2900074144847</barcode>
+      <offer id="10175411">
+        <barcode>2900101754117</barcode>
       </offer>
-      <offer id="7491414">
-        <barcode>6900074914149</barcode>
+      <offer id="10326639">
+        <barcode>2900103266397</barcode>
       </offer>
-      <offer id="7755671">
-        <barcode>6900077556711</barcode>
+      <offer id="10361243">
+        <barcode>6900103612435</barcode>
       </offer>
-      <offer id="7856623">
-        <barcode>6900078566238</barcode>
-      </offer>
-      <offer id="7893688">
-        <barcode>6900078936888</barcode>
-      </offer>
-      <offer id="9019540">
-        <barcode>6900080195402</barcode>
-      </offer>
-      <offer id="9304591">
-        <barcode>6900093045916</barcode>
-      </offer>
-      <offer id="9319940">
-        <barcode>9785001925521</barcode>
-      </offer>
-      <offer id="9354630">
-        <barcode>9785001925606</barcode>
-      </offer>
-      <offer id="9470897">
-        <barcode>2900094708975</barcode>
-      </offer>
-      <offer id="9867587">
-        <barcode>6909867587003</barcode>
-      </offer>
-      <offer id="9914882">
-        <barcode>2900099148820</barcode>
-      </offer>
-      <offer id="9919113">
-        <barcode>2900099191130</barcode>
-      </offer>
-      <offer id="10052519">
-        <barcode>6900100525196</barcode>
-      </offer>
-      <offer id="10265832">
-        <barcode>2900102658322</barcode>
-      </offer>
-      <offer id="10278407">
-        <barcode>2900102784076</barcode>
-      </offer>
-      <offer id="10486138">
-        <barcode>9785002324347</barcode>
-      </offer>
-      <offer id="10502142">
-        <barcode>2900105021420</barcode>
-      </offer>
-      <offer id="10502149">
-        <barcode>2900105021499</barcode>
-      </offer>
-      <offer id="10528132">
-        <barcode>6900105281325</barcode>
+      <offer id="10430342">
+        <barcode>2900104303428</barcode>
       </offer>
       <offer id="10534473">
         <barcode>2900105344734</barcode>
       </offer>
-      <offer id="10619398">
-        <barcode>2900106193980</barcode>
-      </offer>
-      <offer id="10643284">
-        <barcode>2900106432843</barcode>
-      </offer>
-      <offer id="10692135">
-        <barcode>2900106921354</barcode>
+      <offer id="10728204">
+        <barcode>2900107282041</barcode>
       </offer>
       <offer id="1115978">
         <barcode>2900011159781</barcode>
+      </offer>
+      <offer id="4475877">
+        <barcode>2900044758777</barcode>
+      </offer>
+      <offer id="7795352">
+        <barcode>2900077953521</barcode>
+      </offer>
+      <offer id="10535089">
+        <barcode>2900105350896</barcode>
+      </offer>
+      <offer id="10671079">
+        <barcode>2900106710798</barcode>
       </offer>
     </offers>
   </shop>
