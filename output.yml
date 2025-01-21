@@ -1,110 +1,258 @@
 <?xml version="1.0" ?>
-<yml_catalog date="2025-01-21T04:59:32.472006+00:00">
+<yml_catalog date="2025-01-21T08:53:54.240753+00:00">
   <shop>
     <offers>
-      <offer id="3418927">
-        <name>Бумага упаковочная глянец "Камуфляж" 100*70 см 3418927</name>
-        <barcode>6900034189273</barcode>
+      <offer id="3418927.0">
+        <barcode>6900034189273.0</barcode>
       </offer>
-      <offer id="3548662">
-        <name>Набор для шитья куклы «Питер», 30 см   3548662</name>
-        <barcode>6900035486623</barcode>
+      <offer id="3548662.0">
+        <barcode>6900035486623.0</barcode>
       </offer>
-      <offer id="3720599">
-        <name>Триммер Luazon LEP-08, для тела/лица, 2 насадки, 1хAA (не в комплекте), бело-розовый 3720599   </name>
-        <barcode>2900037205998</barcode>
+      <offer id="3720599.0">
+        <barcode>2900037205998.0</barcode>
       </offer>
-      <offer id="2393961">
-        <name>Набор маркеров для доски 3мм на блистере 4 штуки-4 цвета 2393961                                    </name>
-        <barcode>2900023939616</barcode>
+      <offer id="2393961.0">
+        <barcode>2900023939616.0</barcode>
       </offer>
-      <offer id="4170822">
-        <name>Детская энциклопедия в твёрдом переплёте "Удивительные динозавры"   4170822</name>
-        <barcode>9785001247944</barcode>
+      <offer id="4170822.0">
+        <barcode>9785001247944.0</barcode>
       </offer>
-      <offer id="4449935">
-        <name>Набор многоразовых прописей с маркером 2 шт "Пиши- стирай. Пишем буквы и цифры" 12 стр   4449935</name>
-        <barcode>2900044499359</barcode>
+      <offer id="4449935.0">
+        <barcode>2900044499359.0</barcode>
       </offer>
-      <offer id="4572096">
-        <name>Бумага упаковочная глянцевая «С Днём Рождения!», 70 × 100 см 4572096</name>
-        <barcode>6900045720960</barcode>
+      <offer id="4572096.0">
+        <barcode>6900045720960.0</barcode>
       </offer>
-      <offer id="4967052">
-        <name>Игровой набор "Блендер Минни" со звуковыми и световыми эффектами, Минни Маус SL-03882   4967052     </name>
-        <barcode>6900049670520</barcode>
+      <offer id="4967052.0">
+        <barcode>6900049670520.0</barcode>
       </offer>
-      <offer id="5053066">
-        <name>Набор д/хран мелочей 56яч (14блок по 4секц) в конт 21*17,5*2,7см разноцвет пакет накл QF 5053066</name>
-        <barcode>2900050530664</barcode>
+      <offer id="5053066.0">
+        <barcode>2900050530664.0</barcode>
       </offer>
-      <offer id="5302625">
-        <name>Мягкий пазл для малышей «Пирамидка: Изучаем времена года», 9 деталей, Крошка Я 5302625</name>
-        <barcode>2900053026256</barcode>
+      <offer id="5302625.0">
+        <barcode>2900053026256.0</barcode>
       </offer>
-      <offer id="7441522">
-        <name>Набор для шитья куклы «Аврил», 43 см   7441522</name>
-        <barcode>2900074415220</barcode>
+      <offer id="7441522.0">
+        <barcode>2900074415220.0</barcode>
       </offer>
-      <offer id="7820373">
-        <name>UNICON Конструктор "Новогодние истории", 130 деталей Елка   7820373      </name>
-        <barcode>6900078203737</barcode>
+      <offer id="7820373.0">
+        <barcode>6900078203737.0</barcode>
       </offer>
-      <offer id="7841585">
-        <name>Кусачки для кутикулы пластик ручка 1 пружина 10см(10мм) чёрн блистер QF 7841585      </name>
-        <barcode>2900078415851</barcode>
+      <offer id="7841585.0">
+        <barcode>2900078415851.0</barcode>
       </offer>
-      <offer id="7980584">
-        <name>Набор для создания полигональной фигуры «Машина», 32,5 х 44 см 7980584</name>
-        <barcode>6900079805848</barcode>
+      <offer id="7980584.0">
+        <barcode>6900079805848.0</barcode>
       </offer>
-      <offer id="9216304">
-        <name>Мочалка в форме мужского достоинства "Горячей цыпочке", 18+   9216304   </name>
-        <barcode>2900092163042</barcode>
+      <offer id="9216304.0">
+        <barcode>2900092163042.0</barcode>
       </offer>
-      <offer id="9304579">
-        <name>Бумага упаковочная глянцевая двухсторонняя «Любовь это...», 70 × 100 см 9304579</name>
-        <barcode>6900093045794</barcode>
+      <offer id="9304579.0">
+        <barcode>6900093045794.0</barcode>
       </offer>
-      <offer id="9314130">
-        <name>Книга с наклейками "Модные девчонки. Создай стильные образы"   9314130</name>
-        <barcode>9785001925491</barcode>
+      <offer id="9314130.0">
+        <barcode>9785001925491.0</barcode>
       </offer>
-      <offer id="9642138">
-        <name>UNICON Конструктор полигональный "Дракон", 151 деталь   9642138   </name>
-        <barcode>2900096421384</barcode>
+      <offer id="9642138.0">
+        <barcode>2900096421384.0</barcode>
       </offer>
-      <offer id="10107853">
-        <name>Набор бомбочек для ванны "От всего сердца", 5 шт по 30 гр, аромат бабл-гам 18+ 10107853</name>
-        <barcode>6900101078530</barcode>
+      <offer id="10107853.0">
+        <barcode>6900101078530.0</barcode>
       </offer>
-      <offer id="10166469">
-        <name>Бумага упаковочная крафтовая «Газета», 70 × 100 см 10166469</name>
-        <barcode>6900101664696</barcode>
+      <offer id="10166469.0">
+        <barcode>6900101664696.0</barcode>
       </offer>
-      <offer id="10662658">
-        <name>Органайзер д/хранения с крышк 4секц 12*9*4,5см прозрач безл пакет накл QF   10662658</name>
-        <barcode>2900106626587</barcode>
+      <offer id="10662658.0">
+        <barcode>2900106626587.0</barcode>
       </offer>
-      <offer id="10745829">
-        <name>Гель для душа "Ветивер и бергамот", 300 мл   10745829</name>
-        <barcode>6900107458299</barcode>
+      <offer id="10745829.0">
+        <barcode>6900107458299.0</barcode>
       </offer>
-      <offer id="427248">
-        <name>Кусачки для кутикулы 1 пружина 9,5см(9мм) серебр пакет QF 427248                              </name>
-        <barcode>2904272480004</barcode>
+      <offer id="427248.0">
+        <barcode>2904272480004.0</barcode>
       </offer>
-      <offer id="849078">
-        <name>Игра карточная «Пьяные фанты», 30 карт, 18+ 849078</name>
-        <barcode>2908490780007</barcode>
+      <offer id="849078.0">
+        <barcode>2908490780007.0</barcode>
       </offer>
-      <offer id="107701">
-        <name>колокольчики защита от сглаза на подвеске 107701                              </name>
-        <barcode>2901077010009</barcode>
+      <offer id="107701.0">
+        <barcode>2901077010009.0</barcode>
       </offer>
-      <offer id="5060774">
-        <name>УЦЕНКА Мармелад "Это просто мармелад", 4 шт   5060774</name>
-        <barcode>2900050607748</barcode>
+      <offer id="5060774.0">
+        <barcode>2900050607748.0</barcode>
+      </offer>
+      <offer id="2490714.0">
+        <barcode>2900024907140.0</barcode>
+      </offer>
+      <offer id="2634035.0">
+        <barcode>2900026340358.0</barcode>
+      </offer>
+      <offer id="2933552.0">
+        <barcode>6900029335524.0</barcode>
+      </offer>
+      <offer id="1552114.0">
+        <barcode>2900015521140.0</barcode>
+      </offer>
+      <offer id="3479535.0">
+        <barcode>2900034795355.0</barcode>
+      </offer>
+      <offer id="1840902.0">
+        <barcode>2900018409025.0</barcode>
+      </offer>
+      <offer id="5084652.0">
+        <barcode>2900050846529.0</barcode>
+      </offer>
+      <offer id="5084672.0">
+        <barcode>2900050846727.0</barcode>
+      </offer>
+      <offer id="5398214.0">
+        <barcode>2900053982149.0</barcode>
+      </offer>
+      <offer id="5430524.0">
+        <barcode>2900054305244.0</barcode>
+      </offer>
+      <offer id="7004740.0">
+        <barcode>6900070047407.0</barcode>
+      </offer>
+      <offer id="7010902.0">
+        <barcode>2900070109024.0</barcode>
+      </offer>
+      <offer id="7074739.0">
+        <barcode>6900070747390.0</barcode>
+      </offer>
+      <offer id="7166012.0">
+        <barcode>6900071660124.0</barcode>
+      </offer>
+      <offer id="7361362.0">
+        <barcode>2900073613627.0</barcode>
+      </offer>
+      <offer id="7984242.0">
+        <barcode>6900079842423.0</barcode>
+      </offer>
+      <offer id="9443136.0">
+        <barcode>6900094431367.0</barcode>
+      </offer>
+      <offer id="9809026.0">
+        <barcode>9785001928379.0</barcode>
+      </offer>
+      <offer id="9913901.0">
+        <barcode>2900099139019.0</barcode>
+      </offer>
+      <offer id="10125228.0">
+        <barcode>2900101252286.0</barcode>
+      </offer>
+      <offer id="10136507.0">
+        <barcode>9785002321377.0</barcode>
+      </offer>
+      <offer id="10175411.0">
+        <barcode>2900101754117.0</barcode>
+      </offer>
+      <offer id="10259146.0">
+        <barcode>6900102591465.0</barcode>
+      </offer>
+      <offer id="10334533.0">
+        <barcode>2900103345337.0</barcode>
+      </offer>
+      <offer id="10473586.0">
+        <barcode>9785002324200.0</barcode>
+      </offer>
+      <offer id="10524326.0">
+        <barcode>2900105243266.0</barcode>
+      </offer>
+      <offer id="10534473.0">
+        <barcode>2900105344734.0</barcode>
+      </offer>
+      <offer id="10631775.0">
+        <barcode>2900106317751.0</barcode>
+      </offer>
+      <offer id="10654242.0">
+        <barcode>2900106542429.0</barcode>
+      </offer>
+      <offer id="589775.0">
+        <barcode>2905897750008.0</barcode>
+      </offer>
+      <offer id="1115978.0">
+        <barcode>2900011159781.0</barcode>
+      </offer>
+      <offer id="7916156.0">
+        <barcode>2900079161566.0</barcode>
+      </offer>
+      <offer id="nan">
+        <barcode>nan</barcode>
+      </offer>
+      <offer id="1202900.0">
+        <barcode>6900012029003.0</barcode>
+      </offer>
+      <offer id="3530683.0">
+        <barcode>2900035306833.0</barcode>
+      </offer>
+      <offer id="5404073.0">
+        <barcode>9785001456322.0</barcode>
+      </offer>
+      <offer id="7322516.0">
+        <barcode>2900073225165.0</barcode>
+      </offer>
+      <offer id="7336803.0">
+        <barcode>9785001459422.0</barcode>
+      </offer>
+      <offer id="7893688.0">
+        <barcode>6900078936888.0</barcode>
+      </offer>
+      <offer id="7909485.0">
+        <barcode>6900079094853.0</barcode>
+      </offer>
+      <offer id="9096376.0">
+        <barcode>4630061905950.0</barcode>
+      </offer>
+      <offer id="9304595.0">
+        <barcode>6900093045954.0</barcode>
+      </offer>
+      <offer id="9488406.0">
+        <barcode>9785001926658.0</barcode>
+      </offer>
+      <offer id="9495535.0">
+        <barcode>9785001926634.0</barcode>
+      </offer>
+      <offer id="9546428.0">
+        <barcode>2900095464283.0</barcode>
+      </offer>
+      <offer id="10002025.0">
+        <barcode>6900100020257.0</barcode>
+      </offer>
+      <offer id="10070984.0">
+        <barcode>6900100709848.0</barcode>
+      </offer>
+      <offer id="10175167.0">
+        <barcode>6900101751679.0</barcode>
+      </offer>
+      <offer id="10383559.0">
+        <barcode>6900103835599.0</barcode>
+      </offer>
+      <offer id="10390114.0">
+        <barcode>6900103901140.0</barcode>
+      </offer>
+      <offer id="10404974.0">
+        <barcode>2900104049746.0</barcode>
+      </offer>
+      <offer id="10405141.0">
+        <barcode>6900104051417.0</barcode>
+      </offer>
+      <offer id="10424112.0">
+        <barcode>2900104241126.0</barcode>
+      </offer>
+      <offer id="10518944.0">
+        <barcode>2900105189441.0</barcode>
+      </offer>
+      <offer id="10538152.0">
+        <barcode>2900105381524.0</barcode>
+      </offer>
+      <offer id="10745826.0">
+        <barcode>6900107458268.0</barcode>
+      </offer>
+      <offer id="3851166.0">
+        <barcode>6900038511667.0</barcode>
+      </offer>
+      <offer id="5060780.0">
+        <barcode>2900050607809.0</barcode>
       </offer>
     </offers>
   </shop>
