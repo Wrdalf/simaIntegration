@@ -1,190 +1,162 @@
 <?xml version="1.0" ?>
-<yml_catalog date="2025-01-23T07:36:30.831456+00:00">
+<yml_catalog date="2025-01-24T07:10:05.696180+00:00">
   <shop>
     <offers>
-      <offer id="2969463">
-        <name>Набор для шитья игрушки-малютки  «Лисичка Голди», 15 см 2969463</name>
-        <barcode>2900029694632</barcode>
+      <offer id="1167433">
+        <barcode>2900011674338</barcode>
       </offer>
-      <offer id="3462336">
-        <name>Настольный хоккей "Советский", №SL-01614 3462336                              </name>
-        <barcode>6900034623364</barcode>
+      <offer id="1403928">
+        <barcode>2900014039288</barcode>
       </offer>
-      <offer id="3572054">
-        <name>Набор кондитерский 10 предметов: 8 насадок d=3,5 см, 2 адаптера 3572054                  </name>
-        <barcode>2900035720547</barcode>
+      <offer id="1435845">
+        <barcode>2900014358457</barcode>
       </offer>
-      <offer id="3815387">
-        <name>Свидетельство о рождении для мальчика "Мишка", 32 х 22,3 см   3815387</name>
-        <barcode>6900038153874</barcode>
+      <offer id="2688062">
+        <barcode>2900026880625</barcode>
       </offer>
-      <offer id="2393961">
-        <name>Набор маркеров для доски 3мм на блистере 4 штуки-4 цвета 2393961                                    </name>
-        <barcode>2900023939616</barcode>
+      <offer id="3247075">
+        <barcode>6900032470755</barcode>
       </offer>
-      <offer id="4554340">
-        <name>Набор насадок для аппаратного педикюра 50(±3)шт абр 180 пакет QF 4554340                          </name>
-        <barcode>2900045543402</barcode>
+      <offer id="3418927">
+        <barcode>6900034189273</barcode>
       </offer>
-      <offer id="4619032">
-        <name>Форма для леденцов Доляна "Сладость" 15x15x1,5 см, 8 ячеек, цвет бирюзовый 4619032   </name>
-        <barcode>2900046190322</barcode>
+      <offer id="3579179">
+        <barcode>2900035791790</barcode>
       </offer>
-      <offer id="5299246">
-        <name>Анкета на замочке, в твердой обложке А6, 40 листов "Анкета енотик"  5299246</name>
-        <barcode>2900052992460</barcode>
+      <offer id="3723782">
+        <barcode>2900037237821</barcode>
       </offer>
-      <offer id="5352365">
-        <name>IQ-игра с прищепками "Вредное и полезное"   5352365            </name>
-        <barcode>2900053523656</barcode>
+      <offer id="3727359">
+        <barcode>2900037273591</barcode>
       </offer>
-      <offer id="5362311">
-        <name>Развивающая игра - домино "Пазлы - читазлы. Животные", 4+   5362311</name>
-        <barcode>6900053623116</barcode>
+      <offer id="4027608">
+        <barcode>2900040276084</barcode>
+      </offer>
+      <offer id="2385999">
+        <barcode>2900023859990</barcode>
+      </offer>
+      <offer id="2393960">
+        <barcode>2900023939609</barcode>
+      </offer>
+      <offer id="4476247">
+        <barcode>6900044762473</barcode>
+      </offer>
+      <offer id="4716654">
+        <barcode>2900047166548</barcode>
+      </offer>
+      <offer id="4765997">
+        <barcode>2900047659972</barcode>
+      </offer>
+      <offer id="4963047">
+        <barcode>2900049630474</barcode>
+      </offer>
+      <offer id="4971013">
+        <barcode>2900049710138</barcode>
+      </offer>
+      <offer id="5498153">
+        <barcode>2900054981530</barcode>
       </offer>
       <offer id="5526587">
-        <name>Развивающий набор "Пипетка и колбочки"   5526587            </name>
         <barcode>2900055265875</barcode>
       </offer>
-      <offer id="7441522">
-        <name>Набор для шитья куклы «Аврил», 43 см   7441522</name>
-        <barcode>2900074415220</barcode>
+      <offer id="6629803">
+        <barcode>2900066298039</barcode>
       </offer>
-      <offer id="7569757">
-        <name>Набор для шитья куклы «Ирма», 20 см   7569757</name>
-        <barcode>2900075697571</barcode>
+      <offer id="6961139">
+        <barcode>2900069611392</barcode>
       </offer>
-      <offer id="7810208">
-        <name>Прописи "Прописные буквы", 20 стр., формат А4 7810208</name>
-        <barcode>9785001922186</barcode>
+      <offer id="7061426">
+        <barcode>6900070614265</barcode>
       </offer>
-      <offer id="7818055">
-        <name>Книга "Нарисуй и сотри. От точки до точки Животные", с маркером, 16 стр.   7818055</name>
-        <barcode>9785001922353</barcode>
+      <offer id="7509657">
+        <barcode>2900075096572</barcode>
       </offer>
-      <offer id="7822909">
-        <name>Украшение для торта "С днём рождения" принцесса   7822909   </name>
-        <barcode>2900078229090</barcode>
+      <offer id="7635996">
+        <barcode>2900076359966</barcode>
       </offer>
-      <offer id="7999043">
-        <name>ЭВРИКИ Набор для бисероплетения "Игрушки из бисера"   7999043            </name>
-        <barcode>2900079990432</barcode>
+      <offer id="7748691">
+        <barcode>9785001921806</barcode>
       </offer>
-      <offer id="9179090">
-        <name>Развивающий набор "Птички свистульки"   9179090      </name>
-        <barcode>2900091790904</barcode>
+      <offer id="7829642">
+        <barcode>9785001922476</barcode>
+      </offer>
+      <offer id="7980585">
+        <barcode>6900079805855</barcode>
+      </offer>
+      <offer id="9081790">
+        <barcode>2900090817909</barcode>
+      </offer>
+      <offer id="9176943">
+        <barcode>2900091769436</barcode>
+      </offer>
+      <offer id="9216304">
+        <barcode>2900092163042</barcode>
       </offer>
       <offer id="9304591">
-        <name>Бумага крафтовая белая «23 февраля хаки», 50 x 70 см 9304591</name>
         <barcode>6900093045916</barcode>
       </offer>
-      <offer id="9354643">
-        <name>Раскраска, А4, 16 стр., Принцессы 9354643</name>
-        <barcode>9785001925705</barcode>
+      <offer id="9500096">
+        <barcode>9785001926788</barcode>
       </offer>
-      <offer id="9433682">
-        <name>Папка пластиковая с ручками,А3,молния вокруг,Офис,прозрачная/красная,рифленая(460х320х25мм)   943368</name>
-        <barcode>2900094336826</barcode>
+      <offer id="9508719">
+        <barcode>2900095087192</barcode>
       </offer>
-      <offer id="9442056">
-        <name>Пакет ламинированный квадратный Happines, 30 × 30 × 12 см         9442056</name>
-        <barcode>2900094420563</barcode>
+      <offer id="9555613">
+        <barcode>2900095556131</barcode>
       </offer>
-      <offer id="9543267">
-        <name>Индивидуальный набор "Зондозаменителей"   9543267   </name>
-        <barcode>2900095432671</barcode>
+      <offer id="9593483">
+        <barcode>6900095934836</barcode>
       </offer>
-      <offer id="9625997">
-        <name>Гель для душа во флаконе виски "Слёзы бывших", 500 мл, клубничное мороженое 9625997</name>
-        <barcode>6900096259976</barcode>
+      <offer id="9657701">
+        <barcode>2900096577012</barcode>
       </offer>
-      <offer id="9668632">
-        <name>Энциклопедия в твёрдом переплёте "Подводный мир", 48 стр. 9668632</name>
-        <barcode>9785001927525</barcode>
+      <offer id="9760113">
+        <barcode>2900097601136</barcode>
       </offer>
-      <offer id="9936139">
-        <name>Аппликатор для введения смазки, ABS, белый   9936139   </name>
-        <barcode>2900099361397</barcode>
+      <offer id="9767335">
+        <barcode>6900097673351</barcode>
       </offer>
-      <offer id="9945340">
-        <name>Мини-пазлы в колбе "Звёздная ночь", 150 деталей   9945340</name>
-        <barcode>6900099453401</barcode>
+      <offer id="10002026">
+        <barcode>6900100020264</barcode>
       </offer>
-      <offer id="10150498">
-        <name>Winter Melody, гель для душа, 250 мл, имбирный пряник 10150498</name>
-        <barcode>6900101504985</barcode>
+      <offer id="9923355">
+        <barcode>9785001929857</barcode>
       </offer>
-      <offer id="10197394">
-        <name>Колокольчик настольный "Намек на любовь", 13 х 6 см   10197394</name>
-        <barcode>2900101973945</barcode>
+      <offer id="10060441">
+        <barcode>6900100604419</barcode>
       </offer>
-      <offer id="10205511">
-        <name>Косметичка для купальника "Лимоны", 24*17см   10205511</name>
-        <barcode>2900102055114</barcode>
+      <offer id="10112689">
+        <barcode>6900101126897</barcode>
       </offer>
       <offer id="10226847">
-        <name>Игра на угадывание слов "Кто я?", 50 карт, 18+   10226847</name>
         <barcode>2900102268477</barcode>
       </offer>
-      <offer id="10348933">
-        <name>Нейроигра «Сетка памяти»   10348933</name>
-        <barcode>2900103489338</barcode>
+      <offer id="10352171">
+        <barcode>6900103521713</barcode>
       </offer>
-      <offer id="10528132">
-        <name>Книжка-шуршалка "Цыпа и друзья", ЦЫП-ЦЫП   10528132   </name>
-        <barcode>6900105281325</barcode>
+      <offer id="10478811">
+        <barcode>6900104788115</barcode>
       </offer>
-      <offer id="10570995">
-        <name>Часы проектор "Щенящий патруль" Paw Patrol Гонщик SL-07214A   10570995</name>
-        <barcode>6900105709959</barcode>
+      <offer id="10607375">
+        <barcode>2900106073756</barcode>
       </offer>
-      <offer id="10576293">
-        <name>Набор картонных книг "Сказки в стихах", Корней Чуковский, 6 шт. 10576293</name>
-        <barcode>6900105762930</barcode>
+      <offer id="10629918">
+        <barcode>2900106299187</barcode>
       </offer>
-      <offer id="10629999">
-        <name> Обложка для документов набор "Мои первые документы", 21 х 30 см 10629999</name>
-        <barcode>6900106299992</barcode>
+      <offer id="10754564">
+        <barcode>6900107545647</barcode>
       </offer>
-      <offer id="10692135">
-        <name>Манипула для тату/татуажа 12*0,9см металл серебро пакет QF   10692135</name>
-        <barcode>2900106921354</barcode>
+      <offer id="10781086">
+        <barcode>2900107810862</barcode>
       </offer>
-      <offer id="10745826">
-        <name>Гель для душа с ароматом "Шоколад и сливки", 300 мл   10745826</name>
-        <barcode>6900107458268</barcode>
+      <offer id="1029750">
+        <barcode>2900102975009</barcode>
       </offer>
-      <offer id="427248">
-        <name>Кусачки для кутикулы 1 пружина 9,5см(9мм) серебр пакет QF 427248                              </name>
-        <barcode>2904272480004</barcode>
+      <offer id="260514">
+        <barcode>2902605140007</barcode>
       </offer>
-      <offer id="1041710">
-        <name>Бусы «Элегантность жемчуга» 3 нити, цвет золотисто-белый в чёрном металле, 90см  1041710</name>
-        <barcode>2900104171003</barcode>
-      </offer>
-      <offer id="1115978">
-        <name>Книжка для игры в ванне «Сказка: Теремок», Крошка Я  1115978</name>
-        <barcode>2900011159781</barcode>
-      </offer>
-      <offer id="604321">
-        <name>Массажёр дерево универс Барабан 3 рол 14,5*8*3см шильд ОТ 604321                     </name>
-        <barcode>2906043210001</barcode>
-      </offer>
-      <offer id="5060774">
-        <name>УЦЕНКА Мармелад "Это просто мармелад", 4 шт   5060774</name>
-        <barcode>2900050607748</barcode>
-      </offer>
-      <offer id="5060777">
-        <name>УЦЕНКА Мармелад "Займи свой рот", 4 шт   5060777</name>
-        <barcode>2900050607779</barcode>
-      </offer>
-      <offer id="7322007">
-        <name>Набор эфирных масел "Восточный", 6 штук по 3 мл, Богатство Аромата 7322007   </name>
-        <barcode>2900073220078</barcode>
-      </offer>
-      <offer id="10639865">
-        <name>Аромамасло Black Opium 10 мл   10639865</name>
-        <barcode>2900106398651</barcode>
+      <offer id="10350385">
+        <barcode>4670226250334</barcode>
       </offer>
     </offers>
   </shop>
