@@ -1,7 +1,389 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-03-29T05:59:42.511819+00:00">
+<yml_catalog date="2025-03-30T03:47:44.889131+00:00">
   <shop>
     <offers>
+      <offer id="10324981">
+        <name>Ваза напольная «Кэйлеб», вертикаль, h=60 см, керамика, чёрная</name>
+        <barcode>2900103249819</barcode>
+        <barcode>6900103249815</barcode>
+      </offer>
+      <offer id="4320825">
+        <name>Полка универсальная угловая Доляна, 31×24,5×16 см, цвет коричневый</name>
+        <barcode>2019437498159</barcode>
+        <barcode>2037474435005</barcode>
+        <barcode>2900043208259</barcode>
+        <barcode>6900043208255</barcode>
+      </offer>
+      <offer id="9834692">
+        <name>Набор для опытов «Моя мини-ферма»</name>
+        <barcode>2909834692000</barcode>
+        <barcode>4670314655072</barcode>
+        <barcode>6909834692006</barcode>
+      </offer>
+      <offer id="1302020">
+        <name>Садовая фигура "Медведь большой с кашпо" 30х40х75см</name>
+        <barcode>2900013020201</barcode>
+        <barcode>6900013020207</barcode>
+      </offer>
+      <offer id="10783353">
+        <name>УЦЕНКА Игрушка надувная «Молоток-далматинец», 80×35 см</name>
+        <barcode>2900107833533</barcode>
+        <barcode>6900107833539</barcode>
+      </offer>
+      <offer id="2355544">
+        <name>Лупа налобная 10-25х бинокулярная, с подсветкой, 6 линз в комплекте, 3 ААА</name>
+        <barcode>2900023555441</barcode>
+        <barcode>6900023555447</barcode>
+      </offer>
+      <offer id="4301687">
+        <name>Цветы искусственные "Ветка яблони" 4,5х58 см, розовый</name>
+        <barcode>2900043016878</barcode>
+        <barcode>6900043016874</barcode>
+      </offer>
+      <offer id="4301687">
+        <name>Цветы искусственные "Ветка яблони" 4,5х58 см, розовый</name>
+        <barcode>2900043016878</barcode>
+        <barcode>6900043016874</barcode>
+      </offer>
+      <offer id="4301687">
+        <name>Цветы искусственные "Ветка яблони" 4,5х58 см, розовый</name>
+        <barcode>2900043016878</barcode>
+        <barcode>6900043016874</barcode>
+      </offer>
+      <offer id="4301687">
+        <name>Цветы искусственные "Ветка яблони" 4,5х58 см, розовый</name>
+        <barcode>2900043016878</barcode>
+        <barcode>6900043016874</barcode>
+      </offer>
+      <offer id="4301687">
+        <name>Цветы искусственные "Ветка яблони" 4,5х58 см, розовый</name>
+        <barcode>2900043016878</barcode>
+        <barcode>6900043016874</barcode>
+      </offer>
+      <offer id="4301687">
+        <name>Цветы искусственные "Ветка яблони" 4,5х58 см, розовый</name>
+        <barcode>2900043016878</barcode>
+        <barcode>6900043016874</barcode>
+      </offer>
+      <offer id="4301687">
+        <name>Цветы искусственные "Ветка яблони" 4,5х58 см, розовый</name>
+        <barcode>2900043016878</barcode>
+        <barcode>6900043016874</barcode>
+      </offer>
+      <offer id="4301687">
+        <name>Цветы искусственные "Ветка яблони" 4,5х58 см, розовый</name>
+        <barcode>2900043016878</barcode>
+        <barcode>6900043016874</barcode>
+      </offer>
+      <offer id="4301687">
+        <name>Цветы искусственные "Ветка яблони" 4,5х58 см, розовый</name>
+        <barcode>2900043016878</barcode>
+        <barcode>6900043016874</barcode>
+      </offer>
+      <offer id="4301687">
+        <name>Цветы искусственные "Ветка яблони" 4,5х58 см, розовый</name>
+        <barcode>2900043016878</barcode>
+        <barcode>6900043016874</barcode>
+      </offer>
+      <offer id="4301687">
+        <name>Цветы искусственные "Ветка яблони" 4,5х58 см, розовый</name>
+        <barcode>2900043016878</barcode>
+        <barcode>6900043016874</barcode>
+      </offer>
+      <offer id="4301687">
+        <name>Цветы искусственные "Ветка яблони" 4,5х58 см, розовый</name>
+        <barcode>2900043016878</barcode>
+        <barcode>6900043016874</barcode>
+      </offer>
+      <offer id="4301687">
+        <name>Цветы искусственные "Ветка яблони" 4,5х58 см, розовый</name>
+        <barcode>2900043016878</barcode>
+        <barcode>6900043016874</barcode>
+      </offer>
+      <offer id="6969818">
+        <name>Лента бархатная, 20 мм, 18 ± 1 м, цвет бордовый №43</name>
+        <barcode>2900069698188</barcode>
+        <barcode>6900069698184</barcode>
+      </offer>
+      <offer id="6969818">
+        <name>Лента бархатная, 20 мм, 18 ± 1 м, цвет бордовый №43</name>
+        <barcode>2900069698188</barcode>
+        <barcode>6900069698184</barcode>
+      </offer>
+      <offer id="6969818">
+        <name>Лента бархатная, 20 мм, 18 ± 1 м, цвет бордовый №43</name>
+        <barcode>2900069698188</barcode>
+        <barcode>6900069698184</barcode>
+      </offer>
+      <offer id="6969818">
+        <name>Лента бархатная, 20 мм, 18 ± 1 м, цвет бордовый №43</name>
+        <barcode>2900069698188</barcode>
+        <barcode>6900069698184</barcode>
+      </offer>
+      <offer id="6969818">
+        <name>Лента бархатная, 20 мм, 18 ± 1 м, цвет бордовый №43</name>
+        <barcode>2900069698188</barcode>
+        <barcode>6900069698184</barcode>
+      </offer>
+      <offer id="6969818">
+        <name>Лента бархатная, 20 мм, 18 ± 1 м, цвет бордовый №43</name>
+        <barcode>2900069698188</barcode>
+        <barcode>6900069698184</barcode>
+      </offer>
+      <offer id="6969818">
+        <name>Лента бархатная, 20 мм, 18 ± 1 м, цвет бордовый №43</name>
+        <barcode>2900069698188</barcode>
+        <barcode>6900069698184</barcode>
+      </offer>
+      <offer id="1317293">
+        <name>Набор мужской медный «Запонки + Зажим для галстука» резьба, цвет серебро</name>
+        <barcode>2900013172931</barcode>
+        <barcode>6900013172937</barcode>
+      </offer>
+      <offer id="9755237">
+        <name>Точильный камень Magistro, зернистость 3000/8000 грит</name>
+        <barcode>2038375669810</barcode>
+        <barcode>2900097552377</barcode>
+        <barcode>6900097552373</barcode>
+      </offer>
+      <offer id="4077354">
+        <name>Бумага для выпечки силиконизированная Gurmanoff, профессиональная, 40×60 см, 500 листов</name>
+        <barcode>1090919348439</barcode>
+        <barcode>2900040773545</barcode>
+        <barcode>2920040773543</barcode>
+        <barcode>6900040773541</barcode>
+      </offer>
+      <offer id="4382765">
+        <name>Машина полировальная Cartage, 12 В, 40 Вт, 1500 об/мин, диск 120 мм, кабель 4,5 м</name>
+        <barcode>2900043827658</barcode>
+        <barcode>6900043827654</barcode>
+      </offer>
+      <offer id="10199415">
+        <name>Ваза этническая «Клеопатра», керамика, 60 см, 1 сорт, Иран</name>
+        <barcode>2900101994155</barcode>
+        <barcode>6900101994151</barcode>
+      </offer>
+      <offer id="10208252">
+        <name>Ковер SL Home 70*140см, 40%хлопок/ 60% джут, 2000 гр/м2</name>
+        <barcode>2900102082523</barcode>
+        <barcode>6900102082529</barcode>
+      </offer>
+      <offer id="9607706">
+        <name>Лента парчовая, 40 мм, 23 ± 1 м, цвет голография</name>
+        <barcode>2900096077062</barcode>
+        <barcode>6900096077068</barcode>
+      </offer>
+      <offer id="10724803">
+        <name>Электрический нагреватель для мармита Hanna Knövel, с регулировкой температуры, нержавеющая сталь, серебристый</name>
+        <barcode>2900107248030</barcode>
+        <barcode>6900107248036</barcode>
+      </offer>
+      <offer id="10724803">
+        <name>Электрический нагреватель для мармита Hanna Knövel, с регулировкой температуры, нержавеющая сталь, серебристый</name>
+        <barcode>2900107248030</barcode>
+        <barcode>6900107248036</barcode>
+      </offer>
+      <offer id="10662575">
+        <name>Сетка сварная с ПВХ покрытием 0,5 х 10 м, ячейка 50 х 50 мм, d=1 мм, металл, "Greengo"</name>
+        <barcode>2900106625757</barcode>
+        <barcode>6900106625753</barcode>
+      </offer>
+      <offer id="10103762">
+        <name>Карнавальная китайская шляпа «Конус» р-р 56-58</name>
+        <barcode>2900101037623</barcode>
+        <barcode>6900101037629</barcode>
+      </offer>
+      <offer id="258189">
+        <name>Макет оружия «Сувенирный кортик. Белый с золотой отделкой», 35 см</name>
+        <barcode>2902581890002</barcode>
+      </offer>
+      <offer id="10766899">
+        <name>Кнопки силовые прозрачные 300 штук в банке</name>
+        <barcode>2900107668999</barcode>
+        <barcode>6900107668995</barcode>
+      </offer>
+      <offer id="10428615">
+        <name>Термокружка с фонариком KING, 170 мл</name>
+        <barcode>2900104286158</barcode>
+        <barcode>6900104286154</barcode>
+      </offer>
+      <offer id="10428615">
+        <name>Термокружка с фонариком KING, 170 мл</name>
+        <barcode>2900104286158</barcode>
+        <barcode>6900104286154</barcode>
+      </offer>
+      <offer id="9717071">
+        <name>Деревянный подсвечник на 1 свечу «Колонна цветочная», зелёно-серый, 10×10×37 см</name>
+        <barcode>2900097170717</barcode>
+        <barcode>6900097170713</barcode>
+      </offer>
+      <offer id="7062886">
+        <name>Штора портьерная Этель «Классика» цвет светло серый, на шторн.ленте 250х265 см,100% п/э</name>
+        <barcode>2900070628860</barcode>
+        <barcode>6900070628866</barcode>
+      </offer>
+      <offer id="7062886">
+        <name>Штора портьерная Этель «Классика» цвет светло серый, на шторн.ленте 250х265 см,100% п/э</name>
+        <barcode>2900070628860</barcode>
+        <barcode>6900070628866</barcode>
+      </offer>
+      <offer id="10101047">
+        <name>Водоплавающая фигура "Лебедь" 36 х 19 х 27см</name>
+        <barcode>2900101010473</barcode>
+        <barcode>6900101010479</barcode>
+      </offer>
+      <offer id="9935343">
+        <name>Набор бит ТУНДРА, сталь CrV, PH-PZ-SL-Torx-Hex-M-TW-TR, 75 мм, 50 шт.</name>
+        <barcode>2900099353439</barcode>
+        <barcode>6900099353435</barcode>
+      </offer>
+      <offer id="10068686">
+        <name>Набор мини-бальзамов для губ «Зеленый чай», 2 шт</name>
+        <barcode>2041208740273</barcode>
+        <barcode>2900100686860</barcode>
+        <barcode>6900100686866</barcode>
+      </offer>
+      <offer id="10686518">
+        <name>Фермуар пришивной, 12.5×7.5 см, с ручкой d=7.5×9 см, цвет серебряный</name>
+        <barcode>2900106865184</barcode>
+        <barcode>6900106865180</barcode>
+      </offer>
+      <offer id="5413992">
+        <name>Кепка детская, размер 52-56, Щенячий патруль</name>
+        <barcode>2012871465596</barcode>
+        <barcode>2900054139924</barcode>
+        <barcode>6900054139920</barcode>
+      </offer>
+      <offer id="7559166">
+        <name>Настольная игра на пространственное мышление «Черепаха на слоне», 40 карт, 3+</name>
+        <barcode>2026903901686</barcode>
+        <barcode>2900075591664</barcode>
+        <barcode>6900075591660</barcode>
+      </offer>
+      <offer id="3740882">
+        <name>Форма для выпечки из жаропрочной керамики SL Home «Санторини», 300 мл, 16×9,7×4,5 см, цвет белый</name>
+        <barcode>2019437488358</barcode>
+        <barcode>2022852581474</barcode>
+        <barcode>2900037408825</barcode>
+        <barcode>6900037408821</barcode>
+      </offer>
+      <offer id="3740882">
+        <name>Форма для выпечки из жаропрочной керамики SL Home «Санторини», 300 мл, 16×9,7×4,5 см, цвет белый</name>
+        <barcode>2019437488358</barcode>
+        <barcode>2022852581474</barcode>
+        <barcode>2900037408825</barcode>
+        <barcode>6900037408821</barcode>
+      </offer>
+      <offer id="10421825">
+        <name>Сувенирная трость с клинком 36 см, набалдашник: лев</name>
+        <barcode>2900104218258</barcode>
+        <barcode>6900104218254</barcode>
+      </offer>
+      <offer id="7692062">
+        <name>Горшок цветочный "Шар большой", 15 л, диаметр 27 см, высота 25 см</name>
+        <barcode>2900076920623</barcode>
+        <barcode>4680003191248</barcode>
+        <barcode>6900076920629</barcode>
+      </offer>
+      <offer id="10133813">
+        <name>Барабан Джембе "Слон", 23 х 50 см, красный</name>
+        <barcode>2900101338133</barcode>
+        <barcode>6900101338139</barcode>
+      </offer>
+      <offer id="7749581">
+        <name>Набор для творчества «Набор сухоцветов», малый, розовый</name>
+        <barcode>2900077495816</barcode>
+        <barcode>6900077495812</barcode>
+      </offer>
+      <offer id="7148302">
+        <name>Подстаканник со стаканом «Лучший из лучших», 12.5×12.5×13 см, коллекционный, в подарочной упаковке</name>
+        <barcode>2900071483024</barcode>
+        <barcode>6900071483020</barcode>
+      </offer>
+      <offer id="9874826">
+        <name>Светильник "Лайн" LED 18Вт 4000К черный 120х3,3х6 см BayerLux</name>
+        <barcode>2909874826007</barcode>
+        <barcode>6909874826003</barcode>
+      </offer>
+      <offer id="9468722">
+        <name>Бра с проводом "Севантос" Е27 40Вт синий 9х9х14 см</name>
+        <barcode>2900094687225</barcode>
+        <barcode>6900094687221</barcode>
+      </offer>
+      <offer id="9468722">
+        <name>Бра с проводом "Севантос" Е27 40Вт синий 9х9х14 см</name>
+        <barcode>2900094687225</barcode>
+        <barcode>6900094687221</barcode>
+      </offer>
+      <offer id="3801240">
+        <name>Чайная пара фарфоровая Доляна «Лаванда», 2 предмета: чашка 220 мл, блюдце d=14,1 см, цвет белый</name>
+        <barcode>2019437484558</barcode>
+        <barcode>2020065468506</barcode>
+        <barcode>2900038012403</barcode>
+        <barcode>6900038012409</barcode>
+      </offer>
+      <offer id="10523264">
+        <name>Поясная сумка на молнии, 2 наружных кармана, цвет красный</name>
+        <barcode>2900105232642</barcode>
+        <barcode>6900105232648</barcode>
+      </offer>
+      <offer id="1225481">
+        <name>Бумага газетная 0,84 х 50 м, 45 гр/м</name>
+        <barcode>2036877531321</barcode>
+        <barcode>2900012254812</barcode>
+        <barcode>6900012254818</barcode>
+      </offer>
+      <offer id="1689855">
+        <name>Гирлянда «С юбилеем!»</name>
+        <barcode>2002090811878</barcode>
+        <barcode>2900016898555</barcode>
+        <barcode>6900016898551</barcode>
+      </offer>
+      <offer id="7148308">
+        <name>Подстаканник со стаканом «Орел», 12.5×12.5×13 см, коллекционный, в подарочной упаковке</name>
+        <barcode>2900071483086</barcode>
+        <barcode>6900071483082</barcode>
+      </offer>
+      <offer id="7148308">
+        <name>Подстаканник со стаканом «Орел», 12.5×12.5×13 см, коллекционный, в подарочной упаковке</name>
+        <barcode>2900071483086</barcode>
+        <barcode>6900071483082</barcode>
+      </offer>
+      <offer id="2371313">
+        <name>Ёлочная игрушка "Яблочко" (набор 6 шт) 5х5 см, белый</name>
+        <barcode>2900023713131</barcode>
+        <barcode>6900023713137</barcode>
+      </offer>
+      <offer id="1280380">
+        <name>Коврик в багажник, 120×80 см, черный</name>
+        <barcode>2900012803805</barcode>
+        <barcode>6900012803801</barcode>
+      </offer>
+      <offer id="10068791">
+        <name>Черенок деревянный, для мотыги под обратный всад, d = 40 мм, длина 120 см, первый сорт, Greengo</name>
+        <barcode>2900100687911</barcode>
+        <barcode>6900100687917</barcode>
+      </offer>
+      <offer id="9826626">
+        <name>Шкатулка книга-сейф «Старинный глобус с осями», дерево, искусственная кожа, 21×13×5 см</name>
+        <barcode>2909826626006</barcode>
+        <barcode>6909826626002</barcode>
+      </offer>
+      <offer id="5497950">
+        <name>Макет оружия «Сувенирная катана на подставке. Горы», бронзовая отделка</name>
+        <barcode>2900054979506</barcode>
+        <barcode>6900054979502</barcode>
+      </offer>
+      <offer id="10642807">
+        <name>Лента атласная «Хохлома», 15 мм, 23±1 м, разноцветная</name>
+        <barcode>2900106428075</barcode>
+        <barcode>6900106428071</barcode>
+      </offer>
+      <offer id="10133784">
+        <name>Панама детская для девочки Kawaii, аниме, цвет белый р-р 54</name>
+        <barcode>2900101337846</barcode>
+        <barcode>6900101337842</barcode>
+      </offer>
       <offer id="10485415">
         <name>Сувенирный музыкальный инструмент "Маракас" махагон, кокос 10х10х20 см</name>
         <barcode>2900104854159</barcode>
