@@ -1,60 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-05-23T05:52:28.877567+00:00">
+<yml_catalog date="2025-05-24T04:22:09.192438+00:00">
   <shop>
     <offers>
-      <offer id="10371495">
-        <name>Алмазная мозаика на новый год с частичным заполнением на холсте «Праздничное настроение», 20 х 30 см, набор для творчества</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900103714959</barcode>
-        <barcode>6900103714955</barcode>
+      <offer id="2702171">
+        <name>Гирлянда на люверсах на выпускной «До свидания, детский сад!», длина 250 см</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2900027021713</barcode>
+        <barcode>6900027021719</barcode>
       </offer>
-      <offer id="4434570">
-        <name>Брошь «Цветы» незабудки, цвет голубой в золоте</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900044345700</barcode>
-        <barcode>6900044345706</barcode>
+      <offer id="4862321">
+        <name>Горшок для рассады, 2 л, d = 17,5 см, h = 13 см, пластик, чёрный, Greengo</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="green">7</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2900048623217</barcode>
+        <barcode>4814132004357</barcode>
+        <barcode>6900048623213</barcode>
       </offer>
-      <offer id="10470049">
-        <name>Кошелёк на молнии, цвет голубой</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900104700494</barcode>
-        <barcode>6900104700490</barcode>
+      <offer id="1390041">
+        <name>Зеркало настольное, на гибкой ножке, зеркальная поверхность 13.5×16.5 см, в коробке, белое</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2900013900411</barcode>
+        <barcode>6900013900417</barcode>
       </offer>
-      <offer id="9717080">
-        <name>Деревянный подсвечник на 1 свечу «Пантеон», св. серый, 11.5×11.5×39.5 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900097170809</barcode>
-        <barcode>6900097170805</barcode>
+      <offer id="10470054">
+        <name>Кошелёк на молнии, цвет золотой</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2900104700548</barcode>
+        <barcode>6900104700544</barcode>
       </offer>
-      <offer id="10318593">
-        <name>Дневник школьный для 1-11 классов «Нервы сдали и ты сдашь», интегральная обложка, искусственная кожа, шелкография, ляссе, 80 г/м²</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900103185933</barcode>
-        <barcode>4656755046754</barcode>
-        <barcode>6900103185939</barcode>
-      </offer>
-      <offer id="9730909">
-        <name>Кошелёк женский на кнопке, цвет чёрный</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900097309094</barcode>
-        <barcode>6900097309090</barcode>
-      </offer>
-      <offer id="2770297">
-        <name>Квест-игра по поиску подарка «Для юных детективов», 12 подсказок, письмо, 8+</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900027702971</barcode>
-        <barcode>6900027702977</barcode>
-      </offer>
-      <offer id="5084694">
-        <name>Книжка для игры в ванной Смешарики «Купаемся и играем»</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2023319206046</barcode>
-        <barcode>2900050846949</barcode>
-        <barcode>6900050846945</barcode>
+      <offer id="9423605">
+        <name>Чай зелёный китайский связанный, хризантема, 50 г</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2900094236058</barcode>
+        <barcode>6900094236054</barcode>
       </offer>
       <offer id="9076431">
         <name>Коврик для выпечки армированный Доляна, силикон, 60×40 см, бежевый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
         <barcode>2037045938942</barcode>
         <barcode>2037489518441</barcode>
         <barcode>2900090764319</barcode>
@@ -62,7 +50,8 @@
       </offer>
       <offer id="9076431">
         <name>Коврик для выпечки армированный Доляна, силикон, 60×40 см, бежевый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
         <barcode>2037045938942</barcode>
         <barcode>2037489518441</barcode>
         <barcode>2900090764319</barcode>
@@ -70,7 +59,8 @@
       </offer>
       <offer id="9076431">
         <name>Коврик для выпечки армированный Доляна, силикон, 60×40 см, бежевый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
         <barcode>2037045938942</barcode>
         <barcode>2037489518441</barcode>
         <barcode>2900090764319</barcode>
@@ -78,7 +68,8 @@
       </offer>
       <offer id="9076431">
         <name>Коврик для выпечки армированный Доляна, силикон, 60×40 см, бежевый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
         <barcode>2037045938942</barcode>
         <barcode>2037489518441</barcode>
         <barcode>2900090764319</barcode>
@@ -86,7 +77,8 @@
       </offer>
       <offer id="9076431">
         <name>Коврик для выпечки армированный Доляна, силикон, 60×40 см, бежевый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
         <barcode>2037045938942</barcode>
         <barcode>2037489518441</barcode>
         <barcode>2900090764319</barcode>
@@ -94,7 +86,8 @@
       </offer>
       <offer id="9076431">
         <name>Коврик для выпечки армированный Доляна, силикон, 60×40 см, бежевый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
         <barcode>2037045938942</barcode>
         <barcode>2037489518441</barcode>
         <barcode>2900090764319</barcode>
@@ -102,7 +95,8 @@
       </offer>
       <offer id="9076431">
         <name>Коврик для выпечки армированный Доляна, силикон, 60×40 см, бежевый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
         <barcode>2037045938942</barcode>
         <barcode>2037489518441</barcode>
         <barcode>2900090764319</barcode>
@@ -110,7 +104,8 @@
       </offer>
       <offer id="9076431">
         <name>Коврик для выпечки армированный Доляна, силикон, 60×40 см, бежевый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
         <barcode>2037045938942</barcode>
         <barcode>2037489518441</barcode>
         <barcode>2900090764319</barcode>
@@ -118,7 +113,8 @@
       </offer>
       <offer id="9076431">
         <name>Коврик для выпечки армированный Доляна, силикон, 60×40 см, бежевый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
         <barcode>2037045938942</barcode>
         <barcode>2037489518441</barcode>
         <barcode>2900090764319</barcode>
@@ -126,7 +122,8 @@
       </offer>
       <offer id="9076431">
         <name>Коврик для выпечки армированный Доляна, силикон, 60×40 см, бежевый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
         <barcode>2037045938942</barcode>
         <barcode>2037489518441</barcode>
         <barcode>2900090764319</barcode>
@@ -134,7 +131,8 @@
       </offer>
       <offer id="9076431">
         <name>Коврик для выпечки армированный Доляна, силикон, 60×40 см, бежевый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
         <barcode>2037045938942</barcode>
         <barcode>2037489518441</barcode>
         <barcode>2900090764319</barcode>
@@ -142,7 +140,8 @@
       </offer>
       <offer id="9076431">
         <name>Коврик для выпечки армированный Доляна, силикон, 60×40 см, бежевый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
         <barcode>2037045938942</barcode>
         <barcode>2037489518441</barcode>
         <barcode>2900090764319</barcode>
@@ -150,7 +149,8 @@
       </offer>
       <offer id="9076431">
         <name>Коврик для выпечки армированный Доляна, силикон, 60×40 см, бежевый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
         <barcode>2037045938942</barcode>
         <barcode>2037489518441</barcode>
         <barcode>2900090764319</barcode>
@@ -158,7 +158,8 @@
       </offer>
       <offer id="9076431">
         <name>Коврик для выпечки армированный Доляна, силикон, 60×40 см, бежевый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
         <barcode>2037045938942</barcode>
         <barcode>2037489518441</barcode>
         <barcode>2900090764319</barcode>
@@ -166,1703 +167,2002 @@
       </offer>
       <offer id="9076431">
         <name>Коврик для выпечки армированный Доляна, силикон, 60×40 см, бежевый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
         <barcode>2037045938942</barcode>
         <barcode>2037489518441</barcode>
         <barcode>2900090764319</barcode>
         <barcode>6900090764315</barcode>
       </offer>
-      <offer id="2778161">
-        <name>Колокольчик на булавке с бантом на выпускной, красный, d = 2,6 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <oshiptag color="green">5</oshiptag>
-        <barcode>2900027781617</barcode>
-        <barcode>6900027781613</barcode>
+      <offer id="9814002">
+        <name>Коврик для выпечки и раскатки теста с разметкой Доляна «Капучино», силикон, 70×50 см, бежевый</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2909814002003</barcode>
+        <barcode>6909814002009</barcode>
       </offer>
-      <offer id="10639122">
-        <name>Конструктор для девочек «Город мечты. Фургон с мороженым», 2 минифигуры и 279 деталей</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900106391225</barcode>
-        <barcode>6900106391221</barcode>
-      </offer>
-      <offer id="6941548">
-        <name>Линейка закройщика 30 см "Рантис", белая</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900069415488</barcode>
-        <barcode>4602078012754</barcode>
-        <barcode>4607093081464</barcode>
-        <barcode>4607093083741</barcode>
-        <barcode>6900069415484</barcode>
-      </offer>
-      <offer id="6941548">
-        <name>Линейка закройщика 30 см "Рантис", белая</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900069415488</barcode>
-        <barcode>4602078012754</barcode>
-        <barcode>4607093081464</barcode>
-        <barcode>4607093083741</barcode>
-        <barcode>6900069415484</barcode>
-      </offer>
-      <offer id="3265278">
-        <name>Лото деревянное «Домашние и дикие животные», плашки 24 шт.: 3.2 × 3.2 × 1 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900032652780</barcode>
-        <barcode>4606088026671</barcode>
-        <barcode>6900032652786</barcode>
-      </offer>
-      <offer id="3399578">
-        <name>Мелки цветные Calligrata, в наборе 3 штуки, квадратные</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <oshiptag color="green">14</oshiptag>
-        <barcode>2900033995787</barcode>
-        <barcode>4605115000141</barcode>
-        <barcode>6900033995783</barcode>
-      </offer>
-      <offer id="10791193">
-        <name>Молочник WY Bloomware, 250 мл, фарфор, белый, зелёный</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900107911934</barcode>
-        <barcode>6900107911930</barcode>
-      </offer>
-      <offer id="5305870">
-        <name>Мягкий развивающий коврик-пазл из 60 элементов, геометрические фигуры, 60 х 25 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900053058707</barcode>
-        <barcode>4670314625846</barcode>
-        <barcode>6900053058703</barcode>
-      </offer>
-      <offer id="9482148">
-        <name>Мяч для сквоша, медленный</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900094821483</barcode>
-        <barcode>6900094821489</barcode>
-      </offer>
-      <offer id="9482147">
-        <name>Мяч для сквоша, очень быстрый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900094821476</barcode>
-        <barcode>6900094821472</barcode>
-      </offer>
-      <offer id="9023040">
-        <name>Набор 8 эфирных масел «Хозяин бани», 10 мл</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900090230401</barcode>
-        <barcode>6900090230407</barcode>
-      </offer>
-      <offer id="10167228">
-        <name>Набор волчков с мечом ULTRA SPIN «Яростное сражение», устройство запуска, цвет красный</name>
-        <oshiptag color="xyellow">23.05.2025</oshiptag>
-        <barcode>2900101672282</barcode>
-        <barcode>4610390592427</barcode>
-        <barcode>6900101672288</barcode>
-      </offer>
-      <offer id="5309191">
-        <name>Набор книг «И.А. Крылов. Басни.», 6 шт. по 16 стр.</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900053091919</barcode>
-        <barcode>6900053091915</barcode>
-      </offer>
-      <offer id="2894950">
-        <name>Настольная игра для детей на реакцию «Безумный крокодил», от 1 игрока, 3+</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900028949504</barcode>
-        <barcode>4610369831038</barcode>
-        <barcode>6900028949500</barcode>
-      </offer>
-      <offer id="4359681">
-        <name>Настольная игра «Накорми Бобо», мини-версия, бегемоты, 2 игрока, 5+</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900043596813</barcode>
-        <barcode>4670314605602</barcode>
-        <barcode>6900043596819</barcode>
-      </offer>
-      <offer id="3880123">
-        <name>Папка для свидетельства о рождении «Мои первые документы», для мальчика, А4</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2000519660748</barcode>
-        <barcode>2900038801236</barcode>
-        <barcode>6900038801232</barcode>
-      </offer>
-      <offer id="9877276">
-        <name>Подсвечник на 1 свечу «Ампир», полистоун, серебро с зеркалом, 9.3×9.3×27.3 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900098772767</barcode>
-        <barcode>6900098772763</barcode>
-      </offer>
-      <offer id="10849799">
-        <name>Семена Тыква мускатная Семейная, 5шт</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <oshiptag color="green">2</oshiptag>
-        <barcode>2900108497994</barcode>
-        <barcode>4601887132950</barcode>
-        <barcode>6900108497990</barcode>
-      </offer>
-      <offer id="10470664">
-        <name>Серьги с жемчугом «Жемчуг» ракушка, немо, цвет золото</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900104706649</barcode>
-        <barcode>6900104706645</barcode>
-      </offer>
-      <offer id="9206239">
-        <name>Стикеры закладки 5 шт., по 20 л. «Я держу всё под контролем»</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <oshiptag color="green">2</oshiptag>
-        <barcode>2900092062390</barcode>
-        <barcode>6900092062396</barcode>
-      </offer>
-      <offer id="10583302">
-        <name>Фигурка полистоун «Принцесса-ангел в жёлтом платье с голубкой в руке», 7×4×10 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900105833023</barcode>
-        <barcode>6900105833029</barcode>
-      </offer>
-      <offer id="743106">
-        <name>Сувенир стекло "Лотос трехъярусный" топаз d=8 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2907431060000</barcode>
-        <barcode>6907431060006</barcode>
-      </offer>
-      <offer id="7054768">
-        <name>Термокружка Big Boss, 450 мл, 12.5×10.5 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900070547680</barcode>
-        <barcode>6900070547686</barcode>
-      </offer>
-      <offer id="7025581">
-        <name>Термос гильза Мастер К, 500 мл, сохраняет тепло 10 ч, нержавеющая сталь, цвет хром</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900070255813</barcode>
-        <barcode>6900070255819</barcode>
-      </offer>
-      <offer id="4296096">
-        <name>Тетрадь 12 листов в косую линейку ErichKrause «Классика Visio», обложка мелованный картон, голубая</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+      <offer id="4747440">
+        <name>Кондитерская упаковка, коробка с ламинацией «Flowers», 20 х 12 х 4 см</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
         <oshiptag color="green">10</oshiptag>
-        <barcode>2900042960967</barcode>
-        <barcode>4601921464733</barcode>
-        <barcode>6900042960963</barcode>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2900047474407</barcode>
+        <barcode>6900047474403</barcode>
       </offer>
-      <offer id="10667887">
-        <name>Фоамиран иранский, 60×70 см, толщина 1 мм, белый/101</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+      <offer id="9655732">
+        <name>Конструктор «Загородный домик», 2 варианта сборки, 202 детали</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2900096557328</barcode>
+        <barcode>6900096557324</barcode>
+      </offer>
+      <offer id="260514">
+        <name>Кусачки маникюрные для кутикулы, 9.5 см, длина лезвия-10 мм, в чехле</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2902605140007</barcode>
+      </offer>
+      <offer id="10480677">
+        <name>Ловец снов с музыкой ветра "Солнце" с перьями 5 колокольчиков 15х55 см</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2900104806776</barcode>
+        <barcode>6900104806772</barcode>
+      </offer>
+      <offer id="120261">
+        <name>Машинка на пульте управления «Полиция», радиоуправление, световые и звуковые эффекты, работает от батареек</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2901202610005</barcode>
+        <barcode>4670314646865</barcode>
+        <barcode>6901202610001</barcode>
+      </offer>
+      <offer id="493845">
+        <name>Мелки для рисования, набор 12 шт., 6 цветов, 50 г</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2904938450006</barcode>
+      </offer>
+      <offer id="9331500">
+        <name>Набор на выпускной «Выпускник», 3 предмета: лента красная, ободок, фотобутафория</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2900093315006</barcode>
+        <barcode>6900093315002</barcode>
+      </offer>
+      <offer id="10711532">
+        <name>Набор для специй BellaTenero «Больцано», 4 предмета, на подставке, керамика, белый</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2900107115325</barcode>
+        <barcode>6900107115321</barcode>
+      </offer>
+      <offer id="120409">
+        <name>Набор пирата «Герой», 3 предмета</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2901204090003</barcode>
+        <barcode>4670314666184</barcode>
+        <barcode>6901204090009</barcode>
+      </offer>
+      <offer id="10815611">
+        <name>Набор штекеров "Ветерок" 30шт, 9х9см/18см</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2900108156112</barcode>
+        <barcode>6900108156118</barcode>
+      </offer>
+      <offer id="4554340">
+        <name>Насадки для педикюра, 50 шт., абразивность 180</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2900045543402</barcode>
+        <barcode>6900045543408</barcode>
+      </offer>
+      <offer id="1388241">
+        <name>Настенный крючок декоративный «Копьё», чугун, 12.5×9×3.5 см</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2900013882410</barcode>
+        <barcode>6900013882416</barcode>
+      </offer>
+      <offer id="1388241">
+        <name>Настенный крючок декоративный «Копьё», чугун, 12.5×9×3.5 см</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2900013882410</barcode>
+        <barcode>6900013882416</barcode>
+      </offer>
+      <offer id="9256585">
+        <name>Обучающая книга «Годовой курс занятий», для детей 5-6 лет, 100 стр.</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2900092565853</barcode>
+        <barcode>6900092565859</barcode>
+        <barcode>9785001925033</barcode>
+      </offer>
+      <offer id="9929444">
+        <name>Папка для свидетельства о заключении брака «Все начинается с любви », 23,5 х 31,5 см</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2900099294442</barcode>
+        <barcode>6900099294448</barcode>
+      </offer>
+      <offer id="7656080">
+        <name>Подсвечник на 1 свечу «Белоснежный ангел в раздумьях», полистоун, 7.5×9.8×6 см</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2900076560805</barcode>
+        <barcode>6900076560801</barcode>
+      </offer>
+      <offer id="4978275">
+        <name>Родословная книга «Семейная», с деревянным элементом, 84 страницы, 24.5×23×4 см</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2900049782753</barcode>
+        <barcode>6900049782759</barcode>
+      </offer>
+      <offer id="10840082">
+        <name>Семена Перец острый"Свирель"0.15г* КС</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
         <oshiptag color="green">10</oshiptag>
-        <barcode>2900106678876</barcode>
-        <barcode>6900106678872</barcode>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2042364281426</barcode>
+        <barcode>2900108400826</barcode>
+        <barcode>4690457013690</barcode>
+        <barcode>6900108400822</barcode>
       </offer>
-      <offer id="9687230">
-        <name>Форма для выпечки KONFINETTA «Сердце», силикон, 25×23×3.5 см (внутр. размеры 23×21×3.5 см), белая</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2039346962893</barcode>
-        <barcode>2900096872308</barcode>
-        <barcode>6900096872304</barcode>
+      <offer id="4683342">
+        <name>Серьги из дерева «Ваканда» монстера, цвет бело-коричневый в золоте</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2900046833427</barcode>
+        <barcode>6900046833423</barcode>
       </offer>
-      <offer id="440878">
-        <name>Футбольный мяч ONLYTOP, машинная сшивка, 32 панели, р. 5, PVC</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2904408780008</barcode>
+      <offer id="10372242">
+        <name>Скатерть для гадания «Древо жизни», 45х45 см</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2900103722428</barcode>
+        <barcode>6900103722424</barcode>
       </offer>
-      <offer id="892723">
-        <name>Циркуль металлический в пластиковом пенале 110 мм, с грифелями</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2908927230006</barcode>
-        <barcode>6908927230002</barcode>
+      <offer id="10660639">
+        <name>Фреза алмазная для маникюра «Пламя», средняя зернистость, 2.5×12 мм, в пластиковом футляре</name>
+        <oshiptag color="yellow">25/04/2025</oshiptag>
+        <oshiptag color="yellow">Бонд_42ШТ</oshiptag>
+        <barcode>2900106606398</barcode>
+        <barcode>6900106606394</barcode>
       </offer>
-      <offer id="10630423">
-        <name>Чайная пара Magisto English tea party, 500 мл, фарфор, белая</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900106304232</barcode>
-        <barcode>6900106304238</barcode>
+      <offer id="9716599">
+        <name>Активити-книга со штампиками «Для мальчиков», 5 штампиков</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900097165997</barcode>
+        <barcode>6900097165993</barcode>
+        <barcode>9785001927686</barcode>
       </offer>
-      <offer id="831333">
-        <name>Часы настенные интерьерные "Джесика", для дома и дачи, d-15 см, циферблат d-13 см, белый обод</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2908313330006</barcode>
-        <barcode>6908313330002</barcode>
+      <offer id="1651883">
+        <name>Бисер круглый 6/0 "Красный" 20 гр</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900016518835</barcode>
+        <barcode>6900016518831</barcode>
       </offer>
-      <offer id="10822859">
-        <name>Шампур-спица для овощей, набор - 6 шт., 37 см, с деревянной ручкой</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900108228598</barcode>
-        <barcode>6900108228594</barcode>
+      <offer id="7362424">
+        <name>Звонок велосипедный GRAFFITI «Оленёнок»</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900073624241</barcode>
+        <barcode>6900073624247</barcode>
       </offer>
-      <offer id="7909893">
-        <name>Электронный конструктор «Дискошар», 7 деталей</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900079098930</barcode>
-        <barcode>4670314624832</barcode>
-        <barcode>6900079098936</barcode>
+      <offer id="3941282">
+        <name>Водный пистолет «Суперниндзя», ранец-баллон</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900039412820</barcode>
+        <barcode>6900039412826</barcode>
       </offer>
-      <offer id="9838767">
-        <name>Азбука и счёт в стихах, 48 стр., Синий трактор</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2909838767001</barcode>
-        <barcode>6909838767007</barcode>
-        <barcode>9785001928812</barcode>
+      <offer id="9215577">
+        <name>Свисток для выживания высокочастотный, до 150 дБ, металл, 6.5 см</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900092155771</barcode>
+        <barcode>6900092155777</barcode>
       </offer>
-      <offer id="7463388">
-        <name>Бисер круглый 6/0 "Россия" 4 цвета х 20 гр 20х8х0,7 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900074633884</barcode>
-        <barcode>6900074633880</barcode>
+      <offer id="6829991">
+        <name>Гирлянда на ленте «Любимая, спасибо за сына», длина 1.5 м, Me to you</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="green">2</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2003543785524</barcode>
+        <barcode>2003622188529</barcode>
+        <barcode>2012044789283</barcode>
+        <barcode>2900068299911</barcode>
+        <barcode>6900068299917</barcode>
       </offer>
-      <offer id="9358804">
-        <name>Бисер круглый 6/0 "Розовый закат" 6 цветов х 10 гр 20х8 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900093588042</barcode>
-        <barcode>6900093588048</barcode>
+      <offer id="9944511">
+        <name>Гирлянда-флажки, длина 50 м, 13×18 см, 100 флагов, белый-фиолетовый-розовый</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900099445110</barcode>
+        <barcode>6900099445116</barcode>
       </offer>
-      <offer id="6904836">
-        <name>Блёстки для декора, мелкие, набор 32 баночки, разноцветные</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900069048365</barcode>
-        <barcode>6900069048361</barcode>
+      <offer id="9944511">
+        <name>Гирлянда-флажки, длина 50 м, 13×18 см, 100 флагов, белый-фиолетовый-розовый</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900099445110</barcode>
+        <barcode>6900099445116</barcode>
       </offer>
-      <offer id="6770942">
-        <name>Блокнот двойной на гребне «Любимый воспитатель - вторая мама»</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900067709428</barcode>
-        <barcode>6900067709424</barcode>
+      <offer id="4524675">
+        <name>Фотофон двусторонний бумага 300 гр "Штукатурка и бетон" 57х87 см</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900045246754</barcode>
+        <barcode>6900045246750</barcode>
       </offer>
-      <offer id="5231233">
-        <name>Книга-вырезалка «Бумажные динозаврики», 8 поделок, 20 стр., формат А4</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2000177052244</barcode>
-        <barcode>2900052312336</barcode>
-        <barcode>6900052312332</barcode>
-        <barcode>9785001455240</barcode>
+      <offer id="9111474">
+        <name>Флаг России, 90×150 см, двухсторонний, с бахромой, сатин</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900091114748</barcode>
+        <barcode>6900091114744</barcode>
       </offer>
-      <offer id="7362428">
-        <name>Звонок велосипедный GRAFFITI «Дракоша»</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900073624289</barcode>
-        <barcode>6900073624285</barcode>
+      <offer id="9335803">
+        <name>Деревянное оружие, детское сувенирное «Катана узор», 65×4.1 см</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900093358034</barcode>
+        <barcode>6900093358030</barcode>
       </offer>
-      <offer id="10639009">
-        <name>Шахматная доска гибкая «Классика», 30×30 см, толщина 2 мм, каучук</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900106390099</barcode>
-        <barcode>6900106390095</barcode>
+      <offer id="9020856">
+        <name>Татуировки детские переводные, Лео и Тиг</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900090208561</barcode>
+        <barcode>6900090208567</barcode>
       </offer>
-      <offer id="3602679">
-        <name>Кружево гипюровое, 35 мм, 9±0.5 м, цвет белый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900036026792</barcode>
-        <barcode>6900036026798</barcode>
+      <offer id="4152872">
+        <name>Светофор детский «Город», обучающие карточки, световые эффекты, на батарейках</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900041528724</barcode>
+        <barcode>6900041528720</barcode>
       </offer>
-      <offer id="9717881">
-        <name>Гирлянда «Нить» 2 м роса, IP20, серебристая нить, 20 LED, 3 режима, батарейки AG13х3 (в комплекте), свечение мульти</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900097178812</barcode>
-        <barcode>6900097178818</barcode>
+      <offer id="9298425">
+        <name>Шопер детский для девочки без застёжки, чёрный</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900092984258</barcode>
+        <barcode>6900092984254</barcode>
       </offer>
-      <offer id="1187596">
-        <name>Картинки - половинки «Домашние животные», 2 планшета</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2446000001247</barcode>
-        <barcode>2900011875964</barcode>
-        <barcode>6900011875960</barcode>
+      <offer id="7104120">
+        <name>Робот с трансформацией «Динобот», световые и звуковые эффекты, цвета зелёный</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2010585086021</barcode>
+        <barcode>2900071041200</barcode>
+        <barcode>4607940424413</barcode>
+        <barcode>6900071041206</barcode>
       </offer>
-      <offer id="6033111">
-        <name>Свечи для торта, голубые , 16 шт., 6,5 х 0,5 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2004292910052</barcode>
-        <barcode>2900060331114</barcode>
-        <barcode>6900060331110</barcode>
+      <offer id="4782752">
+        <name>Сумка женская пляжная на молнии «Лимонное настроение», белая</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900047827524</barcode>
+        <barcode>6900047827520</barcode>
       </offer>
-      <offer id="5260249">
-        <name>Грим для лица и тела «Камуфляж» 3 шт.</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900052602499</barcode>
-        <barcode>6900052602495</barcode>
+      <offer id="7183599">
+        <name>Зажимы для скатерти Доляна «Уют», 4 шт.</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2019437252096</barcode>
+        <barcode>2020048047001</barcode>
+        <barcode>2900071835991</barcode>
+        <barcode>6900071835997</barcode>
       </offer>
-      <offer id="9313575">
-        <name>Набор двусторонних экстракторов ТУНДРА, 5 шт., HSS, левая резьба, диапазон М2-М12</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900093135758</barcode>
-        <barcode>6900093135754</barcode>
+      <offer id="10532641">
+        <name>Блок-закладки с липким краем пластик 20л х 10 цветов белый/голография, 12мм х 45мм</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900105326419</barcode>
+        <barcode>6900105326415</barcode>
       </offer>
-      <offer id="4464700">
-        <name>Набор декоративных прищепок "Кактусы" 1×12×13 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900044647002</barcode>
-        <barcode>6900044647008</barcode>
+      <offer id="2898941">
+        <name>Значок - орден на выпускной «Выпускник детского сада», d=6.7 см</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900028989418</barcode>
+        <barcode>6900028989414</barcode>
       </offer>
-      <offer id="9364298">
-        <name>Декор для творчества PVC "Ягода клубника" набор 20 шт 1х1х0,6 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900093642980</barcode>
-        <barcode>6900093642986</barcode>
+      <offer id="10629671">
+        <name>Сухоцветы искусственные «Пампасная трава», 43 см, 3 шт., молочный</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900106296711</barcode>
+        <barcode>6900106296717</barcode>
       </offer>
-      <offer id="9879101">
-        <name>Сумка детская для девочки на магните, цвет жёлтый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900098791010</barcode>
-        <barcode>6900098791016</barcode>
+      <offer id="10629671">
+        <name>Сухоцветы искусственные «Пампасная трава», 43 см, 3 шт., молочный</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900106296711</barcode>
+        <barcode>6900106296717</barcode>
       </offer>
-      <offer id="9761292">
-        <name>Детские накладные ногти «Авокадо», 12 шт</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900097612927</barcode>
-        <barcode>6900097612923</barcode>
+      <offer id="10629671">
+        <name>Сухоцветы искусственные «Пампасная трава», 43 см, 3 шт., молочный</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900106296711</barcode>
+        <barcode>6900106296717</barcode>
       </offer>
-      <offer id="7258157">
-        <name>Переводные татуировки детские, светятся в темноте, Transformers</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900072581576</barcode>
-        <barcode>6900072581572</barcode>
+      <offer id="10629671">
+        <name>Сухоцветы искусственные «Пампасная трава», 43 см, 3 шт., молочный</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900106296711</barcode>
+        <barcode>6900106296717</barcode>
       </offer>
-      <offer id="7258157">
-        <name>Переводные татуировки детские, светятся в темноте, Transformers</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900072581576</barcode>
-        <barcode>6900072581572</barcode>
+      <offer id="10629671">
+        <name>Сухоцветы искусственные «Пампасная трава», 43 см, 3 шт., молочный</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900106296711</barcode>
+        <barcode>6900106296717</barcode>
       </offer>
-      <offer id="7258157">
-        <name>Переводные татуировки детские, светятся в темноте, Transformers</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900072581576</barcode>
-        <barcode>6900072581572</barcode>
+      <offer id="482160">
+        <name>Муляж "Виноград глянец" 45 ягод 18 см, микс</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2904821600006</barcode>
       </offer>
-      <offer id="9888199">
-        <name>Пазлы деревянные фигурные детские «Сказочный единорожик», 75 элементов</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900098881995</barcode>
-        <barcode>6900098881991</barcode>
+      <offer id="9179263">
+        <name>Карнавальные очки «Ананас»</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900091792632</barcode>
+        <barcode>6900091792638</barcode>
       </offer>
-      <offer id="10726022">
-        <name>Рюкзак детский для девочки на молнии «Выбражулька», сиреневый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900107260223</barcode>
-        <barcode>6900107260229</barcode>
+      <offer id="10576491">
+        <name>Кинетический песок, 4 формочки, 500 гр, цвет белый</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900105764914</barcode>
+        <barcode>6900105764910</barcode>
       </offer>
-      <offer id="9913252">
-        <name>Катушка инерционная, пластик, диаметр 6.5 см, цвет салатовый, 808S</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900099132522</barcode>
-        <barcode>6900099132528</barcode>
+      <offer id="7636700">
+        <name>Ключница карманная на кнопках, длина 11 см, 7 карабинов, цвет голубой</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900076367008</barcode>
+        <barcode>6900076367004</barcode>
       </offer>
-      <offer id="137647">
-        <name>Муляж "Виноград круглый" 17 см, микс</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2901376470009</barcode>
-        <barcode>6901376470005</barcode>
+      <offer id="7734579">
+        <name>Энциклопедия с прозрачными страницами «Новые чудеса света», 30 стр.</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2040107637622</barcode>
+        <barcode>2900077345791</barcode>
+        <barcode>6900077345797</barcode>
+        <barcode>9785001921769</barcode>
       </offer>
-      <offer id="10586413">
-        <name>Калька чертёжная под тушь, ширина 840 мм, в рулоне 20 метров, 40 г/м², в ПП плёнке</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900105864133</barcode>
-        <barcode>6900105864139</barcode>
+      <offer id="4668270">
+        <name>Замок навесной кодовый ТУНДРА «Сердце», красный</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900046682704</barcode>
+        <barcode>6900046682700</barcode>
       </offer>
-      <offer id="10586413">
-        <name>Калька чертёжная под тушь, ширина 840 мм, в рулоне 20 метров, 40 г/м², в ПП плёнке</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900105864133</barcode>
-        <barcode>6900105864139</barcode>
+      <offer id="7912709">
+        <name>Копилка-раскраска с красками «Холодное сердце»</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900079127098</barcode>
+        <barcode>6900079127094</barcode>
       </offer>
-      <offer id="9514464">
-        <name>Карнавальный набор «Динозавр», жёлтый, 2 предмета: хвост, маска</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900095144642</barcode>
-        <barcode>6900095144648</barcode>
+      <offer id="3622298">
+        <name>Ланч-бокс для еды с ложкой «Совушка», пластик, 2 отделения: 300 мл, 450 мл, в школу, розовый</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900036222989</barcode>
+        <barcode>6900036222985</barcode>
       </offer>
-      <offer id="9509038">
-        <name>Картон белый А4, 20 листов, немелованный односторонний, 170 г/м2, ErichKrause, глянцевый, на склейке, схема поделки</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <oshiptag color="green">3</oshiptag>
-        <barcode>2900095090383</barcode>
-        <barcode>4601921584905</barcode>
-        <barcode>6900095090389</barcode>
-      </offer>
-      <offer id="10652583">
-        <name>Картхолдер с выдвижным механизмом на кнопке, цвет розовый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900106525835</barcode>
-        <barcode>6900106525831</barcode>
-      </offer>
-      <offer id="9683627">
-        <name>Набор заплаток для обуви, клеевые, 6 шт., серый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900096836270</barcode>
-        <barcode>6900096836276</barcode>
-      </offer>
-      <offer id="10528069">
-        <name>Каска под напитки ковбойская «Вероятность пива»</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900105280698</barcode>
-        <barcode>6900105280694</barcode>
-      </offer>
-      <offer id="9767277">
-        <name>Кольцо-карабин, 37 мм, d=27/19 мм, толщина - 4 мм, с креплением 12×3 мм, 5 шт., цвет бронзовый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900097672778</barcode>
-        <barcode>6900097672774</barcode>
-      </offer>
-      <offer id="10772386">
-        <name>Косметичка-аптечка дорожная на молнии, красная</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900107723865</barcode>
-        <barcode>6900107723861</barcode>
-      </offer>
-      <offer id="10650914">
-        <name>Косметичка-пенал на молнии с отделами, фиолетовая</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900106509149</barcode>
-        <barcode>6900106509145</barcode>
-      </offer>
-      <offer id="9280478">
-        <name>Кости игральные, дайсы «Темный циан» для D&amp;D (Dungeons and Dragons, ДнД), 7 шт.</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900092804785</barcode>
-        <barcode>6900092804781</barcode>
-      </offer>
-      <offer id="3876328">
-        <name>Круг для плавания новорожденных на шею Крошка Я «Давай купаться», надувной, с ручками, красный</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900038763282</barcode>
-        <barcode>6900038763288</barcode>
-      </offer>
-      <offer id="10631661">
-        <name>Стела "Волейбол" 6,5х6,5х19см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900106316617</barcode>
-        <barcode>6900106316613</barcode>
-      </offer>
-      <offer id="10472179">
-        <name>Набор кухонный "Этель" New year collection, цвет красный, варежка-прихватка 18х29 см,прихватка 19х19 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900104721796</barcode>
-        <barcode>6900104721792</barcode>
+      <offer id="7107398">
+        <name>Логопедическая игра «Рыба Лыба»</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2015344670008</barcode>
+        <barcode>2900071073980</barcode>
+        <barcode>6900071073986</barcode>
       </offer>
       <offer id="2624325">
         <name>Лук «Хитрый индеец», стреляет присосками</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
         <barcode>2004148965625</barcode>
         <barcode>2900026243253</barcode>
         <barcode>4670314621565</barcode>
         <barcode>6900026243259</barcode>
       </offer>
-      <offer id="9870761">
-        <name>Магнитный винил, c ПВХ поверхностью, TAKE IT EASY, А3, набор 2 шт., толщина 0.3 мм, белый, 42×29.7 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2909870761005</barcode>
-        <barcode>6909870761001</barcode>
-      </offer>
-      <offer id="9870761">
-        <name>Магнитный винил, c ПВХ поверхностью, TAKE IT EASY, А3, набор 2 шт., толщина 0.3 мм, белый, 42×29.7 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2909870761005</barcode>
-        <barcode>6909870761001</barcode>
-      </offer>
-      <offer id="5161891">
-        <name>Расчёска массажная, 5.5×16(±1) см, рисунок МИКС</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900051618910</barcode>
-        <barcode>6900051618916</barcode>
-      </offer>
-      <offer id="5101585">
-        <name>Сборник для 1–4 классов «Все правила математики», 44 стр.</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900051015856</barcode>
-        <barcode>6900051015852</barcode>
-        <barcode>9785001454014</barcode>
-      </offer>
-      <offer id="5187383">
-        <name>Копилка металлическая, 4.8 см × 7.8 см × 10.8 см Lightning, Тачки</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2013792625076</barcode>
-        <barcode>2900051873838</barcode>
-        <barcode>6900051873834</barcode>
-      </offer>
-      <offer id="7152980">
-        <name>Машина металлическая AUDI A5, 1:64, цвет белый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2020893108032</barcode>
-        <barcode>2900071529807</barcode>
-        <barcode>4680741780346</barcode>
-        <barcode>6900071529803</barcode>
-      </offer>
-      <offer id="3789693">
-        <name>Наклейки многоразовые «Мои любимые сказки»</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2000447010233</barcode>
-        <barcode>2900037896936</barcode>
-        <barcode>6900037896932</barcode>
-        <barcode>9785001244875</barcode>
-      </offer>
-      <offer id="3789700">
-        <name>Наклейки многоразовые «Кто живёт в море», книжка-раскладушка</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2000447010288</barcode>
-        <barcode>2900037897001</barcode>
-        <barcode>6900037897007</barcode>
-        <barcode>9785001244943</barcode>
-      </offer>
-      <offer id="2799199">
-        <name>Молд для заливки Доляна «Ангел с гармошкой», силикон, 9×7.4×2 см, розовый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2028995813717</barcode>
-        <barcode>2900027991993</barcode>
-        <barcode>6900027991999</barcode>
-        <barcode>6950027991994</barcode>
-      </offer>
-      <offer id="10087837">
-        <name>Набор мужской стальной «Запонки + Зажим для галстука» линии, цвет серебро</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900100878371</barcode>
-        <barcode>6900100878377</barcode>
-      </offer>
-      <offer id="2486463">
-        <name>Музыкальная книга «Кто как говорит», 10 стр.</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900024864634</barcode>
-        <barcode>6900024864630</barcode>
-        <barcode>9785906944566</barcode>
-      </offer>
-      <offer id="5302602">
-        <name>Пазлы мягкие для малышей Крошка Я «Учим цвета», 5 пазлов</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2008666338084</barcode>
-        <barcode>2900053026027</barcode>
-        <barcode>6900053026023</barcode>
-      </offer>
-      <offer id="9358802">
-        <name>Набор бисера для плетения круглый «Арт Узор. Солнечные зайчики», 6×0, 6 цветов, х 10 г, 20×8 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900093588028</barcode>
-        <barcode>6900093588024</barcode>
-      </offer>
-      <offer id="9358800">
-        <name>Набор бисера для плетения круглый «Арт Узор. Цвета океана», 6/0, 6 цветов × 10 г, 20×8 см, для рукоделия</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900093588004</barcode>
-        <barcode>6900093588000</barcode>
-      </offer>
-      <offer id="9358798">
-        <name>Набор бисера для плетения круглый 6/0 «Арт Узор. Цвета листвы», стекло, 6 цветов × 10 г, 20×8 см, для рукоделия</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900093587984</barcode>
-        <barcode>6900093587980</barcode>
-      </offer>
-      <offer id="9952059">
-        <name>Набор для создания корзинки из фетра на пасху «Пасхальный Зайка»</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900099520596</barcode>
-        <barcode>6900099520592</barcode>
-      </offer>
-      <offer id="3640007">
-        <name>Набор для шитья. Мягкая игрушка «Единорожка Вандер», 37 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900036400073</barcode>
-        <barcode>6900036400079</barcode>
-      </offer>
-      <offer id="4624700">
-        <name>Уценка (в пакете) Опыты для девочек «Помада для губ», своими руками</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900046247002</barcode>
-        <barcode>6900046247008</barcode>
-      </offer>
-      <offer id="6906733">
-        <name>Набор лапок для швейной машины, подрубочные, 13/19/22 мм, для двойной подгибки, 3 шт.</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900069067335</barcode>
-        <barcode>6900069067331</barcode>
-      </offer>
-      <offer id="6906732">
-        <name>Набор лапок для швейной машины, подрубочные, 3/4/6 мм, 3 шт.</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900069067328</barcode>
-        <barcode>6900069067324</barcode>
-      </offer>
-      <offer id="2005363">
-        <name>Замок свадебный «Совет да любовь».</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2002087451698</barcode>
-        <barcode>2900020053636</barcode>
-        <barcode>6900020053632</barcode>
-      </offer>
-      <offer id="4059775">
-        <name>Наклейка на авто, Герб России, 9.1×7 см, золотистый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900040597752</barcode>
-        <barcode>6900040597758</barcode>
-      </offer>
-      <offer id="9000974">
-        <name>Настольная игра на скорость «Дилинь-дилинь» со звонком, 60 карт, 7+</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900090009748</barcode>
-        <barcode>6900090009744</barcode>
-      </offer>
-      <offer id="9344113">
-        <name>Набор для опытов «Оптическая призма»</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900093441132</barcode>
-        <barcode>4670314662551</barcode>
-        <barcode>6900093441138</barcode>
-      </offer>
-      <offer id="10238856">
-        <name>Органайзер для хранения «GREEN», 7 секций, 30×20×8 см, полупрозрачный, зелёный</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900102388564</barcode>
-        <barcode>6900102388560</barcode>
-      </offer>
-      <offer id="3258456">
-        <name>Папка-портфель А4, 1 отделение, 700 мкм, Calligrata, до 300 листов, серая</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900032584562</barcode>
-        <barcode>6900032584568</barcode>
-      </offer>
-      <offer id="6926757">
-        <name>Папка-портфель А4 Calligrata, 1 отделение, 700 мкм, до 300 листов, красная</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900069267575</barcode>
-        <barcode>6900069267571</barcode>
-      </offer>
-      <offer id="5514294">
-        <name>Браслеты парные «Неразлучники» лучшие друзья, розово-синие, d=7 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900055142947</barcode>
-        <barcode>6900055142943</barcode>
-      </offer>
-      <offer id="10620289">
-        <name>Календарь перекидной на скрепке «Православный календарь» 2025 год, 12 листов, 29×29 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900106202897</barcode>
-        <barcode>4657816811229</barcode>
-        <barcode>6900106202893</barcode>
-      </offer>
-      <offer id="7709092">
-        <name>Печать цветная «Набор дачный», набор 10 шт., МИКС</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900077090929</barcode>
-        <barcode>6900077090925</barcode>
-      </offer>
-      <offer id="7709092">
-        <name>Печать цветная «Набор дачный», набор 10 шт., МИКС</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900077090929</barcode>
-        <barcode>6900077090925</barcode>
-      </offer>
-      <offer id="7709092">
-        <name>Печать цветная «Набор дачный», набор 10 шт., МИКС</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900077090929</barcode>
-        <barcode>6900077090925</barcode>
-      </offer>
-      <offer id="4507840">
-        <name>Магнит неодимовый с петлёй для авто, d 20 мм, сцепление 9 кг</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900045078409</barcode>
-        <barcode>6900045078405</barcode>
-      </offer>
-      <offer id="10487974">
-        <name>Сумка поясная детская для мальчика на молнии, цвет зелёный/жёлтый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900104879749</barcode>
-        <barcode>6900104879745</barcode>
-      </offer>
-      <offer id="4320878">
-        <name>Сборник шпаргалок «Все правила по русскому языку для начальной школы», 36 стр.</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2000614881086</barcode>
-        <barcode>2900043208785</barcode>
-        <barcode>6900043208781</barcode>
-        <barcode>9785001248859</barcode>
-      </offer>
-      <offer id="4973911">
-        <name>Рабочие тетради набор «Математика, прописи, развитие речи, уроки грамоты», младшая группа 3+</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2009469360012</barcode>
-        <barcode>2900049739115</barcode>
-        <barcode>6900049739111</barcode>
-      </offer>
-      <offer id="5095812">
-        <name>Игрушка развивающая «Лабиринтус» 100 уровней</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900050958123</barcode>
-        <barcode>4670314656956</barcode>
-        <barcode>6900050958129</barcode>
-      </offer>
-      <offer id="9635015">
-        <name>Сумка детская для девочки на магните, цвет розовый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900096350158</barcode>
-        <barcode>6900096350154</barcode>
-      </offer>
-      <offer id="10420504">
-        <name>Рюкзак детский для девочки на молнии «Выбражулька», розовый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900104205043</barcode>
-        <barcode>6900104205049</barcode>
-      </offer>
-      <offer id="7634784">
-        <name>Серьги металл «Яркость» ромашки, цвет жёлто-синий</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900076347840</barcode>
-        <barcode>6900076347846</barcode>
-      </offer>
-      <offer id="3851959">
-        <name>Форма для выпечки с регулировкой размера TAS-PROM «Овал», h=6.5 см, 24×10 - 41×10 см, нержавеющая сталь</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2020458580761</barcode>
-        <barcode>2900038519599</barcode>
-        <barcode>6900038519595</barcode>
-      </offer>
-      <offer id="9146939">
-        <name>Фотоальбом на 100 фото, с холдерами «Мой любимый детский сад»</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900091469398</barcode>
-        <barcode>6900091469394</barcode>
-      </offer>
-      <offer id="863572">
-        <name>Фотоальбом на 80 фото, 20 магнитных листов «Школьные годы</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2908635720004</barcode>
-        <barcode>6908635720000</barcode>
-      </offer>
-      <offer id="10705014">
-        <name>Фоторамка металл на 1 фото 13х18 см "Спиральное плетение" серебро 13,5х1,5х18,5 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900107050145</barcode>
-        <barcode>6900107050141</barcode>
-      </offer>
-      <offer id="5260214">
-        <name>Печать цветная «Улыбка», набор 10 шт., МИКС</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900052602147</barcode>
-        <barcode>6900052602143</barcode>
-      </offer>
-      <offer id="10787264">
-        <name>Шипосниматель для цветов, инструмент для удаления шипов, 14х3 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900107872648</barcode>
-        <barcode>6900107872644</barcode>
-      </offer>
-      <offer id="4423927">
-        <name>Сборник шпаргалок по русскому языку «Правила», 5-9 класс, 40 стр.</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900044239276</barcode>
-        <barcode>6900044239272</barcode>
-        <barcode>9785001249283</barcode>
-      </offer>
-      <offer id="9896235">
-        <name>Настольная экономическая игра для детей «Бизнесмен», 2-4 игрока, 3+</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900098962359</barcode>
-        <barcode>4670314644151</barcode>
-        <barcode>6900098962355</barcode>
-      </offer>
-      <offer id="7025873">
-        <name>Электронный конструктор «Лабиринтика», звуковые эффекты, 12 деталей</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2011180979350</barcode>
-        <barcode>2013179750728</barcode>
-        <barcode>2013473334037</barcode>
-        <barcode>2900070258739</barcode>
-        <barcode>4607940426783</barcode>
-        <barcode>6900070258735</barcode>
-      </offer>
-      <offer id="4485752">
-        <name>Скоростная скакалка ONLYTOP, 2,8 м, цвет красный</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2003165651108</barcode>
-        <barcode>2900044857524</barcode>
-        <barcode>6900044857520</barcode>
-      </offer>
-      <offer id="7576156">
-        <name>Бабочки для декора и флористики, на прищепке, пластиковые, коричневые, МИКС, 5 см и 8 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <oshiptag color="green">6</oshiptag>
-        <barcode>2900075761562</barcode>
-        <barcode>6900075761568</barcode>
-      </offer>
-      <offer id="9924602">
-        <name>Кляп-рамка БДСМ в форме губ, ПВХ, экокожа, красный 5×4.5 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900099246021</barcode>
-        <barcode>6900099246027</barcode>
-      </offer>
-      <offer id="7840561">
-        <name>Бумага упаковочная крафтовая «Нашивки», 70 х 100 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <oshiptag color="green">10</oshiptag>
-        <barcode>2900078405616</barcode>
-        <barcode>6900078405612</barcode>
-      </offer>
-      <offer id="10102909">
-        <name>Вертушка «Шторм», с запуском</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <oshiptag color="green">2</oshiptag>
-        <barcode>2900101029093</barcode>
-        <barcode>6900101029099</barcode>
-      </offer>
-      <offer id="7453544">
-        <name>Секс-игра для двоих «Во власти страсти. Идеальный вечер для него» 3 в 1 (30 карт, перо, виброкольцо), 18+</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900074535447</barcode>
-        <barcode>6900074535443</barcode>
-      </offer>
-      <offer id="1145945">
-        <name>Гирлянда на ленте «С Днем Рождения!», длина 250 см, Тачки</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2000405177008</barcode>
-        <barcode>2012044790463</barcode>
-        <barcode>2900011459454</barcode>
-        <barcode>6900011459450</barcode>
-      </offer>
-      <offer id="7479601">
-        <name>Деревянная игрушка «Весы», игровой набор</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900074796015</barcode>
-        <barcode>4670314673441</barcode>
-        <barcode>6900074796011</barcode>
-      </offer>
-      <offer id="10698128">
-        <name>Переводные татуировки детские «Тату Единороги», с наклейками на ногти</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900106981280</barcode>
-        <barcode>6900106981286</barcode>
-      </offer>
-      <offer id="10463286">
-        <name>Кошелёк монетница детская на молнии «Выбражулька», цвет белый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900104632863</barcode>
-        <barcode>6900104632869</barcode>
-      </offer>
-      <offer id="9918099">
-        <name>Донышки для вязания 2 в 1 «Букет цветов», круг 15 см, хдф 3 мм</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900099180998</barcode>
-        <barcode>6900099180994</barcode>
-      </offer>
-      <offer id="5599551">
-        <name>Замок свадебный с ключом «Вместе навсегда».</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2002041316360</barcode>
-        <barcode>2900055995512</barcode>
-        <barcode>6900055995518</barcode>
-      </offer>
-      <offer id="1813829">
-        <name>Замок свадебный с ключом «Вместе навсегда».</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900018138291</barcode>
-        <barcode>6900018138297</barcode>
-      </offer>
-      <offer id="1813838">
-        <name>Замок свадебный с ключом «Вместе навсегда».</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2002041316384</barcode>
-        <barcode>2900018138383</barcode>
-        <barcode>6900018138389</barcode>
-      </offer>
-      <offer id="2434002">
-        <name>Замок свадебный с ключом «Вместе навсегда».</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2002041316438</barcode>
-        <barcode>2900024340022</barcode>
-        <barcode>6900024340028</barcode>
-      </offer>
-      <offer id="2329870">
-        <name>Замок свадебный с ключом «Вместе навсегда».</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900023298706</barcode>
-        <barcode>6900023298702</barcode>
-      </offer>
-      <offer id="2005361">
-        <name>Замок свадебный «Совет да любовь».</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900020053612</barcode>
-        <barcode>6900020053618</barcode>
-      </offer>
-      <offer id="10085488">
-        <name>Звонок настольный золотой, 8×6 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900100854887</barcode>
-        <barcode>6900100854883</barcode>
-      </offer>
-      <offer id="427683">
-        <name>Зеркало настольное «Круг», двустороннее, с увеличением х2, d зеркальной поверхности 10 см, цвет бронзовый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2904276830003</barcode>
-        <barcode>6904276830009</barcode>
-      </offer>
-      <offer id="3917551">
-        <name>Значок с колокольчиком на выпускной «Выпускник», диам. 2.6 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900039175510</barcode>
-        <barcode>6900039175516</barcode>
-      </offer>
-      <offer id="4433650">
-        <name>Игровой набор «Мой лечащий врач» в чемодане</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900044336500</barcode>
-        <barcode>4670314619722</barcode>
-        <barcode>6900044336506</barcode>
-      </offer>
-      <offer id="7626831">
-        <name>Игрушка хрюкающая "Веселая свинья" для собак, 15 см, жёлтая</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900076268312</barcode>
-        <barcode>6900076268318</barcode>
-      </offer>
-      <offer id="9373509">
-        <name>Набор для шитья. Игрушки из фетра своими руками «Человек паук», с перфорацией</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900093735095</barcode>
-        <barcode>6900093735091</barcode>
-      </offer>
-      <offer id="9446693">
-        <name>Коврик для ванной и туалета SAVANNA Memory foam, 50×80 см, синий</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2039549348609</barcode>
-        <barcode>2900094466936</barcode>
-        <barcode>6900094466932</barcode>
-      </offer>
-      <offer id="7100193">
-        <name>Короб стеллажный для хранения «Слоник», 29×29×29 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2019437260794</barcode>
-        <barcode>2900071001938</barcode>
-        <barcode>6900071001934</barcode>
-      </offer>
-      <offer id="7100193">
-        <name>Короб стеллажный для хранения «Слоник», 29×29×29 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2019437260794</barcode>
-        <barcode>2900071001938</barcode>
-        <barcode>6900071001934</barcode>
+      <offer id="1567690">
+        <name>Набор магнитов на авто «Везем принцессу!», на выписку</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900015676901</barcode>
+        <barcode>6900015676907</barcode>
+      </offer>
+      <offer id="1172296">
+        <name>Масленка-нагнетатель ТУНДРА, гибкий наконечник, 300 мл</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900011722961</barcode>
+        <barcode>6900011722967</barcode>
+      </offer>
+      <offer id="10480722">
+        <name>Медицинская карта ребенка А5, 60 листов. Форма №112/у «Лисенок»</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900104807223</barcode>
+        <barcode>6900104807229</barcode>
+      </offer>
+      <offer id="10747644">
+        <name>Мыльница дорожная с крышкой «Рельеф», пластик, 11.5×7.5×4 см, фисташковая</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900107476440</barcode>
+        <barcode>6900107476446</barcode>
+      </offer>
+      <offer id="10471823">
+        <name>Мяч для художественной гимнастики Grace Dance, d=18,5 см, цвет серебряный с блеском</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900104718239</barcode>
+        <barcode>6900104718235</barcode>
+      </offer>
+      <offer id="7519692">
+        <name>Украшения для девочек своими руками «Фрукты», набор бусин для творчества</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900075196920</barcode>
+        <barcode>6900075196926</barcode>
+      </offer>
+      <offer id="4493830">
+        <name>Глаза, набор 14 шт., размер 1 шт. — 1,8 см</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900044938308</barcode>
+        <barcode>4670314637481</barcode>
+        <barcode>6900044938304</barcode>
+      </offer>
+      <offer id="9606287">
+        <name>Набор для выжигания по дереву «Новый год!»</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900096062877</barcode>
+        <barcode>6900096062873</barcode>
+      </offer>
+      <offer id="9606287">
+        <name>Набор для выжигания по дереву «Новый год!»</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900096062877</barcode>
+        <barcode>6900096062873</barcode>
+      </offer>
+      <offer id="4903730">
+        <name>Набор для творчества «Раскрась витражики: Космос», 20 шт. в наборе</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2008420562298</barcode>
+        <barcode>2900049037303</barcode>
+        <barcode>6900049037309</barcode>
+      </offer>
+      <offer id="9933869">
+        <name>Набор обучающих книг «Весёлые уроки», 6 шт. по 20 стр., А5, Союзмультфильм</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900099338696</barcode>
+        <barcode>6900099338692</barcode>
+      </offer>
+      <offer id="9933869">
+        <name>Набор обучающих книг «Весёлые уроки», 6 шт. по 20 стр., А5, Союзмультфильм</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900099338696</barcode>
+        <barcode>6900099338692</barcode>
+      </offer>
+      <offer id="4352148">
+        <name>Набор кубиков для ДнД, 7 шт.</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900043521488</barcode>
+        <barcode>6900043521484</barcode>
+      </offer>
+      <offer id="1818261">
+        <name>Набор кистей ТУНДРА, плоские 3/4", 2", 3", круглые №2, №8, макловица 30×120 мм, 6 шт.</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900018182614</barcode>
+        <barcode>6900018182610</barcode>
+      </offer>
+      <offer id="5458947">
+        <name>Набор для рисования «Краска и загуститель для Эбру»</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2003673375015</barcode>
+        <barcode>2008666342135</barcode>
+        <barcode>2900054589477</barcode>
+        <barcode>6900054589473</barcode>
+      </offer>
+      <offer id="9919465">
+        <name>Набор магнитов на авто «Везем наследника», на выписку, 42 см × 29.7 см</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900099194650</barcode>
+        <barcode>6900099194656</barcode>
+      </offer>
+      <offer id="2399651">
+        <name>Неваляшка «Мила»</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900023996510</barcode>
+        <barcode>4607038275903</barcode>
+        <barcode>6900023996516</barcode>
+      </offer>
+      <offer id="1259939">
+        <name>Гирлянда бумажная «С рождением малышки!», объемная</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900012599395</barcode>
+        <barcode>6900012599391</barcode>
+      </offer>
+      <offer id="5153715">
+        <name>Набор папок А5, 20 вкладышей, Calligrata, карман на корешке, красные, 3 штуки</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900051537150</barcode>
+        <barcode>6900051537156</barcode>
+      </offer>
+      <offer id="5153715">
+        <name>Набор папок А5, 20 вкладышей, Calligrata, карман на корешке, красные, 3 штуки</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900051537150</barcode>
+        <barcode>6900051537156</barcode>
+      </offer>
+      <offer id="6935349">
+        <name>Пинцет шабер для наращивания ногтей, 16.5 см</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900069353490</barcode>
+        <barcode>6900069353496</barcode>
+      </offer>
+      <offer id="5168006">
+        <name>Набор для игры с пластилином «Фабрика мороженого»</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900051680061</barcode>
+        <barcode>6900051680067</barcode>
+      </offer>
+      <offer id="10206955">
+        <name>Лапка прижимная для потайного шва, 5.3×2.9 см</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900102069555</barcode>
+        <barcode>6900102069551</barcode>
+      </offer>
+      <offer id="7883211">
+        <name>Мячик цельнолитой "Теннис" прыгучий, TPR, 6,3 см, жёлтый</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900078832115</barcode>
+        <barcode>6900078832111</barcode>
+      </offer>
+      <offer id="10158592">
+        <name>Рабочая тетрадь «Я считаю до двадцати», для детей 6-7 лет, цветная. Колесникова Е.В.</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900101585926</barcode>
+        <barcode>6900101585922</barcode>
+        <barcode>9785994931066</barcode>
+      </offer>
+      <offer id="4973913">
+        <name>Рабочие тетради набор «Математика, прописи, развитие речи, уроки грамоты», старшая группа, 5+</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2009469360036</barcode>
+        <barcode>2900049739139</barcode>
+        <barcode>6900049739135</barcode>
+      </offer>
+      <offer id="2329864">
+        <name>Замок свадебный с ключом «Ты. Я. Вместе навсегда».</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900023298645</barcode>
+        <barcode>6900023298641</barcode>
+      </offer>
+      <offer id="9081049">
+        <name>Подставка-органайзер для канцелярии 5 отделений, серая</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900090810498</barcode>
+        <barcode>4607066138638</barcode>
+        <barcode>6900090810494</barcode>
+      </offer>
+      <offer id="584152">
+        <name>Сито с ручкой, набор 3 шт., пластик, d=6.5/8/12 см, бирюзовое</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2905841520008</barcode>
+      </offer>
+      <offer id="10084132">
+        <name>Коробка складная «Бант» 31.5×24.5×9 см</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2039480134286</barcode>
+        <barcode>2900100841320</barcode>
+        <barcode>6900100841326</barcode>
+      </offer>
+      <offer id="10725868">
+        <name>Бокал для виски стеклянный «Лев», 230 мл</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900107258688</barcode>
+        <barcode>6900107258684</barcode>
+      </offer>
+      <offer id="9064620">
+        <name>Сургучная печать «Ручная работа», 12.5 х 4 х 4 см</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900090646202</barcode>
+        <barcode>6900090646208</barcode>
+      </offer>
+      <offer id="1528843">
+        <name>Таблетница - органайзер «Неделька», с таблеторезкой, съёмные ячейки, утро/вечер, 20 × 7,5 × 2,5 см, 7 контейнеров по 2 секции, разноцветная</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900015288432</barcode>
+        <barcode>6900015288438</barcode>
+      </offer>
+      <offer id="10800532">
+        <name>Гирлянда на ленте текстильная «Цветные флажки», 10 м</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900108005328</barcode>
+        <barcode>6900108005324</barcode>
+      </offer>
+      <offer id="541291">
+        <name>Блок с липким краем, 100 листов, флуоресцентный, 5 цветов</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2905412910009</barcode>
+      </offer>
+      <offer id="1137975">
+        <name>Форма для выкладки Доляна «Квадрат», 8×8×4 см, с прессом, толщина 3 мм, нержавеющая сталь</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2038846621880</barcode>
+        <barcode>2900011379752</barcode>
+        <barcode>6900011379758</barcode>
+      </offer>
+      <offer id="9825673">
+        <name>Фотоальбом на 80 фото, 20 черных магнитных листов «Наша семья»</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2909825673001</barcode>
+        <barcode>6909825673007</barcode>
+      </offer>
+      <offer id="10582114">
+        <name>Шеврон на одежду «СССР», на липучке, d=8 см, разноцветный</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900105821143</barcode>
+        <barcode>6900105821149</barcode>
+      </offer>
+      <offer id="9339809">
+        <name>Шкатулка для украшений «Сундучок. Алиенора», дерево, с заклёпками, выпуклая, зелёный, 15×11.5×7.5 см</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900093398092</barcode>
+        <barcode>6900093398098</barcode>
+      </offer>
+      <offer id="5531374">
+        <name>Щётка-кисть для очистки окон и узких проёмов Доляна, с совочком и скребком, для труднодоступных мест, МИКС</name>
+        <oshiptag color="yellow">25.05.2025</oshiptag>
+        <oshiptag color="yellow">дарм_74ШТ</oshiptag>
+        <barcode>2900055313743</barcode>
+        <barcode>6900055313749</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="10792924">
+        <name>Берет военного, цвет чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107929243</barcode>
+        <barcode>6900107929249</barcode>
+      </offer>
+      <offer id="9046812">
+        <name>Блеск для губ с подвеской «Волшебной девочке», 8 гр, аромат клубники</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900090468125</barcode>
+        <barcode>6900090468121</barcode>
+      </offer>
+      <offer id="7453545">
+        <name>Секс-игра для двоих «Во власти страсти. Идеальный вечер для неё» 3 в 1 (30 карт, перо, вибропуля), 18+</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2036803424628</barcode>
+        <barcode>2900074535454</barcode>
+        <barcode>6900074535450</barcode>
+      </offer>
+      <offer id="10337933">
+        <name>Волокно кокосовое, для мульчирования, 20 л, Greengo</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900103379332</barcode>
+        <barcode>6900103379338</barcode>
+      </offer>
+      <offer id="10222759">
+        <name>Гель лак для ногтей, однотонный, трехфазный, 10 мл, LED/UV, зелёный (277)</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900102227597</barcode>
+        <barcode>6900102227593</barcode>
+      </offer>
+      <offer id="9703538">
+        <name>Горшок для рассады, 2.5 л, d=18 см, h=14.5 см, мягкий пластик, терракот, Greengo</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="green">5</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900097035382</barcode>
+        <barcode>6900097035388</barcode>
+      </offer>
+      <offer id="7402464">
+        <name>Домик для грызунов сборный "Нора" 9 х 13 х 10, белый с бирюзовой крышей</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2037645618718</barcode>
+        <barcode>2900045340735</barcode>
+        <barcode>2900074024644</barcode>
+        <barcode>6900074024640</barcode>
+      </offer>
+      <offer id="469874">
+        <name>Зеркало настольное «Овал», двустороннее, с увеличением х2, зеркальная поверхность 8.8×12.2 см, чёрное</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2904698740003</barcode>
+      </offer>
+      <offer id="1882273">
+        <name>Настольная игра «ОБЖ для детей: ПДД для юных пешеходов», 60 карт, 6 фишек, игровое поле, кубик, 6+</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900018822732</barcode>
+        <barcode>6900018822738</barcode>
+      </offer>
+      <offer id="10881421">
+        <name>Картон цветной А4, 20 листов, 20 цветов «Каляка-Маляка», 210 г/м², в папке</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900108814210</barcode>
+        <barcode>4602723021018</barcode>
+        <barcode>6900108814216</barcode>
+      </offer>
+      <offer id="10881421">
+        <name>Картон цветной А4, 20 листов, 20 цветов «Каляка-Маляка», 210 г/м², в папке</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900108814210</barcode>
+        <barcode>4602723021018</barcode>
+        <barcode>6900108814216</barcode>
+      </offer>
+      <offer id="10881421">
+        <name>Картон цветной А4, 20 листов, 20 цветов «Каляка-Маляка», 210 г/м², в папке</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900108814210</barcode>
+        <barcode>4602723021018</barcode>
+        <barcode>6900108814216</barcode>
+      </offer>
+      <offer id="7303923">
+        <name>Кепка детская MINAKU It's a nice day, чёрная, размер 52</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900073039236</barcode>
+        <barcode>6900073039232</barcode>
+      </offer>
+      <offer id="10622179">
+        <name>Китайский чай Шу пуэр Но Ми Сян Золотой, 100 г</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900106221799</barcode>
+        <barcode>6900106221795</barcode>
+      </offer>
+      <offer id="10830192">
+        <name>Клипсы для ушей QF «Тренд» капли, цвет золото</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900108301925</barcode>
+        <barcode>6900108301921</barcode>
+      </offer>
+      <offer id="9500088">
+        <name>Книга «Нейрогимнастика», 48 стр.</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900095000887</barcode>
+        <barcode>6900095000883</barcode>
+        <barcode>9785001926702</barcode>
+      </offer>
+      <offer id="9653179">
+        <name>Коврик для ванной и туалета SAVANNA Bath, 40×60 см, голубой</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900096531793</barcode>
+        <barcode>6900096531799</barcode>
+      </offer>
+      <offer id="9921252">
+        <name>Коляска для кукол «Минни» трость, металлический каркас</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900099212521</barcode>
+        <barcode>6900099212527</barcode>
+      </offer>
+      <offer id="9828389">
+        <name>Конструктор Цветы «Кактус в горшочке», 41 деталь</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2909828389008</barcode>
+        <barcode>6909828389004</barcode>
+      </offer>
+      <offer id="3573366">
+        <name>Коробка для печенья, кондитерская упаковка с пластиковой крышкой, «От всего сердца», 18 х 18 х 3 см</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="green">5</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900035733660</barcode>
+        <barcode>6900035733666</barcode>
       </offer>
       <offer id="5135339">
         <name>Краска для рисования эбру, набор 6 цветов по 6 мл</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
         <barcode>2001086064175</barcode>
         <barcode>2900051353392</barcode>
         <barcode>6900051353398</barcode>
       </offer>
-      <offer id="10419782">
-        <name>Круг для плавания надувной «Минни Маус» Ø 55 см, детский, розовый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900104197829</barcode>
-        <barcode>6900104197825</barcode>
+      <offer id="3876324">
+        <name>Круг для плавания новорожденных на шею Крошка Я «Море», надувной, с ручками, голубой</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900038763244</barcode>
+        <barcode>6900038763240</barcode>
       </offer>
-      <offer id="4531224">
-        <name>Круг для плавания новорожденных на шею «Единорог», надувной, с ручками, цвет розовый, Крошка Я</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2000455190101</barcode>
-        <barcode>2900045312244</barcode>
-        <barcode>6900045312240</barcode>
+      <offer id="3876324">
+        <name>Круг для плавания новорожденных на шею Крошка Я «Море», надувной, с ручками, голубой</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900038763244</barcode>
+        <barcode>6900038763240</barcode>
       </offer>
-      <offer id="3867780">
-        <name>Лента для художественной гимнастики с палочкой Grace Dance, 6 м, цвет красный</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2003252554190</barcode>
-        <barcode>2900038677800</barcode>
-        <barcode>6900038677806</barcode>
+      <offer id="9444772">
+        <name>Кусачки педикюрные, с пластиковой ручкой, изогнутое лезвие, 13 см, длина лезвия-17 мм, серебристые, красные</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900094447720</barcode>
+        <barcode>6900094447726</barcode>
       </offer>
-      <offer id="9337932">
-        <name>Маска из неопрена многоразовая «Мрамор»</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <oshiptag color="green">2</oshiptag>
-        <barcode>2900093379329</barcode>
-        <barcode>6900093379325</barcode>
+      <offer id="10380292">
+        <name>Лента с цветным нанесением на выпускной «Выпускник начальной школы», 160×10 см</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="green">5</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900103802922</barcode>
+        <barcode>6900103802928</barcode>
       </offer>
-      <offer id="9337933">
-        <name>Маска из неопрена многоразовая «Папоротник»</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <oshiptag color="green">2</oshiptag>
-        <barcode>2900093379336</barcode>
-        <barcode>6900093379332</barcode>
+      <offer id="6914549">
+        <name>Мягкий конструктор детский «Забавные присоски», 77 деталей</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2007803366034</barcode>
+        <barcode>2011063043055</barcode>
+        <barcode>2900069145491</barcode>
+        <barcode>4680741786027</barcode>
+        <barcode>6900069145497</barcode>
       </offer>
-      <offer id="1199151">
-        <name>Медаль в бархатной коробке «Любимой воспитательнице», d=7 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900011991510</barcode>
-        <barcode>6900011991516</barcode>
-      </offer>
-      <offer id="10716585">
-        <name>Менажница Доляна White Label, 5 секций, d=30 см, фарфор, белая</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900107165856</barcode>
-        <barcode>6900107165852</barcode>
-      </offer>
-      <offer id="1249691">
-        <name>Мешочек бархатный, 7×9 (размер полезной части 7×6), чёрный</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <oshiptag color="green">100</oshiptag>
-        <barcode>2900012496915</barcode>
-        <barcode>6900012496911</barcode>
-      </offer>
-      <offer id="1249691">
-        <name>Мешочек бархатный, 7×9 (размер полезной части 7×6), чёрный</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <oshiptag color="green">100</oshiptag>
-        <barcode>2900012496915</barcode>
-        <barcode>6900012496911</barcode>
-      </offer>
-      <offer id="1249691">
-        <name>Мешочек бархатный, 7×9 (размер полезной части 7×6), чёрный</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <oshiptag color="green">100</oshiptag>
-        <barcode>2900012496915</barcode>
-        <barcode>6900012496911</barcode>
-      </offer>
-      <offer id="10791193">
-        <name>Молочник WY Bloomware, 250 мл, фарфор, белый, зелёный</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900107911934</barcode>
-        <barcode>6900107911930</barcode>
-      </offer>
-      <offer id="3601732">
-        <name>Муляж "Клубника" (цена за 1 шт, фасовка 10 шт) 4х4,5 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <oshiptag color="green">10</oshiptag>
-        <barcode>2900036017325</barcode>
-        <barcode>6900036017321</barcode>
-      </offer>
-      <offer id="3601732">
-        <name>Муляж "Клубника" (цена за 1 шт, фасовка 10 шт) 4х4,5 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <oshiptag color="green">10</oshiptag>
-        <barcode>2900036017325</barcode>
-        <barcode>6900036017321</barcode>
-      </offer>
-      <offer id="7883211">
-        <name>Мячик цельнолитой "Теннис" прыгучий, TPR, 6,3 см, жёлтый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900078832115</barcode>
-        <barcode>6900078832111</barcode>
+      <offer id="5203124">
+        <name>Мяч резиновый, диаметр 10 см, эко, ручное окрашивание</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900052031244</barcode>
+        <barcode>4607068608207</barcode>
+        <barcode>6900052031240</barcode>
       </offer>
       <offer id="10033186">
         <name>Подарочный набор новогодний «Классной тёлочке», бомбочки для ванны, 5×30 г, 18+, Чистое счастье</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
         <barcode>2900100331869</barcode>
         <barcode>6900100331865</barcode>
       </offer>
-      <offer id="9940981">
-        <name>Набор в дорогу с мягкой игрушкой «Зайка», 8 предметов</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900099409815</barcode>
-        <barcode>6900099409811</barcode>
+      <offer id="4354856">
+        <name>Набор для опытов «Мега-набор опытов», 25 опытов</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900043548560</barcode>
+        <barcode>4670314655515</barcode>
+        <barcode>6900043548566</barcode>
       </offer>
-      <offer id="9049740">
-        <name>Мебель для питомцев «Кровать», с аксессуарами</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900090497408</barcode>
-        <barcode>6900090497404</barcode>
-      </offer>
-      <offer id="9049740">
-        <name>Мебель для питомцев «Кровать», с аксессуарами</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900090497408</barcode>
-        <barcode>6900090497404</barcode>
+      <offer id="10711532">
+        <name>Набор для специй BellaTenero «Больцано», 4 предмета, на подставке, керамика, белый</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900107115325</barcode>
+        <barcode>6900107115321</barcode>
       </offer>
       <offer id="6961651">
         <name>Одежда для пупса «Мой малыш» боди, шапочка, носочки</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
         <barcode>2013759134153</barcode>
         <barcode>2020695334097</barcode>
         <barcode>2900069616519</barcode>
         <barcode>4670314619128</barcode>
         <barcode>6900069616515</barcode>
       </offer>
-      <offer id="10516195">
-        <name>Органайзер для хранения, 1 секция, с крышкой, d=8.3×10.5 см, чёрный</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900105161959</barcode>
-        <barcode>6900105161955</barcode>
+      <offer id="10664805">
+        <name>Пакет подарочный, упаковка «Свадьба», XL 40 х 49 х 19 см</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900106648053</barcode>
+        <barcode>6900106648059</barcode>
       </offer>
-      <offer id="9412182">
-        <name>Пакет подарочный ламинированный вертикальный, упаковка, «Любимый воспитатель», M 25.5 х 30 х 9 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+      <offer id="9536192">
+        <name>Папка для свидетельства о рождении «Мои первые документы», А4.</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900095361926</barcode>
+        <barcode>6900095361922</barcode>
+      </offer>
+      <offer id="3221361">
+        <name>Папка школьная на кольцах «Портфолио дошкольника», 8 листов-разделителей, 24,5 х 32 см.</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900032213615</barcode>
+        <barcode>6900032213611</barcode>
+      </offer>
+      <offer id="10413431">
+        <name>Подвеска-книжка «Солнышко», на кроватку и коляску</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900104134312</barcode>
+        <barcode>4670314653757</barcode>
+        <barcode>6900104134318</barcode>
+      </offer>
+      <offer id="10811104">
+        <name>Семена Томат "Черри-мини",0,05 г</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
         <oshiptag color="green">2</oshiptag>
-        <barcode>2900094121828</barcode>
-        <barcode>6900094121824</barcode>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900108111043</barcode>
+        <barcode>4680206027481</barcode>
+        <barcode>4680206066107</barcode>
+        <barcode>6900108111049</barcode>
       </offer>
-      <offer id="9824695">
-        <name>Планинг недатированный A6, 64 листа, на сшивке, обложка из картона, матовая ламинация, выборочный лак, Триколор</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2909824695004</barcode>
-        <barcode>6909824695000</barcode>
+      <offer id="4690303">
+        <name>Серьги пластик «Вивьен» спираль-круг, цвет чёрно-белый</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900046903038</barcode>
+        <barcode>6900046903034</barcode>
       </offer>
-      <offer id="571163">
-        <name>Плёнка самоклеящаяся прозрачная бесцветная для книг и учебников, 0.33 х 1.5 м, 50 мкм, Sadipal экономичная упаковка</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2905711630004</barcode>
-        <barcode>8427973128012</barcode>
+      <offer id="4022095">
+        <name>Сувенир керамика "Девушка-ангел со скрипкой" 15х9х7,5 см</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900040220957</barcode>
+        <barcode>6900040220953</barcode>
       </offer>
-      <offer id="9840988">
-        <name>Подсвечник на 1 свечу «Параллели», керамика, стекло, d=7.5 см, белый с серебром, 9.5×9.5×24 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2909840988005</barcode>
-        <barcode>6909840988001</barcode>
+      <offer id="7656086">
+        <name>Сувенир полистоун "Спящий белоснежный ангел с венком" 7,5х16,5х6,5 см</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900076560867</barcode>
+        <barcode>6900076560863</barcode>
       </offer>
-      <offer id="7459637">
-        <name>Металлический подсвечник на 1 свечу «Милан. Грани», набор 3 шт., золото, h=22; 26.5; 32 см; 32×8×8 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900074596370</barcode>
-        <barcode>6900074596376</barcode>
+      <offer id="10683244">
+        <name>Флакон для парфюма, с распылителем, стеклянный, 30 мл, прозрачный, золотистый</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900106832445</barcode>
+        <barcode>6900106832441</barcode>
       </offer>
-      <offer id="9840986">
-        <name>Подсвечник на 1 свечу «Магистр», керамика, стекло, d=8 см, белый, 9.5×9.5×32 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2909840986001</barcode>
-        <barcode>6909840986007</barcode>
+      <offer id="289242">
+        <name>Фляжка для алкоголя 300 мл, нержавеющая сталь, подарочная, армейская, 10 oz</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2902892420004</barcode>
       </offer>
-      <offer id="10100632">
-        <name>Подставка для торта Доляна «Мишка Отто», 20.5×11.5 см, белая</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900101006322</barcode>
-        <barcode>6900101006328</barcode>
+      <offer id="9228068">
+        <name>Форма для шоколада 18+, 17×13 см, голубой</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900092280688</barcode>
+        <barcode>6900092280684</barcode>
       </offer>
-      <offer id="4978275">
-        <name>Родословная книга «Семейная», с деревянным элементом, 84 страницы, 24.5×23×4 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900049782753</barcode>
-        <barcode>6900049782759</barcode>
+      <offer id="3014875">
+        <name>Часы настенные интерьерные, "Реска", d-24 см</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900030148759</barcode>
+        <barcode>6900030148755</barcode>
       </offer>
-      <offer id="9890724">
-        <name>Салатник Sezar, маленький, фарфор, Иран</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2038207383365</barcode>
-        <barcode>2900098907244</barcode>
-        <barcode>6262910402013</barcode>
-        <barcode>6900098907240</barcode>
+      <offer id="834703">
+        <name>Часы настенные, серия: Ажур,"Завитки с листочками", плавный ход, d-58 см, циферблат 22 см</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2908347030002</barcode>
+        <barcode>6908347030008</barcode>
       </offer>
-      <offer id="4445533">
-        <name>Серьги металл «Леди» текстурные, цвет красный в золоте</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900044455331</barcode>
-        <barcode>6900044455337</barcode>
-      </offer>
-      <offer id="7141458">
-        <name>Серьги со съёмным элементом «Трансформер» круглый кристаллик, радужные в серебре</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900071414585</barcode>
-        <barcode>6900071414581</barcode>
-      </offer>
-      <offer id="9949307">
-        <name>Стела "Мотоспорт: кубок" 5х4х13см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900099493074</barcode>
-        <barcode>6900099493070</barcode>
-      </offer>
-      <offer id="9949307">
-        <name>Стела "Мотоспорт: кубок" 5х4х13см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900099493074</barcode>
-        <barcode>6900099493070</barcode>
-      </offer>
-      <offer id="9949307">
-        <name>Стела "Мотоспорт: кубок" 5х4х13см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900099493074</barcode>
-        <barcode>6900099493070</barcode>
-      </offer>
-      <offer id="9143798">
-        <name>Стразы термоклеевые для ткани с трафаретами, набор для творчества</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900091437984</barcode>
-        <barcode>6900091437980</barcode>
-      </offer>
-      <offer id="10583117">
-        <name>Фигурка полистоун «Танцующая пара», бело-розовый, 9.5×5×13 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900105831173</barcode>
-        <barcode>6900105831179</barcode>
-      </offer>
-      <offer id="1390212">
-        <name>Фотоальбом на 40 фото, 10 магнитных листов «Мой любимый детский сад»</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900013902125</barcode>
-        <barcode>6900013902121</barcode>
+      <offer id="9424690">
+        <name>Цепочка на тело женская «Цветок», на бедро, цвет серебро</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2900094246903</barcode>
+        <barcode>6900094246909</barcode>
       </offer>
       <offer id="9829365">
         <name>Фруктовница SL Home «Южная акация», 1 л, 19×6 см, с крышкой, стекло, прозрачная</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
         <barcode>2909829365001</barcode>
         <barcode>6909829365007</barcode>
       </offer>
-      <offer id="720718">
-        <name>Часы - будильник настольные "Соломон", дискретный ход, 6 х 6 см, АА</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2907207180000</barcode>
-        <barcode>6907207180006</barcode>
+      <offer id="9829365">
+        <name>Фруктовница SL Home «Южная акация», 1 л, 19×6 см, с крышкой, стекло, прозрачная</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2909829365001</barcode>
+        <barcode>6909829365007</barcode>
       </offer>
-      <offer id="1252077">
-        <name>Часы настенные двусторонние, на подвесе «Розы», плавный ход, циферблат d-19 см, 30×35 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900012520771</barcode>
-        <barcode>6900012520777</barcode>
+      <offer id="9829365">
+        <name>Фруктовница SL Home «Южная акация», 1 л, 19×6 см, с крышкой, стекло, прозрачная</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2909829365001</barcode>
+        <barcode>6909829365007</barcode>
       </offer>
-      <offer id="2563848">
-        <name>Шпатель для депиляции, 18.5 см, белый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <oshiptag color="green">4</oshiptag>
-        <barcode>2900025638487</barcode>
-        <barcode>6900025638483</barcode>
-      </offer>
-      <offer id="2873971">
-        <name>Алмазная мозаика с частичным заполнением для детей «Коты Аристократы», 15 х 10 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2013799603176</barcode>
-        <barcode>2900028739716</barcode>
-        <barcode>6900028739712</barcode>
+      <offer id="9829365">
+        <name>Фруктовница SL Home «Южная акация», 1 л, 19×6 см, с крышкой, стекло, прозрачная</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">тлгк_96ШТ</oshiptag>
+        <barcode>2909829365001</barcode>
+        <barcode>6909829365007</barcode>
       </offer>
       <offer id="6256969">
         <name>Анальная пробка с мехом, втулка серебряная 28 мм, хвост 400 мм, чёрный</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
         <barcode>2900062569690</barcode>
         <barcode>6900062569696</barcode>
       </offer>
-      <offer id="10716582">
-        <name>Блюдо для рыбы Доляна White Label, 36×14.5×3 см, фарфор, белое</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900107165825</barcode>
-        <barcode>6900107165821</barcode>
+      <offer id="4569779">
+        <name>Бабочка для декора и флористики, на прищепке, пластиковая, МИКС, 1 шт., 4 см и 8 см</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="green">10</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900045697792</barcode>
+        <barcode>6900045697798</barcode>
       </offer>
-      <offer id="4302058">
-        <name>Вермикулит «Рецепты Дедушки Никиты» для растений, добавка в грунт, фр 3-5, 2 л.</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <oshiptag color="green">2</oshiptag>
-        <barcode>2037046807179</barcode>
-        <barcode>2900043020585</barcode>
-        <barcode>6900043020581</barcode>
+      <offer id="10767391">
+        <name>Блюдо для улиток Hanna Knövell, 6 ячеек, с ручкой, фарфор, белое</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900107673917</barcode>
+        <barcode>6900107673913</barcode>
       </offer>
-      <offer id="10345197">
-        <name>Вертолёт «Шпион», с запуском</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900103451977</barcode>
-        <barcode>6900103451973</barcode>
+      <offer id="10157143">
+        <name>Бумага упаковочная, глянцевая «Весенний букет пионов», 40×60 см</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="green">10</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900101571431</barcode>
+        <barcode>6900101571437</barcode>
       </offer>
-      <offer id="4166915">
-        <name>Волейбольный мяч MINSA PLAY HARD, машинная сшивка, 18 панелей, р. 5, PVC</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900041669151</barcode>
-        <barcode>6900041669157</barcode>
+      <offer id="5362358">
+        <name>Бусины для творчества пластик "Нежно-розовый" набор 20 гр  d=1,1 см</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900053623585</barcode>
+        <barcode>6900053623581</barcode>
       </offer>
-      <offer id="10473677">
-        <name>Гель лак для ногтей, однофазный, 8 мл, LED/UV, нюдовый (05)</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900104736776</barcode>
-        <barcode>6900104736772</barcode>
+      <offer id="6926274">
+        <name>Вертолёт радиоуправляемый SKY, с гироскопом, цвет синий</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900069262747</barcode>
+        <barcode>6900069262743</barcode>
       </offer>
-      <offer id="10459007">
-        <name>Головоломка деревянная. Повтори по образцу «Машинки», развивающие игры для детей</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900104590071</barcode>
-        <barcode>6900104590077</barcode>
+      <offer id="1684657">
+        <name>Ветерок «Сладкая клубничка», фольга</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900016846570</barcode>
+        <barcode>4610390599952</barcode>
+        <barcode>6900016846576</barcode>
       </offer>
-      <offer id="4597947">
-        <name>Горшок для рассады, 3 л, d=19 см, h=15 см, пластик, чёрный, Greengo</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <oshiptag color="green">6</oshiptag>
-        <barcode>2900045979478</barcode>
-        <barcode>4623721728419</barcode>
-        <barcode>4650245590116</barcode>
-        <barcode>4814132004364</barcode>
-        <barcode>6900045979474</barcode>
+      <offer id="10650563">
+        <name>Воздушные шары латексные, набор «Голубой и оранжевый», 40 шт.</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900106505639</barcode>
+        <barcode>6900106505635</barcode>
       </offer>
-      <offer id="9888456">
-        <name>Декор «Клубника», набор 50 шт., размер 4,2×2,5 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900098884569</barcode>
-        <barcode>6900098884565</barcode>
+      <offer id="3590691">
+        <name>Гирлянда «Нить» 5 м с насадками «Ёжики цветные», IP20, прозрачная нить, 30 LED, свечение мульти, 8 режимов, 220 В</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900035906910</barcode>
+        <barcode>6900035906916</barcode>
       </offer>
-      <offer id="10553932">
-        <name>Зеркало настольное «Круг», d зеркальной поверхности 10,8 см, цвет синий</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900105539321</barcode>
-        <barcode>6900105539327</barcode>
+      <offer id="9913902">
+        <name>Дозатор для жидкого мыла с губкой и щеткой для посуды, белый ,16 х 12 х 4 см.</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900099139026</barcode>
+        <barcode>6900099139022</barcode>
       </offer>
-      <offer id="1390034">
-        <name>Зеркало настольное «Овал», двустороннее, с увеличением х2, зеркальная поверхность 11.5×15 см, бежевое</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900013900343</barcode>
-        <barcode>6900013900349</barcode>
+      <offer id="5599552">
+        <name>Замок свадебный с ключом любви «Ты + Я = Семья».</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2002041316339</barcode>
+        <barcode>2900055995529</barcode>
+        <barcode>6900055995525</barcode>
       </offer>
-      <offer id="258924">
-        <name>Зеркало настольное - подвесное «Круг», двустороннее, с увеличением х2, d зеркальной поверхности 16 см, серебристое</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2902589240007</barcode>
+      <offer id="2275967">
+        <name>Зеркало на ножке, двустороннее, с увеличением х2, зеркальная поверхность 8×9.5 см, серебристое</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900022759673</barcode>
+        <barcode>6900022759679</barcode>
       </offer>
-      <offer id="5349161">
-        <name>Клипсы для ушей QF «Вечеринка», крупные кристаллы, белая в золоте</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900053491610</barcode>
-        <barcode>6900053491616</barcode>
+      <offer id="2275967">
+        <name>Зеркало на ножке, двустороннее, с увеличением х2, зеркальная поверхность 8×9.5 см, серебристое</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900022759673</barcode>
+        <barcode>6900022759679</barcode>
       </offer>
-      <offer id="5147935">
-        <name>Книга пожеланий на свадьбу, на пружине «Фиолетовая с блёстками»</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900051479351</barcode>
-        <barcode>6900051479357</barcode>
+      <offer id="2275967">
+        <name>Зеркало на ножке, двустороннее, с увеличением х2, зеркальная поверхность 8×9.5 см, серебристое</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900022759673</barcode>
+        <barcode>6900022759679</barcode>
       </offer>
-      <offer id="3876329">
-        <name>Круг для плавания новорожденных на шею Крошка Я «Русалочки», надувной, с ручками, желтый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900038763299</barcode>
-        <barcode>6900038763295</barcode>
+      <offer id="2275967">
+        <name>Зеркало на ножке, двустороннее, с увеличением х2, зеркальная поверхность 8×9.5 см, серебристое</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900022759673</barcode>
+        <barcode>6900022759679</barcode>
       </offer>
-      <offer id="10716063">
-        <name>Кружка Доляна «Сплэш», 350 мл, 14×8.5×8.2 см, фарфор, чёрная</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900107160639</barcode>
-        <barcode>6900107160635</barcode>
+      <offer id="7508289">
+        <name>Зеркало настольное «Овал», двустороннее, с увеличением х2, зеркальная поверхность 14.2×17.6 см, белое</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900075082896</barcode>
+        <barcode>6900075082892</barcode>
       </offer>
-      <offer id="10471306">
-        <name>Интерьерная текстильная кукла «Ангелочек в белом платье с цветочками», 4.5×8×15 см 10471</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900104713067</barcode>
-        <barcode>6900104713063</barcode>
+      <offer id="427681">
+        <name>Зеркало настольное «Круг», двустороннее, с увеличением х2, d зеркальной поверхности 10 см, цвет золотистый</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2904276810005</barcode>
       </offer>
-      <offer id="4753203">
-        <name>Кухонный фартук «Буду говорить в присутствии своего авокадо»</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900047532039</barcode>
-        <barcode>4650338114106</barcode>
-        <barcode>6900047532035</barcode>
+      <offer id="4382987">
+        <name>Игровой набор продуктов «Напитки и сладости»</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900043829874</barcode>
+        <barcode>4670314601130</barcode>
+        <barcode>6900043829870</barcode>
       </offer>
-      <offer id="1218433">
-        <name>Лента атласная, 50 мм, 23±1 м, сиреневая №21</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <oshiptag color="green">2</oshiptag>
-        <barcode>2900012184331</barcode>
-        <barcode>6900012184337</barcode>
+      <offer id="10417527">
+        <name>Игрушка для купания в ванной «Морские приключения: Краб», генератор для создания пены</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900104175278</barcode>
+        <barcode>4607940426035</barcode>
+        <barcode>6900104175274</barcode>
       </offer>
-      <offer id="9791304">
-        <name>Лента атласная, 50 мм, 23±1 м, лавандовая №141</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <oshiptag color="green">2</oshiptag>
-        <barcode>2909791304008</barcode>
-        <barcode>6909791304004</barcode>
+      <offer id="7046622">
+        <name>Игрушка для ванны Крошка Я «Водная горка», 5 деталей, 3 игрушки, ковш, на присосках</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2020811540074</barcode>
+        <barcode>2900070466226</barcode>
+        <barcode>6900070466222</barcode>
       </offer>
-      <offer id="7664162">
-        <name>Лента атласная, 75 мм, 23±1 м, красная №26</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900076641627</barcode>
-        <barcode>6900076641623</barcode>
+      <offer id="4515452">
+        <name>Игрушка на панель автомобиль, кошка на подушке, чёрно-белый окрас</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900045154523</barcode>
+        <barcode>6900045154529</barcode>
+      </offer>
+      <offer id="9797052">
+        <name>Клюв винтовой с заглушкой, набор 2 шт., размер 1 шт. — 4,1 × 1,8 × 1,1 см</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2909797052002</barcode>
+        <barcode>4670314638037</barcode>
+        <barcode>6909797052008</barcode>
+      </offer>
+      <offer id="7583999">
+        <name>Круг для плавания новорожденных на шею Крошка Я «Море», надувной, с ручками, белый</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900075839995</barcode>
+        <barcode>6900075839991</barcode>
+      </offer>
+      <offer id="2357495">
+        <name>Кубок под нанесение, наградная фигура, золото, подставка камень, 16.3×11.3×5.6 см</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2000833995434</barcode>
+        <barcode>2900023574954</barcode>
+        <barcode>6900023574950</barcode>
+      </offer>
+      <offer id="9791308">
+        <name>Лента атласная, 50 мм, 23±1 м, фисташковая №65</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2909791308006</barcode>
+        <barcode>6909791308002</barcode>
+      </offer>
+      <offer id="9791308">
+        <name>Лента атласная, 50 мм, 23±1 м, фисташковая №65</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2909791308006</barcode>
+        <barcode>6909791308002</barcode>
+      </offer>
+      <offer id="9791308">
+        <name>Лента атласная, 50 мм, 23±1 м, фисташковая №65</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2909791308006</barcode>
+        <barcode>6909791308002</barcode>
+      </offer>
+      <offer id="3744928">
+        <name>Марблс «Игра с камешками. Собери по образцу», по методике Монтессори</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900037449286</barcode>
+        <barcode>4670314625839</barcode>
+        <barcode>6900037449282</barcode>
       </offer>
       <offer id="9824834">
         <name>Маслёнка SL Home «Лесные кролики», 20.5×11×15.5 см, керамика, белая</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
         <barcode>2909824834007</barcode>
         <barcode>6909824834003</barcode>
       </offer>
-      <offer id="7330885">
-        <name>Медаль с лазерной гравировкой «Лучший воспитатель», d=7 см.</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900073308851</barcode>
-        <barcode>6900073308857</barcode>
+      <offer id="3847854">
+        <name>Массажёр для спины и шеи Luazon LEM-21, наплечный, ИК-подогрев, 220 В</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900038478544</barcode>
+        <barcode>6900038478540</barcode>
       </offer>
-      <offer id="10182507">
-        <name>Металлический подсвечник на 1 свечу «Алессио», d=7.5 см, золото 9.5×9.5×17 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900101825077</barcode>
-        <barcode>6900101825073</barcode>
+      <offer id="7575484">
+        <name>Массажёр для спины, четырёхуровневый, 37 × 24,5 см, цвет МИКС</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900075754847</barcode>
+        <barcode>6900075754843</barcode>
       </offer>
-      <offer id="9817138">
-        <name>Метафорические ассоциативные карты «Денежный поток», 50 карт (7х12 см), 16+</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2909817138006</barcode>
-        <barcode>6909817138002</barcode>
-      </offer>
-      <offer id="1249691">
-        <name>Мешочек бархатный, 7×9 (размер полезной части 7×6), чёрный</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+      <offer id="1249690">
+        <name>Мешочек бархатный, 7×9 (размер полезной части 7×6), синий</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
         <oshiptag color="green">100</oshiptag>
-        <barcode>2900012496915</barcode>
-        <barcode>6900012496911</barcode>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900012496908</barcode>
+        <barcode>6900012496904</barcode>
       </offer>
-      <offer id="1249691">
-        <name>Мешочек бархатный, 7×9 (размер полезной части 7×6), чёрный</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <oshiptag color="green">100</oshiptag>
-        <barcode>2900012496915</barcode>
-        <barcode>6900012496911</barcode>
+      <offer id="2043855">
+        <name>Микробиологическое удобрение "Байкал-ЭМ1", 1,0 л</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2037447171701</barcode>
+        <barcode>2900020438556</barcode>
+        <barcode>4680001700169</barcode>
+        <barcode>4680001701692</barcode>
+        <barcode>6900020438552</barcode>
       </offer>
-      <offer id="1249691">
-        <name>Мешочек бархатный, 7×9 (размер полезной части 7×6), чёрный</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <oshiptag color="green">100</oshiptag>
-        <barcode>2900012496915</barcode>
-        <barcode>6900012496911</barcode>
+      <offer id="4806600">
+        <name>Мини - энциклопедии «Мир животных», 8 шт. по 20 стр.</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900048066007</barcode>
+        <barcode>6900048066003</barcode>
       </offer>
-      <offer id="10745004">
-        <name>Молочник WY Empire, 200 мл, фарфор, белый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900107450044</barcode>
-        <barcode>6900107450040</barcode>
+      <offer id="6920006">
+        <name>Миска для водяной бани Hanna Knövell, 470 мл, 14×6.3 см, нержавеющая сталь</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2019437267045</barcode>
+        <barcode>2900069200060</barcode>
+        <barcode>6900069200066</barcode>
       </offer>
-      <offer id="10470232">
-        <name>Музыка ветра металл "Спокойствие" серебро 8 трубок 67 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900104702320</barcode>
-        <barcode>6900104702326</barcode>
+      <offer id="9824106">
+        <name>Миска керамическая ХОХО, 300 мл, для кошек и собак</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2909824106005</barcode>
+        <barcode>6909824106001</barcode>
       </offer>
-      <offer id="3900225">
-        <name>Музыкальная игрушка «Любимый дружок: Зайчик», поёт песни, рассказывает сказки, ушки мигают цветными огоньками</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2000452084182</barcode>
-        <barcode>2900039002250</barcode>
-        <barcode>4670314649132</barcode>
-        <barcode>6900039002256</barcode>
+      <offer id="9824106">
+        <name>Миска керамическая ХОХО, 300 мл, для кошек и собак</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2909824106005</barcode>
+        <barcode>6909824106001</barcode>
       </offer>
-      <offer id="2996380">
-        <name>Набор для опытов «Юный натуралист», 4 предмета</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900029963806</barcode>
-        <barcode>4670314655133</barcode>
-        <barcode>6900029963802</barcode>
+      <offer id="9824106">
+        <name>Миска керамическая ХОХО, 300 мл, для кошек и собак</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2909824106005</barcode>
+        <barcode>6909824106001</barcode>
       </offer>
-      <offer id="2996380">
-        <name>Набор для опытов «Юный натуралист», 4 предмета</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900029963806</barcode>
-        <barcode>4670314655133</barcode>
-        <barcode>6900029963802</barcode>
+      <offer id="1891293">
+        <name>Мяч детский, d=22 см</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2003755940421</barcode>
+        <barcode>2009081887157</barcode>
+        <barcode>2010324267025</barcode>
+        <barcode>2900018912938</barcode>
+        <barcode>6900018912934</barcode>
       </offer>
-      <offer id="10745011">
-        <name>Набор для специй WY Empire, солонка и перечница, 50 мл, фарфор, белый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900107450112</barcode>
-        <barcode>6900107450118</barcode>
+      <offer id="6970463">
+        <name>Набор 5 колец из акрила «Неон», цветные, размер 17,5-18</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900069704636</barcode>
+        <barcode>6900069704632</barcode>
+      </offer>
+      <offer id="2611775">
+        <name>Набор атласных лент, 5 шт., 6/10/20/40/50 мм, 23±1 м, зелёный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900026117752</barcode>
+        <barcode>6900026117758</barcode>
+      </offer>
+      <offer id="7070793">
+        <name>Набор для опытов «Магнетизм»</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2018539087100</barcode>
+        <barcode>2020937878396</barcode>
+        <barcode>2900070707930</barcode>
+        <barcode>4670314655409</barcode>
+        <barcode>6900070707936</barcode>
       </offer>
       <offer id="5300557">
         <name>Набор для творчества. Бомбочки для ванн своими руками «Мир чудес»</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
         <barcode>2008609371871</barcode>
         <barcode>2900053005572</barcode>
         <barcode>6900053005578</barcode>
       </offer>
-      <offer id="9624145">
-        <name>Набор тарелок «Космос», 4 предмета: 2 тарелки 18.5×5.5 см, 2 тарелки 19.8×3.5 см, стекло, перламутровый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2039858452219</barcode>
-        <barcode>2900096241456</barcode>
-        <barcode>6900096241452</barcode>
+      <offer id="9908057">
+        <name>Наклейки для цветов и подарков «Лаванда», 4.4×4.4 см, 252 шт.</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2039200448891</barcode>
+        <barcode>2900099080571</barcode>
+        <barcode>6900099080577</barcode>
       </offer>
-      <offer id="10518943">
-        <name>Органайзер для ватных дисков, с крышкой, d=7.5×19.5 см, прозрачный</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900105189434</barcode>
-        <barcode>6900105189430</barcode>
+      <offer id="4379957">
+        <name>Настольная игра для компании, интеллектуальная «Битва умов»</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900043799573</barcode>
+        <barcode>4665305406665</barcode>
+        <barcode>6900043799579</barcode>
       </offer>
-      <offer id="9568120">
-        <name>Ошейник брезентовый безразмерный однослойный, 58 х 2,5 см, хаки/салатовый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2039396996527</barcode>
-        <barcode>2900095681208</barcode>
-        <barcode>6900095681204</barcode>
+      <offer id="9929442">
+        <name>Папка для свидетельства о заключении брака «Цветы», 23,5 х 31,5 см</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900099294428</barcode>
+        <barcode>6900099294424</barcode>
       </offer>
-      <offer id="9412182">
-        <name>Пакет подарочный ламинированный вертикальный, упаковка, «Любимый воспитатель», M 25.5 х 30 х 9 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <oshiptag color="green">2</oshiptag>
-        <barcode>2900094121828</barcode>
-        <barcode>6900094121824</barcode>
+      <offer id="5177076">
+        <name>Папка для свидетельства о заключении брака «Пара», А4</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900051770762</barcode>
+        <barcode>6900051770768</barcode>
       </offer>
-      <offer id="9683174">
-        <name>Поддон для рассады, 55×30×5.6 см, пластик, чёрный, Greengo</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <oshiptag color="green">2</oshiptag>
-        <barcode>2900096831749</barcode>
-        <barcode>6900096831745</barcode>
+      <offer id="7877181">
+        <name>Бусины для творчества пластик "Пастельные тона" матовые набор 20 гр d=0,8 см</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900078771810</barcode>
+        <barcode>6900078771816</barcode>
       </offer>
-      <offer id="9912892">
-        <name>Деревянный подсвечник на 1 свечу «Маяк», 15×8×8 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900099128921</barcode>
-        <barcode>6900099128927</barcode>
+      <offer id="9464368">
+        <name>Бусины для творчества пластик "Тёплый розовый" матовые d=1,2 см набор 20 гр</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900094643689</barcode>
+        <barcode>6900094643685</barcode>
       </offer>
-      <offer id="7696210">
-        <name>Полотенце-пончо детское махровое Крошка Я "Racing" 60*120см, 100% хлопок, 300гр/м2</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900076962104</barcode>
-        <barcode>4640126990937</barcode>
-        <barcode>6900076962100</barcode>
+      <offer id="9928054">
+        <name>Бусины для творчества пластик "Цветная полоска. Глянец" набор 20 гр 1,2х1,2х1,1 см</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900099280544</barcode>
+        <barcode>6900099280540</barcode>
       </offer>
-      <offer id="9909010">
-        <name>Портупея БДСМ женская, на грудь, регулируемые ремни, экокожа, черный</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900099090105</barcode>
-        <barcode>6900099090101</barcode>
+      <offer id="7656080">
+        <name>Подсвечник на 1 свечу «Белоснежный ангел в раздумьях», полистоун, 7.5×9.8×6 см</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900076560805</barcode>
+        <barcode>6900076560801</barcode>
       </offer>
-      <offer id="3564803">
-        <name>Пупс коллекционный «Крошики: Рыжуля», в костюме лисички, 19 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900035648032</barcode>
-        <barcode>4670314627901</barcode>
-        <barcode>6900035648038</barcode>
+      <offer id="10658336">
+        <name>Половник цельнотянутый Hanna Knövell, 250 мл, d=10 см, h=37 см, толщина 3 мм, нержавеющая сталь</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900106583361</barcode>
+        <barcode>6900106583367</barcode>
       </offer>
-      <offer id="10767473">
-        <name>Рамекин Hanna Knövell, 170 мл, d=8.6 см, h=5.1 см, фарфор, белый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900107674730</barcode>
-        <barcode>6900107674736</barcode>
+      <offer id="9247592">
+        <name>Полотенце-пончо детское махровое Крошка Я "Русалочка", 60*120см, 100% хлопок, 300гр/м2</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900092475923</barcode>
+        <barcode>4610290593371</barcode>
+        <barcode>6900092475929</barcode>
       </offer>
-      <offer id="10767506">
-        <name>Салатник Hanna Knövell, 25.5×23 см, фарфор, белый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900107675065</barcode>
-        <barcode>6900107675061</barcode>
+      <offer id="10230905">
+        <name>Семена Кабачок "Арлика 21 F1", 5 шт</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2040015551805</barcode>
+        <barcode>2900102309057</barcode>
+        <barcode>4601819155125</barcode>
+        <barcode>6900102309053</barcode>
       </offer>
-      <offer id="10767414">
-        <name>Салатник Hanna Knövell, 750 мл, d=17.8 см, конический, фарфор, белый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900107674143</barcode>
-        <barcode>6900107674149</barcode>
+      <offer id="2869345">
+        <name>Семена комнатных цветов Глоксиния Аванти "Cветло-фиолетовая", ц/п,  F1, 4 шт.</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="green">5</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2037421126666</barcode>
+        <barcode>2900028693452</barcode>
+        <barcode>4601431043497</barcode>
+        <barcode>6900028693458</barcode>
       </offer>
-      <offer id="2743698">
-        <name>Семена цветов Лагурус (заячий хвостик), О, 10 шт</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <oshiptag color="green">2</oshiptag>
-        <barcode>2037251692249</barcode>
-        <barcode>2900027436982</barcode>
-        <barcode>4620758403326</barcode>
-        <barcode>6900027436988</barcode>
+      <offer id="7643190">
+        <name>Семена Морковь на ленте "Нандрин", F1, 6,7 м</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2037475389031</barcode>
+        <barcode>2900076431907</barcode>
+        <barcode>4607127322761</barcode>
+        <barcode>6900076431903</barcode>
       </offer>
-      <offer id="5358138">
-        <name>Серьги металл «Чикаго» два кольца, цвет золото</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900053581380</barcode>
-        <barcode>6900053581386</barcode>
+      <offer id="10470923">
+        <name>Серьги ассорти «Геометрия» круги, цвет серебро</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900104709237</barcode>
+        <barcode>6900104709233</barcode>
       </offer>
-      <offer id="10670022">
-        <name>Сетка - органайзер «Акулёнок», для хранения игрушек в ванной, на присосках</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900106700225</barcode>
-        <barcode>6900106700221</barcode>
+      <offer id="4577728">
+        <name>Серьги с жемчугом «Цепочки» балерина и бусина, цвет белый в серебре, шар №10</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900045777289</barcode>
+        <barcode>6900045777285</barcode>
       </offer>
-      <offer id="10372242">
-        <name>Скатерть для гадания «Древо жизни», 45х45 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900103722428</barcode>
-        <barcode>6900103722424</barcode>
+      <offer id="10227158">
+        <name>Скраб для рук и ног, увлажняющий, 350 мл, с ароматом оливы</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900102271583</barcode>
+        <barcode>6900102271589</barcode>
       </offer>
-      <offer id="10770975">
-        <name>Сковорода 3Ply Hanna Knövell, d=20 см, h=5 см, толщина 2.2 мм, индукция, нержавеющая сталь</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900107709753</barcode>
-        <barcode>6900107709759</barcode>
+      <offer id="10227158">
+        <name>Скраб для рук и ног, увлажняющий, 350 мл, с ароматом оливы</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900102271583</barcode>
+        <barcode>6900102271589</barcode>
       </offer>
-      <offer id="6896585">
-        <name>Собачка на панель авто, качающая головой, французский бульдог</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900068965854</barcode>
-        <barcode>6900068965850</barcode>
+      <offer id="10767493">
+        <name>Соусник Hanna Knövell, 100 мл, с ручкой, фарфор, белый</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900107674938</barcode>
+        <barcode>6900107674934</barcode>
       </offer>
-      <offer id="10780309">
-        <name>Сотейник для подачи Hanna Knövell Vanha, 500 мл, d=13.3 см, нержавеющая сталь, серебристый</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900107803093</barcode>
-        <barcode>6900107803099</barcode>
+      <offer id="4593394">
+        <name>Столовые приборы на подставке «Мрамор чёрный», 24 предмета, толщина 1.2 мм, нержавеющая сталь</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2019437395175</barcode>
+        <barcode>2026627299700</barcode>
+        <barcode>2900045933944</barcode>
+        <barcode>6900045933940</barcode>
       </offer>
-      <offer id="7485971">
-        <name>Фигурка полистоун «Маленькая зайка-балерина, репетиция», 11.5×6×5 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900074859710</barcode>
-        <barcode>6900074859716</barcode>
+      <offer id="10583205">
+        <name>Фигурка полистоун «Кролики: прогулка на велосипеде», 14.5×5×15 см</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900105832057</barcode>
+        <barcode>6900105832053</barcode>
       </offer>
-      <offer id="9490739">
-        <name>Лоскут для рукоделия 10 видов 50 х 50 см: атлас, сетка, мех, ткань в клетку</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900094907392</barcode>
-        <barcode>6900094907398</barcode>
+      <offer id="5180291">
+        <name>Фигурка настенная «Замок и два ключа», панно чугун, 23×7.5 см</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900051802913</barcode>
+        <barcode>6900051802919</barcode>
       </offer>
-      <offer id="9700395">
-        <name>Точилка электрическая черная (батарейки в комплект не входят), работает от 2-х АА батареек</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900097003954</barcode>
-        <barcode>6900097003950</barcode>
-      </offer>
-      <offer id="10472206">
-        <name>Фартук Этель Home 60х70 см, цв.светло-серый, 100% хл, саржа 190 г/м2</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900104722069</barcode>
-        <barcode>4650338107115</barcode>
-        <barcode>6900104722065</barcode>
-      </offer>
-      <offer id="10472206">
-        <name>Фартук Этель Home 60х70 см, цв.светло-серый, 100% хл, саржа 190 г/м2</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900104722069</barcode>
-        <barcode>4650338107115</barcode>
-        <barcode>6900104722065</barcode>
-      </offer>
-      <offer id="10472206">
-        <name>Фартук Этель Home 60х70 см, цв.светло-серый, 100% хл, саржа 190 г/м2</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900104722069</barcode>
-        <barcode>4650338107115</barcode>
-        <barcode>6900104722065</barcode>
-      </offer>
-      <offer id="7866040">
-        <name>Фартук Этель Kitchen 60х70 см, цвет зелёный, 100% хлопок, саржа 220 г/м2</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900078660404</barcode>
-        <barcode>4650338125188</barcode>
-        <barcode>6900078660400</barcode>
-      </offer>
-      <offer id="10788644">
-        <name>Флаг на палочке, набор 10 штук, 14×21 см, полиэстер</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <oshiptag color="green">2</oshiptag>
-        <barcode>2900107886447</barcode>
-        <barcode>6900107886443</barcode>
+      <offer id="10499814">
+        <name>Флакон для парфюма «Прозрачный узор», с распылителем, 15 мл, серебристый</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900104998143</barcode>
+        <barcode>6900104998149</barcode>
       </offer>
       <offer id="7869323">
         <name>Фотоальбом на 100 фото 13х18 см "Пончики" 19,5х15,5х4 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
         <barcode>2900078693235</barcode>
         <barcode>6900078693231</barcode>
       </offer>
-      <offer id="9713788">
-        <name>Фотоальбом на кольцах 30 листов Keep Memories «Ловцы снов. Сны наяву», 27х19х2 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900097137888</barcode>
-        <barcode>6900097137884</barcode>
+      <offer id="7869323">
+        <name>Фотоальбом на 100 фото 13х18 см "Пончики" 19,5х15,5х4 см</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900078693235</barcode>
+        <barcode>6900078693231</barcode>
       </offer>
-      <offer id="7986634">
-        <name>Цветовой круг Иттена Calligrata, диаметр 18 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900079866348</barcode>
-        <barcode>6900079866344</barcode>
+      <offer id="7869323">
+        <name>Фотоальбом на 100 фото 13х18 см "Пончики" 19,5х15,5х4 см</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900078693235</barcode>
+        <barcode>6900078693231</barcode>
       </offer>
-      <offer id="10711527">
-        <name>Чайник заварочный Доляна «Глянец», 1.1 л, с ситечком, керамика, чёрный</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900107115271</barcode>
-        <barcode>6900107115277</barcode>
+      <offer id="7869313">
+        <name>Фотоальбом на 96 фото 10х15 см "Наш любимый сыночек" 16,5х12х5,5 см</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900078693136</barcode>
+        <barcode>6900078693132</barcode>
       </offer>
-      <offer id="2839876">
-        <name>Часы настенные двусторонние, на подвесе "Птичка на ветке", циферблат d-21 см, 50 х 32 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900028398760</barcode>
-        <barcode>6900028398766</barcode>
+      <offer id="896397">
+        <name>Фоторамка-коллаж на 6 фото 10×15 см «Сердце ажурное», пластик, мультирамка, белая, 56×51 см</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2908963970003</barcode>
+        <barcode>6908963970009</barcode>
       </offer>
-      <offer id="1252078">
-        <name>Часы настенные двусторонние, на подвесе WELCOME, плавный ход, циферблат d-20 см, 55×36 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900012520788</barcode>
-        <barcode>6900012520784</barcode>
+      <offer id="1636248">
+        <name>Фоторамка-коллаж на 8 фото 10×10, 10×15 см «Семейный дом», пластик, мультирамка, белая, 56.5×35 см</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900016362483</barcode>
+        <barcode>6900016362489</barcode>
       </offer>
-      <offer id="7472784">
-        <name>Чокер «Грация» искр узкий, цвет белый в золоте, L=31 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900074727842</barcode>
-        <barcode>6900074727848</barcode>
+      <offer id="720718">
+        <name>Часы - будильник настольные "Соломон", дискретный ход, 6 х 6 см, АА</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2907207180000</barcode>
+        <barcode>6907207180006</barcode>
       </offer>
-      <offer id="9445395">
-        <name>Чокер «Лёд» изысканный, цвет белый в золоте,30 см</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900094453950</barcode>
-        <barcode>6900094453956</barcode>
+      <offer id="723349">
+        <name>Часы настенные двусторонние, на подвесе «Розы», плавный ход, циферблат d-17 см, 40×32 см</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2907233490005</barcode>
+        <barcode>6907233490001</barcode>
       </offer>
-      <offer id="4437789">
-        <name>Шнуровальный планшет «Весёлые рисунки», ручка для шнурка, основа, схемы, по методике Монтессори</name>
-        <oshiptag color="yellow">23.05.2025</oshiptag>
-        <barcode>2900044377893</barcode>
-        <barcode>4670314625723</barcode>
-        <barcode>6900044377899</barcode>
+      <offer id="7389907">
+        <name>Часы настенные, серия: Интерьер, дискретный ход, d-30 см, АА</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900073899076</barcode>
+        <barcode>6900073899072</barcode>
+      </offer>
+      <offer id="7389873">
+        <name>Часы настенные "Цветные цифры", d-20 см, дискретный ход</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900073898734</barcode>
+        <barcode>6900073898730</barcode>
+      </offer>
+      <offer id="10405788">
+        <name>Воздушный шар фольгированный 42" «Цифра 7 с короной», на подставке</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900104057888</barcode>
+        <barcode>6900104057884</barcode>
+      </offer>
+      <offer id="1857694">
+        <name>Эфирное масло "Мандарин", флакон-капельница, аннотация, 10 мл</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="green">2</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2043219390300</barcode>
+        <barcode>2900018576949</barcode>
+        <barcode>4620012030176</barcode>
+        <barcode>6900018576945</barcode>
+      </offer>
+      <offer id="3349599">
+        <name>Ящик для рассады, 36 × 14 × 9 см, 3 л, пластик, чёрный</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="green">3</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2900033495997</barcode>
+        <barcode>4603744235767</barcode>
+        <barcode>4623720907167</barcode>
+        <barcode>6900033495993</barcode>
+      </offer>
+      <offer id="9829365">
+        <name>Фруктовница SL Home «Южная акация», 1 л, 19×6 см, с крышкой, стекло, прозрачная</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2909829365001</barcode>
+        <barcode>6909829365007</barcode>
+      </offer>
+      <offer id="9829365">
+        <name>Фруктовница SL Home «Южная акация», 1 л, 19×6 см, с крышкой, стекло, прозрачная</name>
+        <oshiptag color="yellow">24.05.2025</oshiptag>
+        <oshiptag color="yellow">ОКТН_80ШТ</oshiptag>
+        <barcode>2909829365001</barcode>
+        <barcode>6909829365007</barcode>
       </offer>
     </offers>
   </shop>
