@@ -1,250 +1,1351 @@
-<?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-05-30T07:42:32.353377+00:00">
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2025-05-31T04:37:41.331Z">
   <shop>
     <offers>
-      <offer id="10709478">
-        <name>Корзина плетёная, 36×21×15 см, сиграсс</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900107094781</barcode>
-        <barcode>6900107094787</barcode>
+      <offer id="7864761">
+        <name>Товар 7864761</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="1280148">
-        <name>Ковш - черпак для бани и сауны, 1.5 л, липа, нержавеющий обруч, 48 см, 855 г, «Добропаровъ»</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900012801481</barcode>
-        <barcode>6900012801487</barcode>
+      <offer id="10470054">
+        <name>Товар 10470054</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="10408313">
-        <name>Автомат «М4», стреляет пульками 6 мм</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900104083139</barcode>
-        <barcode>6900104083135</barcode>
+      <offer id="10380634">
+        <name>Товар 10380634</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="3142066">
-        <name>Заготовка - подвеска «Шар», раздельные части, диаметр собранного: 13.6 см</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900031420663</barcode>
-        <barcode>6900031420669</barcode>
+      <offer id="9271053">
+        <name>Товар 9271053</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="10494375">
-        <name>Ремень женский, ширина 3,5 см, цвет рыжий</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900104943754</barcode>
-        <barcode>6900104943750</barcode>
+      <offer id="9417640">
+        <name>Товар 9417640</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="4950182">
-        <name>Очки солнцезащитные спортивные "Мастер К", 4.5 х 14 см</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900049501828</barcode>
-        <barcode>6900049501824</barcode>
+      <offer id="5084657">
+        <name>Товар 5084657</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="10268144">
-        <name>Планер интервью для ребенка, 20×20 см, 23 листа. История взросления «Зверята»</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900102681443</barcode>
-        <barcode>6900102681449</barcode>
+      <offer id="9924364">
+        <name>Товар 9924364</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="4275980">
-        <name>Садовая фигура из гипса «Мышь», 29.5 см, серая</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900042759806</barcode>
-        <barcode>6900042759802</barcode>
+      <offer id="9944729">
+        <name>Товар 9944729</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="10660255">
-        <name>Воздушный шар латексный 12" «Слава ВДВ», 25 шт.</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900106602550</barcode>
-        <barcode>6900106602556</barcode>
+      <offer id="6941548">
+        <name>Товар 6941548</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="10205491">
-        <name>Сумка мужская на молнии, 3 наружных кармана, с ручкой, длинный ремень, чёрная</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900102054919</barcode>
-        <barcode>6900102054915</barcode>
+      <offer id="5395807">
+        <name>Товар 5395807</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="10767287">
-        <name>Тиски слесарные поворотные ТУНДРА, с наковальней, высокопрочный чугун ВЧ-40, 200 мм</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900107672873</barcode>
-        <barcode>6900107672879</barcode>
+      <offer id="10235836">
+        <name>Товар 10235836</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="5478800">
-        <name>Бутылочка для кормления стекло «Люблю вкусняшки», классическое горло, средний поток, 180 мл., от 3 мес.</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2008988356117</barcode>
-        <barcode>2900054788009</barcode>
-        <barcode>6900054788005</barcode>
+      <offer id="4614742">
+        <name>Товар 4614742</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="10844104">
-        <name>Турка для кофе «Звезда Востока», 380 мл, медь</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900108441041</barcode>
-        <barcode>6900108441047</barcode>
+      <offer id="4149610">
+        <name>Товар 4149610</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="9244032">
-        <name>Увеличительные очки с подсветкой для ремонта часов, 20х</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900092440327</barcode>
-        <barcode>6900092440323</barcode>
+      <offer id="10470122">
+        <name>Товар 10470122</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="4186650">
+        <name>Товар 4186650</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9000975">
+        <name>Товар 9000975</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10664766">
+        <name>Товар 10664766</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10664766">
+        <name>Товар 10664766</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="5177076">
+        <name>Товар 5177076</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="5287852">
+        <name>Товар 5287852</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10697997">
+        <name>Товар 10697997</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9900335">
+        <name>Товар 9900335</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="1373473">
+        <name>Товар 1373473</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="4736538">
+        <name>Товар 4736538</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9604639">
+        <name>Товар 9604639</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="1003802">
+        <name>Товар 1003802</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9898288">
+        <name>Товар 9898288</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="3014875">
+        <name>Товар 3014875</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="2267864">
+        <name>Товар 2267864</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10732488">
+        <name>Товар 10732488</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10494024">
+        <name>Товар 10494024</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="4072188">
+        <name>Товар 4072188</name>
+        <oshiptag color="blue">бонд 32 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10145295">
+        <name>Товар 10145295</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10613672">
+        <name>Товар 10613672</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9705577">
+        <name>Товар 9705577</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10603449">
+        <name>Товар 10603449</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="2255006">
+        <name>Товар 2255006</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="1301869">
+        <name>Товар 1301869</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7472738">
+        <name>Товар 7472738</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="2704470">
+        <name>Товар 2704470</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9335800">
+        <name>Товар 9335800</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9335800">
+        <name>Товар 9335800</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9879101">
+        <name>Товар 9879101</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7104945">
+        <name>Товар 7104945</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="6958159">
+        <name>Товар 6958159</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7500311">
+        <name>Товар 7500311</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10772393">
+        <name>Товар 10772393</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="4782750">
+        <name>Товар 4782750</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="1740075">
+        <name>Товар 1740075</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9514464">
+        <name>Товар 9514464</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9304071">
+        <name>Товар 9304071</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="4409961">
+        <name>Товар 4409961</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10772386">
+        <name>Товар 10772386</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="3876329">
+        <name>Товар 3876329</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9909383">
+        <name>Товар 9909383</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9500094">
+        <name>Товар 9500094</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="2624325">
+        <name>Товар 2624325</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10474913">
+        <name>Товар 10474913</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="6870357">
+        <name>Товар 6870357</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7098771">
+        <name>Товар 7098771</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10687051">
+        <name>Товар 10687051</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9448857">
+        <name>Товар 9448857</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10068847">
+        <name>Товар 10068847</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9716279">
+        <name>Товар 9716279</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="596016">
+        <name>Товар 596016</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7829722">
+        <name>Товар 7829722</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7070781">
+        <name>Товар 7070781</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="825490">
+        <name>Товар 825490</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="825490">
+        <name>Товар 825490</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7644100">
+        <name>Товар 7644100</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9923023">
+        <name>Товар 9923023</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10830227">
+        <name>Товар 10830227</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9671977">
+        <name>Товар 9671977</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="3539161">
+        <name>Товар 3539161</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="5365293">
+        <name>Товар 5365293</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9798471">
+        <name>Товар 9798471</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9691800">
+        <name>Товар 9691800</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="5422816">
+        <name>Товар 5422816</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9912252">
+        <name>Товар 9912252</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9918169">
+        <name>Товар 9918169</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="4588006">
+        <name>Товар 4588006</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10603191">
+        <name>Товар 10603191</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="5387671">
+        <name>Товар 5387671</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="1372665">
+        <name>Товар 1372665</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7119138">
+        <name>Товар 7119138</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="1220280">
+        <name>Товар 1220280</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="6625745">
+        <name>Товар 6625745</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9237001">
+        <name>Товар 9237001</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="4803537">
+        <name>Товар 4803537</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="5260214">
+        <name>Товар 5260214</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9825579">
+        <name>Товар 9825579</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10146883">
+        <name>Товар 10146883</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="5330159">
+        <name>Товар 5330159</name>
+        <oshiptag color="blue">дарм 61 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7567389">
+        <name>Товар 7567389</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10670632">
+        <name>Товар 10670632</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9258601">
+        <name>Товар 9258601</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9258602">
+        <name>Товар 9258602</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="2333384">
+        <name>Товар 2333384</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9365061">
+        <name>Товар 9365061</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9337937">
+        <name>Товар 9337937</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9337937">
+        <name>Товар 9337937</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9337937">
+        <name>Товар 9337937</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9596196">
+        <name>Товар 9596196</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9905671">
+        <name>Товар 9905671</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9905670">
+        <name>Товар 9905670</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9905673">
+        <name>Товар 9905673</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7403568">
+        <name>Товар 7403568</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10033186">
+        <name>Товар 10033186</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10033186">
+        <name>Товар 10033186</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="4973213">
+        <name>Товар 4973213</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9653168">
+        <name>Товар 9653168</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10254574">
+        <name>Товар 10254574</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="1013772">
+        <name>Товар 1013772</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10740397">
+        <name>Товар 10740397</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9586837">
+        <name>Товар 9586837</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="4462046">
+        <name>Товар 4462046</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10341063">
+        <name>Товар 10341063</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10136891">
+        <name>Товар 10136891</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10136891">
+        <name>Товар 10136891</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="289242">
+        <name>Товар 289242</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="6881394">
+        <name>Товар 6881394</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="6881394">
+        <name>Товар 6881394</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="6881394">
+        <name>Товар 6881394</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="6881394">
+        <name>Товар 6881394</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="6881394">
+        <name>Товар 6881394</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="6881394">
+        <name>Товар 6881394</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="6881394">
+        <name>Товар 6881394</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="6881394">
+        <name>Товар 6881394</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="6881394">
+        <name>Товар 6881394</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="6881394">
+        <name>Товар 6881394</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10711527">
+        <name>Товар 10711527</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10767496">
+        <name>Товар 10767496</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10767496">
+        <name>Товар 10767496</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10165707">
+        <name>Товар 10165707</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7567386">
+        <name>Товар 7567386</name>
+        <oshiptag color="blue">тлгк 42 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7516468">
+        <name>Товар 7516468</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="4569778">
+        <name>Товар 4569778</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="5060606">
+        <name>Товар 5060606</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10404974">
+        <name>Товар 10404974</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="4740788">
+        <name>Товар 4740788</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7102027">
+        <name>Товар 7102027</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="3556866">
+        <name>Товар 3556866</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="1553417">
+        <name>Товар 1553417</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="4047886">
+        <name>Товар 4047886</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="2450393">
+        <name>Товар 2450393</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9616845">
+        <name>Товар 9616845</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="3744241">
+        <name>Товар 3744241</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9558043">
+        <name>Товар 9558043</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10325495">
+        <name>Товар 10325495</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7142068">
+        <name>Товар 7142068</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10453519">
+        <name>Товар 10453519</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9826956">
+        <name>Товар 9826956</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="1580324">
+        <name>Товар 1580324</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9765541">
+        <name>Товар 9765541</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9044133">
+        <name>Товар 9044133</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9086113">
+        <name>Товар 9086113</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7577121">
+        <name>Товар 7577121</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7577121">
+        <name>Товар 7577121</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7577121">
+        <name>Товар 7577121</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10039554">
+        <name>Товар 10039554</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="3876327">
+        <name>Товар 3876327</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9895175">
+        <name>Товар 9895175</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="1218185">
+        <name>Товар 1218185</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7509179">
+        <name>Товар 7509179</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9824834">
+        <name>Товар 9824834</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9941839">
+        <name>Товар 9941839</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9817141">
+        <name>Товар 9817141</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="2043855">
+        <name>Товар 2043855</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="2043855">
+        <name>Товар 2043855</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10068789">
+        <name>Товар 10068789</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="5235800">
+        <name>Товар 5235800</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9905673">
+        <name>Товар 9905673</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9938849">
+        <name>Товар 9938849</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9445806">
+        <name>Товар 9445806</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9216725">
+        <name>Товар 9216725</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9216725">
+        <name>Товар 9216725</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="5010635">
+        <name>Товар 5010635</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="4936500">
+        <name>Товар 4936500</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="3548656">
+        <name>Товар 3548656</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7534435">
+        <name>Товар 7534435</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10665499">
+        <name>Товар 10665499</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="4366750">
+        <name>Товар 4366750</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10516189">
+        <name>Товар 10516189</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10664804">
+        <name>Товар 10664804</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="5287852">
+        <name>Товар 5287852</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="452860">
+        <name>Товар 452860</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9061761">
+        <name>Товар 9061761</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9893549">
+        <name>Товар 9893549</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9683174">
+        <name>Товар 9683174</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="1595983">
+        <name>Товар 1595983</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="1595983">
+        <name>Товар 1595983</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10648423">
+        <name>Товар 10648423</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7696210">
+        <name>Товар 7696210</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9909010">
+        <name>Товар 9909010</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="2457177">
+        <name>Товар 2457177</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9785477">
+        <name>Товар 9785477</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10767506">
+        <name>Товар 10767506</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10791189">
+        <name>Товар 10791189</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10791189">
+        <name>Товар 10791189</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7656468">
+        <name>Товар 7656468</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10705541">
+        <name>Товар 10705541</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="4175897">
+        <name>Товар 4175897</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="4295649">
+        <name>Товар 4295649</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="4593396">
+        <name>Товар 4593396</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7656075">
+        <name>Товар 7656075</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10583217">
+        <name>Товар 10583217</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10583234">
+        <name>Товар 10583234</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7485971">
+        <name>Товар 7485971</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9759336">
+        <name>Товар 9759336</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7819676">
+        <name>Товар 7819676</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10167632">
+        <name>Товар 10167632</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10167632">
+        <name>Товар 10167632</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9653122">
+        <name>Товар 9653122</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9603030">
+        <name>Товар 9603030</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="2334426">
+        <name>Товар 2334426</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="2872014">
+        <name>Товар 2872014</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="2872013">
+        <name>Товар 2872013</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10683239">
+        <name>Товар 10683239</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10683242">
+        <name>Товар 10683242</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7869236">
+        <name>Товар 7869236</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7869215">
+        <name>Товар 7869215</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9945548">
+        <name>Товар 9945548</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7389907">
+        <name>Товар 7389907</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7139548">
+        <name>Товар 7139548</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="5494677">
+        <name>Товар 5494677</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9424682">
+        <name>Товар 9424682</name>
+        <oshiptag color="blue">октн 91 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="5170390">
+        <name>Товар 5170390</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10485739">
+        <name>Товар 10485739</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10612905">
+        <name>Товар 10612905</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="7720643">
+        <name>Товар 7720643</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
       <offer id="10068791">
-        <name>Черенок деревянный, для мотыги под обратный всад, d=40 мм, длина 120 см, первый сорт, Greengo</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900100687911</barcode>
-        <barcode>6900100687917</barcode>
+        <name>Товар 10068791</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="9845827">
-        <name>Шлем открытый с двумя визорами, размер L (59-60), модель - BLd=708E, серый глянцевый</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2909845827002</barcode>
-        <barcode>6909845827008</barcode>
+      <offer id="10724784">
+        <name>Товар 10724784</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10724784">
+        <name>Товар 10724784</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9111670">
+        <name>Товар 9111670</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9111670">
+        <name>Товар 9111670</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9111670">
+        <name>Товар 9111670</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9111670">
+        <name>Товар 9111670</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9111670">
+        <name>Товар 9111670</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10240276">
+        <name>Товар 10240276</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9730854">
+        <name>Товар 9730854</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9912855">
+        <name>Товар 9912855</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9197340">
+        <name>Товар 9197340</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="3746918">
+        <name>Товар 3746918</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="4145451">
+        <name>Товар 4145451</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9197343">
+        <name>Товар 9197343</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="3746918">
+        <name>Товар 3746918</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="4145451">
+        <name>Товар 4145451</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="9197343">
+        <name>Товар 9197343</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
       <offer id="9098155">
-        <name>Стакан гранёный непробиваемый «Военный», 250 мл</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900090981556</barcode>
-        <barcode>6900090981552</barcode>
+        <name>Товар 9098155</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="9872493">
-        <name>Кепка детская MINAKU "Мишка" беж, р-р 48-50</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2909872493003</barcode>
-        <barcode>4650338459269</barcode>
-        <barcode>6909872493009</barcode>
+      <offer id="10660349">
+        <name>Товар 10660349</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="9703745">
-        <name>Кронштейн складной для столов и полок ТУНДРА, K001, 2 шт., длина 350 мм, сталь черный</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900097037454</barcode>
-        <barcode>6900097037450</barcode>
+      <offer id="10140486">
+        <name>Товар 10140486</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="9703745">
-        <name>Кронштейн складной для столов и полок ТУНДРА, K001, 2 шт., длина 350 мм, сталь черный</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900097037454</barcode>
-        <barcode>6900097037450</barcode>
+      <offer id="5130722">
+        <name>Товар 5130722</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="9703745">
-        <name>Кронштейн складной для столов и полок ТУНДРА, K001, 2 шт., длина 350 мм, сталь черный</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900097037454</barcode>
-        <barcode>6900097037450</barcode>
+      <offer id="1813717">
+        <name>Товар 1813717</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="9413349">
-        <name>Фигура с кашпо "Афродита" слоновая кость, 85х40х30см</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900094133494</barcode>
-        <barcode>3668221513403</barcode>
-        <barcode>6900094133490</barcode>
+      <offer id="7463394">
+        <name>Товар 7463394</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="10154268">
-        <name>Нож охотничий "Рэмбо", клинок 25см</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900101542684</barcode>
-        <barcode>6900101542680</barcode>
+      <offer id="10670087">
+        <name>Товар 10670087</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="10715419">
-        <name>Набор для рисования</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900107154195</barcode>
-        <barcode>6900107154191</barcode>
+      <offer id="10762683">
+        <name>Товар 10762683</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="9948640">
-        <name>Кепка детская MINAKU "Смайл", цв. синий, р-р 44-46</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900099486403</barcode>
-        <barcode>4650338459443</barcode>
-        <barcode>6900099486409</barcode>
+      <offer id="7426782">
+        <name>Товар 7426782</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="10363755">
-        <name>Бейсболка мужская MINAKU цвет темно-серый , размер 56-58</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900103637555</barcode>
-        <barcode>6900103637551</barcode>
+      <offer id="9626519">
+        <name>Товар 9626519</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="10363706">
-        <name>Бейсболка мужская MINAKU цвет коричневый, размер 58</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900103637067</barcode>
-        <barcode>4650338327094</barcode>
-        <barcode>6900103637063</barcode>
+      <offer id="10824139">
+        <name>Товар 10824139</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="10662574">
-        <name>Сетка сварная с ПВХ покрытием 0,5 х 5 м, ячейка 50 х 50 мм, d=1 мм, металл, "Greengo"</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900106625740</barcode>
-        <barcode>6900106625746</barcode>
+      <offer id="1522068">
+        <name>Товар 1522068</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="10534473">
-        <name>Арена для сражения волчков, диаметр 34 см</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900105344734</barcode>
-        <barcode>6900105344730</barcode>
+      <offer id="1522068">
+        <name>Товар 1522068</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="1935493">
-        <name>Пистолет для монтажной пены ТУНДРА, удлиненный 700 мм, металлический корпус</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900019354935</barcode>
-        <barcode>6900019354931</barcode>
+      <offer id="10789344">
+        <name>Товар 10789344</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="9413349">
-        <name>Фигура с кашпо "Афродита" слоновая кость, 85х40х30см</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900094133494</barcode>
-        <barcode>3668221513403</barcode>
-        <barcode>6900094133490</barcode>
+      <offer id="10789344">
+        <name>Товар 10789344</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="9845826">
-        <name>Шлем открытый с двумя визорами, размер M (57-58), модель - BLd=708E, серый глянцевый</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2909845826005</barcode>
-        <barcode>6909845826001</barcode>
+      <offer id="4171701">
+        <name>Товар 4171701</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="5864092">
-        <name>Пластиковый трафарет для творчества «Часы», шаблон, d-30 см</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2900058640921</barcode>
-        <barcode>6900058640927</barcode>
+      <offer id="10399049">
+        <name>Товар 10399049</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
-      <offer id="9873216">
-        <name>Шпионская игрушка «Лазерная сигнализация», работает от батареек</name>
-        <oshiptag color="yellow">30/05/2025</oshiptag>
-        <oshiptag color="yellow">ПМДК 34шт</oshiptag>
-        <barcode>2909873216007</barcode>
-        <barcode>6909873216003</barcode>
+      <offer id="9937002">
+        <name>Товар 9937002</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10716971">
+        <name>Товар 10716971</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="10133765">
+        <name>Товар 10133765</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
+      </offer>
+      <offer id="5928256">
+        <name>Товар 5928256</name>
+        <oshiptag color="blue">озон 39 шт</oshiptag>
+        <oshiptag color="yellow">31.05.2025</oshiptag>
       </offer>
     </offers>
   </shop>
