@@ -3,9 +3,14 @@
   <shop>
     <offers>
       <offer id="Казиве шипучка 500 гр.">
-        <name>ячейка 1 2041936809846 Казиве шипучка 500 гр.</name>
+        <name>ячейка_1  2041936809846  Казиве шипучка 500 гр.</name>
         <oshiptag color="blue">ячейка 1</oshiptag>
         <barcode>2041936809846</barcode>
+      </offer>
+      <offer id="Казиве шипучка 1 кг">
+        <name>ячейка_2  2041142767787  Казиве шипучка 1 кг</name>
+        <oshiptag color="blue">ячейка 2</oshiptag>
+        <barcode>2041142767787</barcode>
       </offer>
     </offers>
   </shop>
