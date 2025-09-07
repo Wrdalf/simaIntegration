@@ -5,15 +5,27 @@ import time
 import xml.etree.ElementTree as ET
 from datetime import datetime
 import os
+from dotenv import load_dotenv
+import pyperclip
 
-# --- Настройки ---
-API_BASE_URL = "https://www.sima-land.ru/api/v5"
-API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTY3MDU5ODEsImlhdCI6MTc1NjEwMTE4MSwianRpIjo3MDQ3NTcsIm5iZiI6MTc1NjEwMTE4MX0.XWgIIsnUcY3YvKjIqLMyAn0g9WUX2PHVGUUtoM071Sk"
-MAX_REQUESTS_PER_SECOND = 75
-MAX_ERRORS_PER_10_SECONDS = 50
-SAVE_INTERVAL = 10
+# --- Загрузка .env ---
+if not os.path.exists(".env"):
+    with open(".env", "w") as f:
+        f.write("API_KEY=ваш_токен")
+    messagebox.showinfo("Настройка", "Создан файл .env. Введите API-ключ и перезапустите.")
+    exit()
+
+load_dotenv()
+API_KEY = os.getenv("API_KEY")
+
+if not API_KEY or API_KEY == "ваш_токен":
+    messagebox.showerror("Ошибка", "Заполните API_KEY в файле .env")
+    exit()
 
 # --- Глобальные переменные ---
+
+
+
 request_count = 0
 error_count = 0
 start_time = time.time()
@@ -99,7 +111,7 @@ main_container.rowconfigure(0, weight=1)
 left_frame = ttk.Frame(main_container, style="Card.TFrame")
 left_frame.grid(row=0, column=0, sticky="nsew", padx=(0, 10), ipadx=5, ipady=5)
 
-ttk.Label(left_frame, text="📋 Введите артикулы (по одному на строку):", font=("Segoe UI", 14, "bold")).pack(anchor="w", padx=10, pady=(10, 5))
+ttk.Label(left_frame, text="📋 Введите артикулы:", font=("Segoe UI", 14, "bold")).pack(anchor="w", padx=10, pady=(10, 5))
 text_area = tk.Text(
     left_frame,
     height=12,
@@ -131,12 +143,11 @@ Tooltip(add_btn, "Создать сборку из введённых артик
 right_frame = ttk.Frame(main_container, style="Card.TFrame")
 right_frame.grid(row=0, column=1, sticky="nsew", padx=(10, 0), ipadx=5, ipady=5)
 
-ttk.Label(right_frame, text="📦 Сборки", font=("Segoe UI", 18, "bold")).pack(anchor="w", padx=10, pady=(10, 5))
+ttk.Label(right_frame, text="📦 Сборки", font=("Segoe UI", 14, "bold")).pack(anchor="w", padx=10, pady=(10, 5))
 
 collections_frame = tk.Frame(right_frame, bg="#2d2d2d")
 collections_frame.pack(fill=tk.BOTH, expand=True, padx=10, pady=5)
 
-# Структура: (tag=дата, name=название_сборки, articles)
 collections = []
 
 def update_collections():
@@ -153,7 +164,6 @@ def update_collections():
         item_frame.pack(fill=tk.X, pady=4)
         item_frame.pack_propagate(False)
 
-        # Тег (дата)
         tag_label = tk.Label(
             item_frame,
             text=f" {tag} ",
@@ -165,7 +175,6 @@ def update_collections():
         )
         tag_label.pack(side=tk.LEFT, padx=10, pady=5)
 
-        # Название сборки
         name_label = tk.Label(
             item_frame,
             text=name,
@@ -175,7 +184,6 @@ def update_collections():
         )
         name_label.pack(side=tk.LEFT, padx=10)
 
-        # Количество артикулов
         count_label = tk.Label(
             item_frame,
             text=f"{len(articles)} арт.",
@@ -185,11 +193,10 @@ def update_collections():
         )
         count_label.pack(side=tk.LEFT, padx=10)
 
-        # Кнопка удаления
         delete_btn = tk.Button(
             item_frame,
             text="✕",
-            bg="#d41e30",
+            bg="#dc3545",
             fg="white",
             font=("Segoe UI", 14),
             relief="flat",
@@ -226,33 +233,22 @@ def open_api_window():
     api_window.transient(root)
     api_window.grab_set()
 
-    ttk.Label(api_window, text="API-токен:", font=("Segoe UI", 12)).pack(pady=15)
-    api_entry = ttk.Entry(api_window, width=40, show="•", font=("Consolas", 12))
-    api_entry.insert(0, API_KEY)
-    api_entry.pack(pady=5)
+    ttk.Label(api_window, text="API-токен (не сохраняется в коде):", font=("Segoe UI", 12)).pack(pady=10)
+    ttk.Label(api_window, text="Хранится в .env — не виден в GitHub", foreground="#bbb", font=("Segoe UI", 10)).pack()
 
-    def save_token():
-        global API_KEY
-        new_token = api_entry.get().strip()
-        if new_token:
-            API_KEY = new_token
-            log_action("🔑 API-токен обновлён")
-            api_window.destroy()
-        else:
-            messagebox.showwarning("Ошибка", "Токен не может быть пустым!")
+    def open_env():
+        os.system("notepad .env")  # Для Windows
+        messagebox.showinfo("Готово", "Отредактируйте .env и перезапустите приложение")
 
-    ttk.Button(api_window, text="💾 Сохранить", command=save_token, style="Success.TButton").pack(pady=15)
-    Tooltip(ttk.Button, "Сохранить API-ключ")
+    ttk.Button(api_window, text="✏️ Открыть .env", command=open_env, style="Accent.TButton").pack(pady=20)
 
 # --- Добавление сборки ---
 def add_collection():
     articles_text = text_area.get("1.0", tk.END).strip()
     if not articles_text:
-        messagebox.showwarning("⚠️ Внимание", "Введите хотя бы один артикул!")
+        messagebox.showwarning("⚠️", "Введите артикулы!")
         return
-
     articles = [line.strip() for line in articles_text.splitlines() if line.strip()]
-
     tag_window = tk.Toplevel(root)
     tag_window.title("➕ Новая сборка")
     tag_window.geometry("300x150")
@@ -260,27 +256,21 @@ def add_collection():
     tag_window.configure(bg="#1e1e1e")
     tag_window.transient(root)
     tag_window.grab_set()
-
-    ttk.Label(tag_window, text="Название сборки (до 10 символов):", font=("Segoe UI", 12)).pack(pady=10)
+    ttk.Label(tag_window, text="Название сборки (до 10 симв.):", font=("Segoe UI", 12)).pack(pady=10)
     name_entry = ttk.Entry(tag_window, width=20, font=("Segoe UI", 12))
     name_entry.pack(pady=5)
-
     def save_tag():
         name = name_entry.get().strip()[:10]
         if not name:
-            messagebox.showwarning("Ошибка", "Введите название сборки!")
+            messagebox.showwarning("Ошибка", "Введите название!")
             return
-
-        tag = datetime.now().strftime("%d.%m.%y")  # Формат: 31.07.25
+        tag = datetime.now().strftime("%d.%m.%y")
         collections.append((tag, name, articles))
         update_collections()
-        text_area.delete("1.0", tk.END)  # ✅ Очистка поля после добавления
+        text_area.delete("1.0", tk.END)
         log_action(f"✅ Сборка '{name}' добавлена ({len(articles)} арт.)")
         tag_window.destroy()
-
-    create_btn = ttk.Button(tag_window, text="Создать сборку", command=save_tag, style="Success.TButton")
-    create_btn.pack(pady=10)
-    Tooltip(create_btn, "Добавить эту группу артикулов как сборку")
+    ttk.Button(tag_window, text="Создать сборку", command=save_tag, style="Success.TButton").pack(pady=10)
 
 # --- Нижняя панель ---
 bottom_container = tk.Frame(root, bg="#1e1e1e")
@@ -289,41 +279,33 @@ bottom_container.pack(fill=tk.X, padx=20, pady=(0, 10))
 action_frame = tk.Frame(bottom_container, bg="#1e1e1e")
 action_frame.pack(fill=tk.X, pady=(0, 10))
 
-btn_open = ttk.Button(
+ttk.Button(
     action_frame,
     text="📂 Открыть выгрузку",
     command=lambda: open_input_file(),
     style="Accent.TButton"
-)
-btn_open.pack(side=tk.LEFT, padx=5)
-Tooltip(btn_open, "Загрузить артикулы из файла")
+).pack(side=tk.LEFT, padx=5)
 
-btn_dir = ttk.Button(
+ttk.Button(
     action_frame,
     text="📍 Путь сохранения",
     command=lambda: select_output_dir(),
     style="Accent.TButton"
-)
-btn_dir.pack(side=tk.LEFT, padx=5)
-Tooltip(btn_dir, "Выбрать папку для сохранения")
+).pack(side=tk.LEFT, padx=5)
 
-btn_api = ttk.Button(
+ttk.Button(
     action_frame,
     text="🔑 API-токен",
     command=open_api_window,
     style="Accent.TButton"
-)
-btn_api.pack(side=tk.LEFT, padx=5)
-Tooltip(btn_api, "Изменить API-ключ")
+).pack(side=tk.LEFT, padx=5)
 
-btn_download = ttk.Button(
+ttk.Button(
     action_frame,
     text="📤 Загрузить шк",
     command=lambda: start_download(),
     style="Warning.TButton"
-)
-btn_download.pack(side=tk.RIGHT, padx=5)
-Tooltip(btn_download, "Загрузить штрихкоды для всех артикулов")
+).pack(side=tk.RIGHT, padx=5)
 
 # --- Логи ---
 log_container = ttk.Frame(root, style="Log.TFrame")
@@ -345,51 +327,49 @@ log_text = tk.Text(
 )
 log_text.pack(padx=10, pady=5, fill=tk.X)
 
-# --- Пути по умолчанию ---
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))  # Папка с самим скриптом
-current_output_dir = BASE_DIR  # Сохраняем в simaIntegration/
+# --- Пути ---
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(BASE_DIR, "data")
+os.makedirs(DATA_DIR, exist_ok=True)
+
+current_output_dir = DATA_DIR  # input.txt и output.txt → в data/
+yml_output_path = DATA_DIR  # По умолчанию
 
 # --- Функции ---
 def open_input_file():
-    path = filedialog.askopenfilename(title="Выберите файл с артикулами", filetypes=[("Text files", "*.txt")])
+    path = filedialog.askopenfilename(filetypes=[("Text", "*.txt")])
     if path:
         try:
             with open(path, "r", encoding="utf-8") as f:
-                content = f.read()
                 text_area.delete("1.0", tk.END)
-                text_area.insert("1.0", content)
-            log_action(f"📄 Загружен файл: {os.path.basename(path)}")
+                text_area.insert("1.0", f.read())
+            log_action(f"📄 Загружен: {os.path.basename(path)}")
         except Exception as e:
-            messagebox.showerror("Ошибка", f"Не удалось прочитать файл: {e}")
+            messagebox.showerror("Ошибка", f"Чтение: {e}")
 
 def select_output_dir():
-    global current_output_dir
-    path = filedialog.askdirectory(title="Выберите папку для сохранения")
+    global yml_output_path
+    path = filedialog.askdirectory(initialdir=DATA_DIR, title="Где сохранить output.yml?")
     if path:
-        current_output_dir = path
-        log_action(f"📁 Путь сохранения: {path}")
+        yml_output_path = path
+        log_action(f"📁 Путь для output.yml: {path}")
 
 def get_item_data(sid):
     global request_count, error_count, start_time, error_start_time
-    url = f"{API_BASE_URL}/item/{sid}?by_sid=true"
+    url = f"https://www.sima-land.ru/api/v5/item/{sid}?by_sid=true"
     headers = {"X-Api-Key": API_KEY, "Content-Type": "application/json"}
     current_time = time.time()
-
-    if request_count >= MAX_REQUESTS_PER_SECOND:
+    if request_count >= 75:
         elapsed = current_time - start_time
         if elapsed < 1.0:
             time.sleep(1.0 - elapsed)
         request_count = 0
         start_time = time.time()
-
-    if error_count >= MAX_ERRORS_PER_10_SECONDS - 5:
+    if error_count >= 45:
         if current_time - error_start_time < 10.0:
-            sleep_time = 10.0 - (current_time - error_start_time)
-            log_action(f"⏸️ Ограничение ошибок: ждём {sleep_time:.2f} сек...")
-            time.sleep(sleep_time)
+            time.sleep(10.0 - (current_time - error_start_time))
         error_count = 0
         error_start_time = time.time()
-
     try:
         response = requests.get(url, headers=headers, timeout=3)
         request_count += 1
@@ -405,98 +385,70 @@ def get_item_data(sid):
         error_count += 1
         if error_count == 1:
             error_start_time = time.time()
-        log_action(f"⚠️ Ошибка запроса {sid}: {str(e)}")
+        log_action(f"⚠️ Ошибка {sid}: {str(e)}")
         return None
 
 def start_download():
-    # Все артикулы: из сборок + из текстового поля
-    all_articles = []
-
-    # Из сборок
-    for _, name, articles in collections:
-        all_articles.extend(articles)
-
-    # Из текстового поля
-    extra_articles = [line.strip() for line in text_area.get("1.0", tk.END).strip().splitlines() if line.strip()]
-    all_articles.extend(extra_articles)
-
+    all_articles = [line.strip() for line in text_area.get("1.0", tk.END).strip().splitlines() if line.strip()]
+    for _, _, arts in collections:
+        all_articles.extend(arts)
+    all_articles = list(dict.fromkeys(all_articles))
     if not all_articles:
-        messagebox.showwarning("⚠️", "Нет артикулов для загрузки!")
+        messagebox.showwarning("⚠️", "Нет артикулов!")
         return
 
-    # Убираем дубли
-    all_articles = list(dict.fromkeys(all_articles))  # Сохраняет порядок
+    log_action(f"🚀 Загрузка для {len(all_articles)} арт...")
 
-    log_action(f"🚀 Начинаем загрузку штрихкодов для {len(all_articles)} артикулов...")
-
-    #input_path = os.path.join(current_output_dir, "input.txt")
-    #output_path = os.path.join(current_output_dir, "output.txt")
-
-    input_path = os.path.join("input.txt")
-    output_path = os.path.join("output.txt")
+    input_path = os.path.join(DATA_DIR, "input.txt")
+    output_path = os.path.join(DATA_DIR, "output.txt")
 
     try:
-        os.makedirs(current_output_dir, exist_ok=True)
         with open(input_path, "w", encoding="utf-8") as f:
             f.write("\n".join(all_articles))
-        log_action(f"📄 input.txt сохранён ({len(all_articles)} арт.)")
+        log_action("📄 input.txt сохранён")
 
         buffer = []
-        processed = 0
-
         for sid in all_articles:
             item_data = get_item_data(sid)
-            if item_data:  # ✅ Исправлено: полное условие
+            if item_data:
                 min_qty = str(item_data.get("minimum_order_quantity", "1"))
                 name = item_data.get("name", "Не указано")
                 barcodes = item_data.get("barcodes", [])
                 line = f"{min_qty}|{sid}|{name}|{'|'.join(barcodes) if barcodes else 'Нет штрихкодов'}\n"
                 buffer.append(line)
-                processed += 1
 
-                if processed % SAVE_INTERVAL == 0:
-                    with open(output_path, "a", encoding="utf-8") as f:
-                        f.writelines(buffer)
-                    buffer.clear()
-                    log_action(f"✅ Сохранено {processed} артикулов")
+        with open(output_path, "w", encoding="utf-8") as f:
+            f.writelines(buffer)
+        log_action("✅ output.txt сохранён")
 
-        if buffer:
-            with open(output_path, "a", encoding="utf-8") as f:
-                f.writelines(buffer)
-            log_action(f"✅ Финальные данные сохранены")
-
-        log_action("✅ Загрузка завершена! Генерируем YML...")
         create_yml_from_last_output(all_articles)
 
     except Exception as e:
         log_action(f"❌ Ошибка: {str(e)}")
 
 def create_yml_from_last_output(all_articles):
-    input_path = os.path.join(current_output_dir, "output.txt")
-    yml_path = os.path.join(current_output_dir, "output.yml")
+    input_path = os.path.join(DATA_DIR, "output.txt")
+    yml_path = os.path.join(yml_output_path, "output.yml")
 
-    # Маппинг: sid → min_qty, name, barcodes
     item_data_map = {}
     try:
         with open(input_path, "r", encoding="utf-8") as f:
             for line in f:
                 parts = line.strip().split("|")
-                if len(parts) < 4:
-                    continue
-                min_qty, sid, name = parts[0], parts[1], parts[2]
-                barcodes = parts[3:] if parts[3] != "Нет штрихкодов" else []
-                item_data_map[sid] = {
-                    "min_qty": min_qty,
-                    "name": name,
-                    "barcodes": barcodes
-                }
+                if len(parts) >= 4:
+                    item_data_map[parts[1]] = {
+                        "min_qty": parts[0],
+                        "name": parts[2],
+                        "barcodes": parts[3:] if parts[3] != "Нет штрихкодов" else []
+                    }
     except Exception as e:
-        log_action(f"❌ Ошибка чтения output.txt: {str(e)}")
+        log_action(f"❌ Чтение output.txt: {str(e)}")
         return
 
     root_elem = ET.Element("yml_catalog", date=datetime.utcnow().isoformat() + "+00:00")
     shop = ET.SubElement(root_elem, "shop")
     offers = ET.SubElement(shop, "offers")
+    current_date_tag = datetime.now().strftime("%d.%m.%y")
 
     for sid in all_articles:
         if sid not in item_data_map:
@@ -505,30 +457,24 @@ def create_yml_from_last_output(all_articles):
         offer = ET.SubElement(offers, "offer", id=sid)
         ET.SubElement(offer, "name").text = data["name"]
 
-        # Добавляем теги для каждой сборки, в которой есть этот артикул
         for tag, name, articles in collections:
             if sid in articles:
-                # Тег с названием (жёлтый)
-                oshiptag_name = ET.SubElement(offer, "oshiptag")
-                oshiptag_name.set("color", "yellow")
-                oshiptag_name.text = name
+                t = ET.SubElement(offer, "oshiptag")
+                t.set("color", "yellow")
+                t.text = name
+                t = ET.SubElement(offer, "oshiptag")
+                t.set("color", "blue")
+                t.text = tag
 
-                # Тег с датой (синий) — раскомментируй, если нужен
-                oshiptag_date = ET.SubElement(offer, "oshiptag")
-                oshiptag_date.set("color", "blue")
-                oshiptag_date.text = tag  # например: 31.07.25
-
-        # Всегда добавляем min_qty > 1 (зелёный)
         try:
             min_qty_int = int(data["min_qty"])
             if min_qty_int > 1:
-                oshiptag = ET.SubElement(offer, "oshiptag")
-                oshiptag.set("color", "green")
-                oshiptag.text = str(min_qty_int)[:10]
+                t = ET.SubElement(offer, "oshiptag")
+                t.set("color", "green")
+                t.text = str(min_qty_int)[:10]
         except ValueError:
             pass
 
-        # Штрихкоды
         for barcode in data["barcodes"]:
             ET.SubElement(offer, "barcode").text = barcode
 
@@ -536,6 +482,51 @@ def create_yml_from_last_output(all_articles):
     ET.indent(tree, space="  ")
     tree.write(yml_path, encoding="utf-8", xml_declaration=True)
     log_action(f"✅ YML сохранён: {yml_path}")
+
+    # ✅ Окно с действиями после создания
+    show_post_save_window(yml_path)
+
+def show_post_save_window(yml_path):
+    win = tk.Toplevel(root)
+    win.title("✅ Файл готов")
+    win.geometry("400x200")
+    win.resizable(False, False)
+    win.configure(bg="#1e1e1e")
+    win.transient(root)
+    win.grab_set()
+
+    ttk.Label(win, text="output.yml создан!", font=("Segoe UI", 16, "bold")).pack(pady=20)
+
+    with open(yml_path, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    ttk.Button(
+        win,
+        text="📋 Скопировать в буфер",
+        command=lambda: [pyperclip.copy(content), messagebox.showinfo("Готово", "Скопировано в буфер!"), win.destroy()],
+        style="Success.TButton"
+    ).pack(pady=5)
+
+    ttk.Button(
+        win,
+        text="💾 Сохранить как .txt",
+        command=lambda: save_as_txt(content),
+        style="Accent.TButton"
+    ).pack(pady=5)
+
+def save_as_txt(content):
+    path = filedialog.asksaveasfilename(
+        defaultextension=".txt",
+        filetypes=[("Text files", "*.txt")],
+        title="Сохранить как .txt"
+    )
+    if path:
+        try:
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(content)
+            messagebox.showinfo("Готово", f"Файл сохранён: {path}")
+        except Exception as e:
+            messagebox.showerror("Ошибка", f"Не удалось сохранить: {e}")
 
 # --- Инициализация ---
 update_collections()

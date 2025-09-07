@@ -1,0 +1,24 @@
+# Виртуальное окружение
+venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Секреты
+.env
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Системные
+.DS_Store
+Thumbs.db
+
+# Данные
+data/*.txt
+data/*.yml
+!data/.gitkeep
